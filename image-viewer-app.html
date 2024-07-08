@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Viewer</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: white;
+        }
+        #app {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        #promptBox {
+            background-color: #333;
+            padding: 10px;
+            font-size: 18px;
+            text-align: center;
+        }
+        #imageGrid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        .imageContainer {
+            width: calc(33% - 10px);
+            height: 0;
+            padding-bottom: calc(33% - 10px);
+            margin-bottom: 20px;
+            position: relative;
+            background-color: #333;
+            cursor: pointer;
+        }
+        .imageContainer img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+        .subfolderLabel {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        #controls {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+        }
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #lightbox {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.9);
+        }
+        #lightboxImage {
+            max-width: 90%;
+            max-height: 90%;
+            margin: auto;
+            display: block;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <div id="promptBox"></div>
+        <div id="imageGrid"></div>
+        <div id="controls">
+            <button id="prevPrompt">Previous Prompt</button>
+            <button id="nextPrompt">Next Prompt</button>
+        </div>
+    </div>
+    <div id="lightbox">
+        <img id="lightboxImage" src="" alt="Lightbox image">
+    </div>
+
+    <script>
+        let data = [];
+        let currentPromptIndex = 0;
+        let currentImageIndex = 0;
+        let isLightboxOpen = false;
+
+        const promptBox = document.getElementById('promptBox');
+        const imageGrid = document.getElementById('imageGrid');
+        const prevButton = document.getElementById('prevPrompt');
+        const nextButton = document.getElementById('nextPrompt');
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImage = document.getElementById('lightboxImage');
+
+        fetch('image_data.json')
+            .then(response => response.json())
+            .then(jsonData => {
+                data = jsonData;
+                showCurrentPrompt();
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+
+        function showCurrentPrompt() {
+            if (data.length === 0) return;
+            
+            const currentPrompt = data[currentPromptIndex];
+            promptBox.textContent = currentPrompt.prompt;
+            
+            imageGrid.innerHTML = '';
+            currentPrompt.images.forEach((image, index) => {
+                const container = document.createElement('div');
+                container.className = 'imageContainer';
+                container.innerHTML = `
+                    <img src="${image.path}" alt="Image">
+                    <div class="subfolderLabel">${image.subfolder}</div>
+                `;
+                container.addEventListener('click', () => openLightbox(index));
+                imageGrid.appendChild(container);
+            });
+        }
+
+        function showNextPrompt() {
+            if (data.length === 0) return;
+            currentPromptIndex = (currentPromptIndex + 1) % data.length;
+            currentImageIndex = 0;
+            showCurrentPrompt();
+        }
+
+        function showPrevPrompt() {
+            if (data.length === 0) return;
+            currentPromptIndex = (currentPromptIndex - 1 + data.length) % data.length;
+            currentImageIndex = 0;
+            showCurrentPrompt();
+        }
+
+        function openLightbox(index) {
+            currentImageIndex = index;
+            updateLightboxImage();
+            lightbox.style.display = 'block';
+            isLightboxOpen = true;
+        }
+
+        function closeLightbox() {
+            lightbox.style.display = 'none';
+            isLightboxOpen = false;
+        }
+
+        function updateLightboxImage() {
+            const currentPrompt = data[currentPromptIndex];
+            lightboxImage.src = currentPrompt.images[currentImageIndex].path;
+        }
+
+        function nextImage() {
+            const currentPrompt = data[currentPromptIndex];
+            currentImageIndex = (currentImageIndex + 1) % currentPrompt.images.length;
+            updateLightboxImage();
+        }
+
+        function prevImage() {
+            const currentPrompt = data[currentPromptIndex];
+            currentImageIndex = (currentImageIndex - 1 + currentPrompt.images.length) % currentPrompt.images.length;
+            updateLightboxImage();
+        }
+
+        nextButton.addEventListener('click', showNextPrompt);
+        prevButton.addEventListener('click', showPrevPrompt);
+
+        lightbox.addEventListener('click', closeLightbox);
+
+        document.addEventListener('keydown', (e) => {
+            if (isLightboxOpen) {
+                switch(e.key) {
+                    case 'ArrowUp':
+                    case 'ArrowDown':
+                        e.preventDefault();
+                        if (e.key === 'ArrowUp') prevImage();
+                        else nextImage();
+                        break;
+                    case 'Escape':
+                        closeLightbox();
+                        break;
+                }
+            } else {
+                switch(e.key) {
+                    case 'ArrowLeft':
+                        showPrevPrompt();
+                        break;
+                    case 'ArrowRight':
+                        showNextPrompt();
+                        break;
+                    case 'ArrowUp':
+                    case 'ArrowDown':
+                        e.preventDefault();
+                        openLightbox(0);
+                        break;
+                }
+            }
+        });
+    </script>
+</body>
+</html>
