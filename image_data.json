@@ -3,2002 +3,2452 @@
     "prompt": "Serene close-up beauty shots of a model with freckles and braids wearing a peach ruffled one piece swimsuit, photographed in the style of Mario Testino's tropical backdrops.",
     "images": [
       {
-        "path": "hun/serene-close-up-beauty-shots-of-a-model-with-freck.jpg",
+        "webp_path": "webp_images/hun/serene-close-up-beauty-shots-of-a-model-with-freck.webp",
+        "original_path": "images/hun/serene-close-up-beauty-shots-of-a-model-with-freck.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/serene-close-up-beauty-shots-of-a-model-with-freck.jpg",
+        "webp_path": "webp_images/kolors_out1/serene-close-up-beauty-shots-of-a-model-with-freck.webp",
+        "original_path": "images/kolors_out1/serene-close-up-beauty-shots-of-a-model-with-freck.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/serene-close-up-beauty-shots-of-a-model-with-freck.jpg",
+        "webp_path": "webp_images/sd3b/serene-close-up-beauty-shots-of-a-model-with-freck.webp",
+        "original_path": "images/sd3b/serene-close-up-beauty-shots-of-a-model-with-freck.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/serene-close-up-beauty-shots-of-a-model-with-freck_thumbnail.webp"
   },
   {
     "prompt": "Stunning athletic model Winnie Harlow striking fierce poses in a sleek aqua bikini, dripping wet hair, on the white sand beach reminiscent of Bruce Weber's provocative style.",
     "images": [
       {
-        "path": "hun/stunning-athletic-model-winnie-harlow-striking-fie.jpg",
+        "webp_path": "webp_images/hun/stunning-athletic-model-winnie-harlow-striking-fie.webp",
+        "original_path": "images/hun/stunning-athletic-model-winnie-harlow-striking-fie.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/stunning-athletic-model-winnie-harlow-striking-fie.jpg",
+        "webp_path": "webp_images/kolors_out1/stunning-athletic-model-winnie-harlow-striking-fie.webp",
+        "original_path": "images/kolors_out1/stunning-athletic-model-winnie-harlow-striking-fie.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/stunning-athletic-model-winnie-harlow-striking-fie.jpg",
+        "webp_path": "webp_images/sd3b/stunning-athletic-model-winnie-harlow-striking-fie.webp",
+        "original_path": "images/sd3b/stunning-athletic-model-winnie-harlow-striking-fie.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/stunning-athletic-model-winnie-harlow-striking-fie_thumbnail.webp"
   },
   {
     "prompt": "Model Bella Hadid gazes intensely past the camera wearing a belted burnt orange monokini swimsuit, windswept hair blowing, posed dynamically like in Ellen von Unwerth's fashion images.",
     "images": [
       {
-        "path": "hun/model-bella-hadid-gazes-intensely-past-the-camera-.jpg",
+        "webp_path": "webp_images/hun/model-bella-hadid-gazes-intensely-past-the-camera-.webp",
+        "original_path": "images/hun/model-bella-hadid-gazes-intensely-past-the-camera-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/model-bella-hadid-gazes-intensely-past-the-camera-.jpg",
+        "webp_path": "webp_images/kolors_out1/model-bella-hadid-gazes-intensely-past-the-camera-.webp",
+        "original_path": "images/kolors_out1/model-bella-hadid-gazes-intensely-past-the-camera-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/model-bella-hadid-gazes-intensely-past-the-camera-.jpg",
+        "webp_path": "webp_images/sd3b/model-bella-hadid-gazes-intensely-past-the-camera-.webp",
+        "original_path": "images/sd3b/model-bella-hadid-gazes-intensely-past-the-camera-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/model-bella-hadid-gazes-intensely-past-the-camera-_thumbnail.webp"
   },
   {
     "prompt": "Captivating portrait of model Adut Akech in a flowing floral swimsuit coverup, eyes closed serenely, lit softly by the sunset over the water similar to Paola Kudacki's emotive style.",
     "images": [
       {
-        "path": "hun/captivating-portrait-of-model-adut-akech-in-a-flow.jpg",
+        "webp_path": "webp_images/hun/captivating-portrait-of-model-adut-akech-in-a-flow.webp",
+        "original_path": "images/hun/captivating-portrait-of-model-adut-akech-in-a-flow.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/captivating-portrait-of-model-adut-akech-in-a-flow.jpg",
+        "webp_path": "webp_images/kolors_out1/captivating-portrait-of-model-adut-akech-in-a-flow.webp",
+        "original_path": "images/kolors_out1/captivating-portrait-of-model-adut-akech-in-a-flow.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/captivating-portrait-of-model-adut-akech-in-a-flow.jpg",
+        "webp_path": "webp_images/sd3b/captivating-portrait-of-model-adut-akech-in-a-flow.webp",
+        "original_path": "images/sd3b/captivating-portrait-of-model-adut-akech-in-a-flow.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/captivating-portrait-of-model-adut-akech-in-a-flow_thumbnail.webp"
   },
   {
     "prompt": "Gigi Hadid splashes playfully in the surf, wearing a colorful striped bikini, sun-kissed wet skin, evoking a natural joyful energy reminiscent of Glen Luchford's photography.",
     "images": [
       {
-        "path": "hun/gigi-hadid-splashes-playfully-in-the-surf-wearing-.jpg",
+        "webp_path": "webp_images/hun/gigi-hadid-splashes-playfully-in-the-surf-wearing-.webp",
+        "original_path": "images/hun/gigi-hadid-splashes-playfully-in-the-surf-wearing-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/gigi-hadid-splashes-playfully-in-the-surf-wearing-.jpg",
+        "webp_path": "webp_images/kolors_out1/gigi-hadid-splashes-playfully-in-the-surf-wearing-.webp",
+        "original_path": "images/kolors_out1/gigi-hadid-splashes-playfully-in-the-surf-wearing-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/gigi-hadid-splashes-playfully-in-the-surf-wearing-.jpg",
+        "webp_path": "webp_images/sd3b/gigi-hadid-splashes-playfully-in-the-surf-wearing-.webp",
+        "original_path": "images/sd3b/gigi-hadid-splashes-playfully-in-the-surf-wearing-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/gigi-hadid-splashes-playfully-in-the-surf-wearing-_thumbnail.webp"
   },
   {
     "prompt": "Editorial fashion shots of model Liya Kebede posing atop a surfboard, wearing a sleek black cutout monokini swimsuit, ocean mist in the air, resembling Russell James' vision.",
     "images": [
       {
-        "path": "hun/editorial-fashion-shots-of-model-liya-kebede-posin.jpg",
+        "webp_path": "webp_images/hun/editorial-fashion-shots-of-model-liya-kebede-posin.webp",
+        "original_path": "images/hun/editorial-fashion-shots-of-model-liya-kebede-posin.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/editorial-fashion-shots-of-model-liya-kebede-posin.jpg",
+        "webp_path": "webp_images/kolors_out1/editorial-fashion-shots-of-model-liya-kebede-posin.webp",
+        "original_path": "images/kolors_out1/editorial-fashion-shots-of-model-liya-kebede-posin.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/editorial-fashion-shots-of-model-liya-kebede-posin.jpg",
+        "webp_path": "webp_images/sd3b/editorial-fashion-shots-of-model-liya-kebede-posin.webp",
+        "original_path": "images/sd3b/editorial-fashion-shots-of-model-liya-kebede-posin.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/editorial-fashion-shots-of-model-liya-kebede-posin_thumbnail.webp"
   },
   {
     "prompt": "Seductive beauty shots of model Jasmine Tookes wearing a glittering jewel encrusted purple bikini under the night sky, eyes closed, in the dramatic style of Jean-Baptiste Mondino.",
     "images": [
       {
-        "path": "hun/seductive-beauty-shots-of-model-jasmine-tookes-wea.jpg",
+        "webp_path": "webp_images/hun/seductive-beauty-shots-of-model-jasmine-tookes-wea.webp",
+        "original_path": "images/hun/seductive-beauty-shots-of-model-jasmine-tookes-wea.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/seductive-beauty-shots-of-model-jasmine-tookes-wea.jpg",
+        "webp_path": "webp_images/kolors_out1/seductive-beauty-shots-of-model-jasmine-tookes-wea.webp",
+        "original_path": "images/kolors_out1/seductive-beauty-shots-of-model-jasmine-tookes-wea.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/seductive-beauty-shots-of-model-jasmine-tookes-wea.jpg",
+        "webp_path": "webp_images/sd3b/seductive-beauty-shots-of-model-jasmine-tookes-wea.webp",
+        "original_path": "images/sd3b/seductive-beauty-shots-of-model-jasmine-tookes-wea.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/seductive-beauty-shots-of-model-jasmine-tookes-wea_thumbnail.webp"
   },
   {
     "prompt": "Fierce sandy beach photoshoot with Joan Smalls strutting confidently in a red hot retro bikini and sheer coverup, sunset glow reminiscent of Peter Lindbergh's signature lighting.",
     "images": [
       {
-        "path": "hun/fierce-sandy-beach-photoshoot-with-joan-smalls-str.jpg",
+        "webp_path": "webp_images/hun/fierce-sandy-beach-photoshoot-with-joan-smalls-str.webp",
+        "original_path": "images/hun/fierce-sandy-beach-photoshoot-with-joan-smalls-str.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/fierce-sandy-beach-photoshoot-with-joan-smalls-str.jpg",
+        "webp_path": "webp_images/kolors_out1/fierce-sandy-beach-photoshoot-with-joan-smalls-str.webp",
+        "original_path": "images/kolors_out1/fierce-sandy-beach-photoshoot-with-joan-smalls-str.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/fierce-sandy-beach-photoshoot-with-joan-smalls-str.jpg",
+        "webp_path": "webp_images/sd3b/fierce-sandy-beach-photoshoot-with-joan-smalls-str.webp",
+        "original_path": "images/sd3b/fierce-sandy-beach-photoshoot-with-joan-smalls-str.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/fierce-sandy-beach-photoshoot-with-joan-smalls-str_thumbnail.webp"
   },
   {
     "prompt": "Ethereal island lifestyle photoshoot of Sofia Vergara lounging casually in a printed bandeau bikini, basking in the soft dawn light similar to Arthur Elgort's romantic style.",
     "images": [
       {
-        "path": "hun/ethereal-island-lifestyle-photoshoot-of-sofia-verg.jpg",
+        "webp_path": "webp_images/hun/ethereal-island-lifestyle-photoshoot-of-sofia-verg.webp",
+        "original_path": "images/hun/ethereal-island-lifestyle-photoshoot-of-sofia-verg.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/ethereal-island-lifestyle-photoshoot-of-sofia-verg.jpg",
+        "webp_path": "webp_images/kolors_out1/ethereal-island-lifestyle-photoshoot-of-sofia-verg.webp",
+        "original_path": "images/kolors_out1/ethereal-island-lifestyle-photoshoot-of-sofia-verg.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/ethereal-island-lifestyle-photoshoot-of-sofia-verg.jpg",
+        "webp_path": "webp_images/sd3b/ethereal-island-lifestyle-photoshoot-of-sofia-verg.webp",
+        "original_path": "images/sd3b/ethereal-island-lifestyle-photoshoot-of-sofia-verg.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/ethereal-island-lifestyle-photoshoot-of-sofia-verg_thumbnail.webp"
   },
   {
     "prompt": "Emily Ratajkowski emerges from the crystalline waters in a white ruffled strapless one piece swimsuit resembling Helmut Newton's provocative glamour photography.",
     "images": [
       {
-        "path": "hun/emily-ratajkowski-emerges-from-the-crystalline-wat.jpg",
+        "webp_path": "webp_images/hun/emily-ratajkowski-emerges-from-the-crystalline-wat.webp",
+        "original_path": "images/hun/emily-ratajkowski-emerges-from-the-crystalline-wat.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/emily-ratajkowski-emerges-from-the-crystalline-wat.jpg",
+        "webp_path": "webp_images/kolors_out1/emily-ratajkowski-emerges-from-the-crystalline-wat.webp",
+        "original_path": "images/kolors_out1/emily-ratajkowski-emerges-from-the-crystalline-wat.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/emily-ratajkowski-emerges-from-the-crystalline-wat.jpg",
+        "webp_path": "webp_images/sd3b/emily-ratajkowski-emerges-from-the-crystalline-wat.webp",
+        "original_path": "images/sd3b/emily-ratajkowski-emerges-from-the-crystalline-wat.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/emily-ratajkowski-emerges-from-the-crystalline-wat_thumbnail.webp"
   },
   {
     "prompt": "1. Suki Waterhouse poses playfully in a frilly pink polka dot bikini, hair blowing in the breeze, reminiscent of Tim Walker's whimsical and romantic style.",
     "images": [
       {
-        "path": "hun/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.jpg",
+        "webp_path": "webp_images/hun/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.webp",
+        "original_path": "images/hun/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.jpg",
+        "webp_path": "webp_images/kolors_out1/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.webp",
+        "original_path": "images/kolors_out1/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.jpg",
+        "webp_path": "webp_images/sd3b/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.webp",
+        "original_path": "images/sd3b/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/1-suki-waterhouse-poses-playfully-in-a-frilly-pink_thumbnail.webp"
   },
   {
     "prompt": "2. Stunning portrait of Barbara Palvin rising elegantly from the ocean waters in a sleek black one-piece swimsuit, wet hair slicked back, lit dramaticially like one of Rankin's edgy images.",
     "images": [
       {
-        "path": "hun/2-stunning-portrait-of-barbara-palvin-rising-elega.jpg",
+        "webp_path": "webp_images/hun/2-stunning-portrait-of-barbara-palvin-rising-elega.webp",
+        "original_path": "images/hun/2-stunning-portrait-of-barbara-palvin-rising-elega.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/2-stunning-portrait-of-barbara-palvin-rising-elega.jpg",
+        "webp_path": "webp_images/kolors_out1/2-stunning-portrait-of-barbara-palvin-rising-elega.webp",
+        "original_path": "images/kolors_out1/2-stunning-portrait-of-barbara-palvin-rising-elega.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/2-stunning-portrait-of-barbara-palvin-rising-elega.jpg",
+        "webp_path": "webp_images/sd3b/2-stunning-portrait-of-barbara-palvin-rising-elega.webp",
+        "original_path": "images/sd3b/2-stunning-portrait-of-barbara-palvin-rising-elega.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/2-stunning-portrait-of-barbara-palvin-rising-elega_thumbnail.webp"
   },
   {
     "prompt": "3. Fierce beauty Anna Ewers gazes intensely at the camera wearing a colorblock bandeau bikini, sun-kissed skin glowing, posed dynamically as seen in Marco Grob's work.",
     "images": [
       {
-        "path": "hun/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.jpg",
+        "webp_path": "webp_images/hun/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.webp",
+        "original_path": "images/hun/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.jpg",
+        "webp_path": "webp_images/kolors_out1/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.webp",
+        "original_path": "images/kolors_out1/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.jpg",
+        "webp_path": "webp_images/sd3b/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.webp",
+        "original_path": "images/sd3b/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-_thumbnail.webp"
   },
   {
     "prompt": "4. Serene beauty shots of Taylor Hill wearing a flowing white crochet cover-up over a green bikini, tropical flowers in her windswept hair, photographed in Bruce Weber's natural style.",
     "images": [
       {
-        "path": "hun/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.jpg",
+        "webp_path": "webp_images/hun/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.webp",
+        "original_path": "images/hun/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.jpg",
+        "webp_path": "webp_images/kolors_out1/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.webp",
+        "original_path": "images/kolors_out1/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.jpg",
+        "webp_path": "webp_images/sd3b/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.webp",
+        "original_path": "images/sd3b/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo_thumbnail.webp"
   },
   {
     "prompt": "5. Athletic model Ashley Graham strikes a yoga pose on the beach in a sporty colorblock one-piece swimsuit, reminiscent of Russel James' uplifiting vision.",
     "images": [
       {
-        "path": "hun/5-athletic-model-ashley-graham-strikes-a-yoga-pose.jpg",
+        "webp_path": "webp_images/hun/5-athletic-model-ashley-graham-strikes-a-yoga-pose.webp",
+        "original_path": "images/hun/5-athletic-model-ashley-graham-strikes-a-yoga-pose.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/5-athletic-model-ashley-graham-strikes-a-yoga-pose.jpg",
+        "webp_path": "webp_images/kolors_out1/5-athletic-model-ashley-graham-strikes-a-yoga-pose.webp",
+        "original_path": "images/kolors_out1/5-athletic-model-ashley-graham-strikes-a-yoga-pose.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/5-athletic-model-ashley-graham-strikes-a-yoga-pose.jpg",
+        "webp_path": "webp_images/sd3b/5-athletic-model-ashley-graham-strikes-a-yoga-pose.webp",
+        "original_path": "images/sd3b/5-athletic-model-ashley-graham-strikes-a-yoga-pose.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/5-athletic-model-ashley-graham-strikes-a-yoga-pose_thumbnail.webp"
   },
   {
     "prompt": "6. Glamorous editorial shoot of Rosie Huntington-Whiteley lounging on a yacht wearing a sparkling silver one-shoulder monokini resembling the lush images of Sante D'Orazio.",
     "images": [
       {
-        "path": "hun/6-glamorous-editorial-shoot-of-rosie-huntington-wh.jpg",
+        "webp_path": "webp_images/hun/6-glamorous-editorial-shoot-of-rosie-huntington-wh.webp",
+        "original_path": "images/hun/6-glamorous-editorial-shoot-of-rosie-huntington-wh.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/6-glamorous-editorial-shoot-of-rosie-huntington-wh.jpg",
+        "webp_path": "webp_images/kolors_out1/6-glamorous-editorial-shoot-of-rosie-huntington-wh.webp",
+        "original_path": "images/kolors_out1/6-glamorous-editorial-shoot-of-rosie-huntington-wh.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/6-glamorous-editorial-shoot-of-rosie-huntington-wh.jpg",
+        "webp_path": "webp_images/sd3b/6-glamorous-editorial-shoot-of-rosie-huntington-wh.webp",
+        "original_path": "images/sd3b/6-glamorous-editorial-shoot-of-rosie-huntington-wh.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/6-glamorous-editorial-shoot-of-rosie-huntington-wh_thumbnail.webp"
   },
   {
     "prompt": "7. Bella Hadid gazes longingly towards the ocean, wearing a pink ruffled one-piece swimsuit, windswept hair, reminiscent of Glen Luchford's romantic beach scenes.",
     "images": [
       {
-        "path": "hun/7-bella-hadid-gazes-longingly-towards-the-ocean-we.jpg",
+        "webp_path": "webp_images/hun/7-bella-hadid-gazes-longingly-towards-the-ocean-we.webp",
+        "original_path": "images/hun/7-bella-hadid-gazes-longingly-towards-the-ocean-we.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/7-bella-hadid-gazes-longingly-towards-the-ocean-we.jpg",
+        "webp_path": "webp_images/kolors_out1/7-bella-hadid-gazes-longingly-towards-the-ocean-we.webp",
+        "original_path": "images/kolors_out1/7-bella-hadid-gazes-longingly-towards-the-ocean-we.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/7-bella-hadid-gazes-longingly-towards-the-ocean-we.jpg",
+        "webp_path": "webp_images/sd3b/7-bella-hadid-gazes-longingly-towards-the-ocean-we.webp",
+        "original_path": "images/sd3b/7-bella-hadid-gazes-longingly-towards-the-ocean-we.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/7-bella-hadid-gazes-longingly-towards-the-ocean-we_thumbnail.webp"
   },
   {
     "prompt": "8. Stunning close-ups of Lily Aldridge emergeing from the water in slow motion, wearing a simple white triangle bikini resembling the iconic shots of Herb Ritts.",
     "images": [
       {
-        "path": "hun/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.jpg",
+        "webp_path": "webp_images/hun/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.webp",
+        "original_path": "images/hun/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.jpg",
+        "webp_path": "webp_images/kolors_out1/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.webp",
+        "original_path": "images/kolors_out1/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.jpg",
+        "webp_path": "webp_images/sd3b/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.webp",
+        "original_path": "images/sd3b/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/8-stunning-close-ups-of-lily-aldridge-emergeing-fr_thumbnail.webp"
   },
   {
     "prompt": "9. Fierce black and white portraits of Karlie Kloss posing in a knit cutout monokini swimsuit on the beach dunes, wind in her hair, in Peter Lindbergh's timeless style.",
     "images": [
       {
-        "path": "hun/9-fierce-black-and-white-portraits-of-karlie-kloss.jpg",
+        "webp_path": "webp_images/hun/9-fierce-black-and-white-portraits-of-karlie-kloss.webp",
+        "original_path": "images/hun/9-fierce-black-and-white-portraits-of-karlie-kloss.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/9-fierce-black-and-white-portraits-of-karlie-kloss.jpg",
+        "webp_path": "webp_images/kolors_out1/9-fierce-black-and-white-portraits-of-karlie-kloss.webp",
+        "original_path": "images/kolors_out1/9-fierce-black-and-white-portraits-of-karlie-kloss.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/9-fierce-black-and-white-portraits-of-karlie-kloss.jpg",
+        "webp_path": "webp_images/sd3b/9-fierce-black-and-white-portraits-of-karlie-kloss.webp",
+        "original_path": "images/sd3b/9-fierce-black-and-white-portraits-of-karlie-kloss.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/9-fierce-black-and-white-portraits-of-karlie-kloss_thumbnail.webp"
   },
   {
     "prompt": "10. Bright sun-drenched photos of model Toni Garrn smiling vibrantly, splashing in the crystal blue waters wearing a colorful patterned bikini, reminiscent of Arthur Elgort's joyful vision.",
     "images": [
       {
-        "path": "hun/10-bright-sun-drenched-photos-of-model-toni-garrn-.jpg",
+        "webp_path": "webp_images/hun/10-bright-sun-drenched-photos-of-model-toni-garrn-.webp",
+        "original_path": "images/hun/10-bright-sun-drenched-photos-of-model-toni-garrn-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/10-bright-sun-drenched-photos-of-model-toni-garrn-.jpg",
+        "webp_path": "webp_images/kolors_out1/10-bright-sun-drenched-photos-of-model-toni-garrn-.webp",
+        "original_path": "images/kolors_out1/10-bright-sun-drenched-photos-of-model-toni-garrn-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/10-bright-sun-drenched-photos-of-model-toni-garrn-.jpg",
+        "webp_path": "webp_images/sd3b/10-bright-sun-drenched-photos-of-model-toni-garrn-.webp",
+        "original_path": "images/sd3b/10-bright-sun-drenched-photos-of-model-toni-garrn-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/10-bright-sun-drenched-photos-of-model-toni-garrn-_thumbnail.webp"
   },
   {
     "prompt": "11. Serene island shoot of Jourdan Dunn posing peacefully in a belted burnt orange swimsuit coverup, sunlight filtering through palm fronds above her, echoing the tranquil scenes of Norman Jean Roy.",
     "images": [
       {
-        "path": "hun/11-serene-island-shoot-of-jourdan-dunn-posing-peac.jpg",
+        "webp_path": "webp_images/hun/11-serene-island-shoot-of-jourdan-dunn-posing-peac.webp",
+        "original_path": "images/hun/11-serene-island-shoot-of-jourdan-dunn-posing-peac.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/11-serene-island-shoot-of-jourdan-dunn-posing-peac.jpg",
+        "webp_path": "webp_images/kolors_out1/11-serene-island-shoot-of-jourdan-dunn-posing-peac.webp",
+        "original_path": "images/kolors_out1/11-serene-island-shoot-of-jourdan-dunn-posing-peac.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/11-serene-island-shoot-of-jourdan-dunn-posing-peac.jpg",
+        "webp_path": "webp_images/sd3b/11-serene-island-shoot-of-jourdan-dunn-posing-peac.webp",
+        "original_path": "images/sd3b/11-serene-island-shoot-of-jourdan-dunn-posing-peac.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/11-serene-island-shoot-of-jourdan-dunn-posing-peac_thumbnail.webp"
   },
   {
     "prompt": "12. Stunning underwater fine art shoot of Emily Ratajkowski suspended ethereally wearing a flowing glitter swimsuit, hair swirling gently, resembling the work of Matthias Vriens.",
     "images": [
       {
-        "path": "hun/12-stunning-underwater-fine-art-shoot-of-emily-rat.jpg",
+        "webp_path": "webp_images/hun/12-stunning-underwater-fine-art-shoot-of-emily-rat.webp",
+        "original_path": "images/hun/12-stunning-underwater-fine-art-shoot-of-emily-rat.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/12-stunning-underwater-fine-art-shoot-of-emily-rat.jpg",
+        "webp_path": "webp_images/kolors_out1/12-stunning-underwater-fine-art-shoot-of-emily-rat.webp",
+        "original_path": "images/kolors_out1/12-stunning-underwater-fine-art-shoot-of-emily-rat.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/12-stunning-underwater-fine-art-shoot-of-emily-rat.jpg",
+        "webp_path": "webp_images/sd3b/12-stunning-underwater-fine-art-shoot-of-emily-rat.webp",
+        "original_path": "images/sd3b/12-stunning-underwater-fine-art-shoot-of-emily-rat.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/12-stunning-underwater-fine-art-shoot-of-emily-rat_thumbnail.webp"
   },
   {
     "prompt": "13. Playful sun-filled beauty shots of Miranda Kerr building sandcastles on the beach wearing polka dot retro high-waisted bikini bottoms, reminiscent of Sebastian Faena's lightheartedness.",
     "images": [
       {
-        "path": "hun/13-playful-sun-filled-beauty-shots-of-miranda-kerr.jpg",
+        "webp_path": "webp_images/hun/13-playful-sun-filled-beauty-shots-of-miranda-kerr.webp",
+        "original_path": "images/hun/13-playful-sun-filled-beauty-shots-of-miranda-kerr.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/13-playful-sun-filled-beauty-shots-of-miranda-kerr.jpg",
+        "webp_path": "webp_images/kolors_out1/13-playful-sun-filled-beauty-shots-of-miranda-kerr.webp",
+        "original_path": "images/kolors_out1/13-playful-sun-filled-beauty-shots-of-miranda-kerr.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/13-playful-sun-filled-beauty-shots-of-miranda-kerr.jpg",
+        "webp_path": "webp_images/sd3b/13-playful-sun-filled-beauty-shots-of-miranda-kerr.webp",
+        "original_path": "images/sd3b/13-playful-sun-filled-beauty-shots-of-miranda-kerr.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/13-playful-sun-filled-beauty-shots-of-miranda-kerr_thumbnail.webp"
   },
   {
     "prompt": "14. Travel editorial shoot with Nina Agdal lounging casually atop a surfboard in the tropical waters wearing a red strappy one piece swimsuit, bringing to mind the lifestyle images of Raphael Mazzucco.",
     "images": [
       {
-        "path": "hun/14-travel-editorial-shoot-with-nina-agdal-lounging.jpg",
+        "webp_path": "webp_images/hun/14-travel-editorial-shoot-with-nina-agdal-lounging.webp",
+        "original_path": "images/hun/14-travel-editorial-shoot-with-nina-agdal-lounging.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/14-travel-editorial-shoot-with-nina-agdal-lounging.jpg",
+        "webp_path": "webp_images/kolors_out1/14-travel-editorial-shoot-with-nina-agdal-lounging.webp",
+        "original_path": "images/kolors_out1/14-travel-editorial-shoot-with-nina-agdal-lounging.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/14-travel-editorial-shoot-with-nina-agdal-lounging.jpg",
+        "webp_path": "webp_images/sd3b/14-travel-editorial-shoot-with-nina-agdal-lounging.webp",
+        "original_path": "images/sd3b/14-travel-editorial-shoot-with-nina-agdal-lounging.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/14-travel-editorial-shoot-with-nina-agdal-lounging_thumbnail.webp"
   },
   {
     "prompt": "15. Gorgeous black and white portrait study of Adriana Lima's serene expression as she gazes towards the sunset, wearing an embroidered white crochet coverup over her swimsuit, softly lit like one of Giampaolo Sgura's artful images.",
     "images": [
       {
-        "path": "hun/15-gorgeous-black-and-white-portrait-study-of-adri.jpg",
+        "webp_path": "webp_images/hun/15-gorgeous-black-and-white-portrait-study-of-adri.webp",
+        "original_path": "images/hun/15-gorgeous-black-and-white-portrait-study-of-adri.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/15-gorgeous-black-and-white-portrait-study-of-adri.jpg",
+        "webp_path": "webp_images/kolors_out1/15-gorgeous-black-and-white-portrait-study-of-adri.webp",
+        "original_path": "images/kolors_out1/15-gorgeous-black-and-white-portrait-study-of-adri.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/15-gorgeous-black-and-white-portrait-study-of-adri.jpg",
+        "webp_path": "webp_images/sd3b/15-gorgeous-black-and-white-portrait-study-of-adri.webp",
+        "original_path": "images/sd3b/15-gorgeous-black-and-white-portrait-study-of-adri.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/15-gorgeous-black-and-white-portrait-study-of-adri_thumbnail.webp"
   },
   {
     "prompt": "16. Stunning backlit silhouette shots of Lais Ribeiro wearing an ombre pastel one-shoulder one piece swimsuit, walking through the surf from the oceanside cliffs, resembling the romantic scenes shot by Russell James.",
     "images": [
       {
-        "path": "hun/16-stunning-backlit-silhouette-shots-of-lais-ribei.jpg",
+        "webp_path": "webp_images/hun/16-stunning-backlit-silhouette-shots-of-lais-ribei.webp",
+        "original_path": "images/hun/16-stunning-backlit-silhouette-shots-of-lais-ribei.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/16-stunning-backlit-silhouette-shots-of-lais-ribei.jpg",
+        "webp_path": "webp_images/kolors_out1/16-stunning-backlit-silhouette-shots-of-lais-ribei.webp",
+        "original_path": "images/kolors_out1/16-stunning-backlit-silhouette-shots-of-lais-ribei.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/16-stunning-backlit-silhouette-shots-of-lais-ribei.jpg",
+        "webp_path": "webp_images/sd3b/16-stunning-backlit-silhouette-shots-of-lais-ribei.webp",
+        "original_path": "images/sd3b/16-stunning-backlit-silhouette-shots-of-lais-ribei.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/16-stunning-backlit-silhouette-shots-of-lais-ribei_thumbnail.webp"
   },
   {
     "prompt": "17. Light airy photos of Liu Wen in a flowing floral swimsuit cover-up posing under swaying palm trees near the shoreline, warm sunlight on her skin, evocative of Carter Smith's tropical visions.",
     "images": [
       {
-        "path": "hun/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.jpg",
+        "webp_path": "webp_images/hun/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.webp",
+        "original_path": "images/hun/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.jpg",
+        "webp_path": "webp_images/kolors_out1/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.webp",
+        "original_path": "images/kolors_out1/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.jpg",
+        "webp_path": "webp_images/sd3b/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.webp",
+        "original_path": "images/sd3b/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/17-light-airy-photos-of-liu-wen-in-a-flowing-flora_thumbnail.webp"
   },
   {
     "prompt": "18. Golden hour isolated shots on the beach of Joan Smalls wearing a glittering deep red one piece swimsuit, eyes closed serenely, palm trees blurred in background, similar to Frederic Pinet's style.",
     "images": [
       {
-        "path": "hun/18-golden-hour-isolated-shots-on-the-beach-of-joan.jpg",
+        "webp_path": "webp_images/hun/18-golden-hour-isolated-shots-on-the-beach-of-joan.webp",
+        "original_path": "images/hun/18-golden-hour-isolated-shots-on-the-beach-of-joan.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/18-golden-hour-isolated-shots-on-the-beach-of-joan.jpg",
+        "webp_path": "webp_images/kolors_out1/18-golden-hour-isolated-shots-on-the-beach-of-joan.webp",
+        "original_path": "images/kolors_out1/18-golden-hour-isolated-shots-on-the-beach-of-joan.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/18-golden-hour-isolated-shots-on-the-beach-of-joan.jpg",
+        "webp_path": "webp_images/sd3b/18-golden-hour-isolated-shots-on-the-beach-of-joan.webp",
+        "original_path": "images/sd3b/18-golden-hour-isolated-shots-on-the-beach-of-joan.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/18-golden-hour-isolated-shots-on-the-beach-of-joan_thumbnail.webp"
   },
   {
     "prompt": "19. Sensual beauty shots of Isabeli Fontana rising from the waters dripping wet in a shimmery silver cutout monokini swimsuit, slick back hair, resembling the sultry visions of Terry Richardson.",
     "images": [
       {
-        "path": "hun/19-sensual-beauty-shots-of-isabeli-fontana-rising-.jpg",
+        "webp_path": "webp_images/hun/19-sensual-beauty-shots-of-isabeli-fontana-rising-.webp",
+        "original_path": "images/hun/19-sensual-beauty-shots-of-isabeli-fontana-rising-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/19-sensual-beauty-shots-of-isabeli-fontana-rising-.jpg",
+        "webp_path": "webp_images/kolors_out1/19-sensual-beauty-shots-of-isabeli-fontana-rising-.webp",
+        "original_path": "images/kolors_out1/19-sensual-beauty-shots-of-isabeli-fontana-rising-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/19-sensual-beauty-shots-of-isabeli-fontana-rising-.jpg",
+        "webp_path": "webp_images/sd3b/19-sensual-beauty-shots-of-isabeli-fontana-rising-.webp",
+        "original_path": "images/sd3b/19-sensual-beauty-shots-of-isabeli-fontana-rising-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/19-sensual-beauty-shots-of-isabeli-fontana-rising-_thumbnail.webp"
   },
   {
     "prompt": "20. Stunning intimate portraiture of Sasha Luss posing confidently in a vibrant orange bandeau bikini top, sheer cover-up around her waist, gazing into camera up close, reminiscent of Solve Sundsbo's fearless subjects.",
     "images": [
       {
-        "path": "hun/20-stunning-intimate-portraiture-of-sasha-luss-pos.jpg",
+        "webp_path": "webp_images/hun/20-stunning-intimate-portraiture-of-sasha-luss-pos.webp",
+        "original_path": "images/hun/20-stunning-intimate-portraiture-of-sasha-luss-pos.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/20-stunning-intimate-portraiture-of-sasha-luss-pos.jpg",
+        "webp_path": "webp_images/kolors_out1/20-stunning-intimate-portraiture-of-sasha-luss-pos.webp",
+        "original_path": "images/kolors_out1/20-stunning-intimate-portraiture-of-sasha-luss-pos.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/20-stunning-intimate-portraiture-of-sasha-luss-pos.jpg",
+        "webp_path": "webp_images/sd3b/20-stunning-intimate-portraiture-of-sasha-luss-pos.webp",
+        "original_path": "images/sd3b/20-stunning-intimate-portraiture-of-sasha-luss-pos.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/20-stunning-intimate-portraiture-of-sasha-luss-pos_thumbnail.webp"
   },
   {
     "prompt": "21. High fashion angular shots of Edie Campbell striking commanding poses in a neon pink one shoulder maillot swimsuit, lit dramatically with a low horizon reminiscent of Nick Knight's groundbreaking photography.",
     "images": [
       {
-        "path": "hun/21-high-fashion-angular-shots-of-edie-campbell-str.jpg",
+        "webp_path": "webp_images/hun/21-high-fashion-angular-shots-of-edie-campbell-str.webp",
+        "original_path": "images/hun/21-high-fashion-angular-shots-of-edie-campbell-str.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/21-high-fashion-angular-shots-of-edie-campbell-str.jpg",
+        "webp_path": "webp_images/kolors_out1/21-high-fashion-angular-shots-of-edie-campbell-str.webp",
+        "original_path": "images/kolors_out1/21-high-fashion-angular-shots-of-edie-campbell-str.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/21-high-fashion-angular-shots-of-edie-campbell-str.jpg",
+        "webp_path": "webp_images/sd3b/21-high-fashion-angular-shots-of-edie-campbell-str.webp",
+        "original_path": "images/sd3b/21-high-fashion-angular-shots-of-edie-campbell-str.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/21-high-fashion-angular-shots-of-edie-campbell-str_thumbnail.webp"
   },
   {
     "prompt": "22. Whimsical lifestyle shoot of Sigrid Agren playfully hanging out with friends on a yacht while wearing a retro red polka dot bikini with sweetheart neckline reminiscent of Sebastian Kim's cheerful scenes.",
     "images": [
       {
-        "path": "hun/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.jpg",
+        "webp_path": "webp_images/hun/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.webp",
+        "original_path": "images/hun/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.jpg",
+        "webp_path": "webp_images/kolors_out1/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.webp",
+        "original_path": "images/kolors_out1/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.jpg",
+        "webp_path": "webp_images/sd3b/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.webp",
+        "original_path": "images/sd3b/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf_thumbnail.webp"
   },
   {
     "prompt": "23. Sensual shots of Irina Shayk emerging from the ocean waves in slow motion, water droplets trailing down her skin as she tilts her head back wearing a sleek white one piece resembling Peter Lindbergh's iconic 90's supermodel portraits.",
     "images": [
       {
-        "path": "hun/23-sensual-shots-of-irina-shayk-emerging-from-the-.jpg",
+        "webp_path": "webp_images/hun/23-sensual-shots-of-irina-shayk-emerging-from-the-.webp",
+        "original_path": "images/hun/23-sensual-shots-of-irina-shayk-emerging-from-the-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/23-sensual-shots-of-irina-shayk-emerging-from-the-.jpg",
+        "webp_path": "webp_images/kolors_out1/23-sensual-shots-of-irina-shayk-emerging-from-the-.webp",
+        "original_path": "images/kolors_out1/23-sensual-shots-of-irina-shayk-emerging-from-the-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/23-sensual-shots-of-irina-shayk-emerging-from-the-.jpg",
+        "webp_path": "webp_images/sd3b/23-sensual-shots-of-irina-shayk-emerging-from-the-.webp",
+        "original_path": "images/sd3b/23-sensual-shots-of-irina-shayk-emerging-from-the-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/23-sensual-shots-of-irina-shayk-emerging-from-the-_thumbnail.webp"
   },
   {
     "prompt": "24. Travel editorial shoot with Joan Smalls lounging relaxed at a tropical resort poolside in a colorful patterned tankini swimsuit soaking up the sun, reminiscent of Bryce Duffy's lifestyle aesthetic.",
     "images": [
       {
-        "path": "hun/24-travel-editorial-shoot-with-joan-smalls-loungin.jpg",
+        "webp_path": "webp_images/hun/24-travel-editorial-shoot-with-joan-smalls-loungin.webp",
+        "original_path": "images/hun/24-travel-editorial-shoot-with-joan-smalls-loungin.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/24-travel-editorial-shoot-with-joan-smalls-loungin.jpg",
+        "webp_path": "webp_images/kolors_out1/24-travel-editorial-shoot-with-joan-smalls-loungin.webp",
+        "original_path": "images/kolors_out1/24-travel-editorial-shoot-with-joan-smalls-loungin.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/24-travel-editorial-shoot-with-joan-smalls-loungin.jpg",
+        "webp_path": "webp_images/sd3b/24-travel-editorial-shoot-with-joan-smalls-loungin.webp",
+        "original_path": "images/sd3b/24-travel-editorial-shoot-with-joan-smalls-loungin.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/24-travel-editorial-shoot-with-joan-smalls-loungin_thumbnail.webp"
   },
   {
     "prompt": "25. Timeless black and white beauty shots of Natalia Vodianova's graceful silhouette posing on the deserted beach in a flowing lace swimsuit coverup, windswept wavy hair, lit like one of Paolo Roversi's romantic visions.",
     "images": [
       {
-        "path": "hun/25-timeless-black-and-white-beauty-shots-of-natali.jpg",
+        "webp_path": "webp_images/hun/25-timeless-black-and-white-beauty-shots-of-natali.webp",
+        "original_path": "images/hun/25-timeless-black-and-white-beauty-shots-of-natali.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/25-timeless-black-and-white-beauty-shots-of-natali.jpg",
+        "webp_path": "webp_images/kolors_out1/25-timeless-black-and-white-beauty-shots-of-natali.webp",
+        "original_path": "images/kolors_out1/25-timeless-black-and-white-beauty-shots-of-natali.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/25-timeless-black-and-white-beauty-shots-of-natali.jpg",
+        "webp_path": "webp_images/sd3b/25-timeless-black-and-white-beauty-shots-of-natali.webp",
+        "original_path": "images/sd3b/25-timeless-black-and-white-beauty-shots-of-natali.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/25-timeless-black-and-white-beauty-shots-of-natali_thumbnail.webp"
   },
   {
     "prompt": "lily pichu, An anime Nendoroid of lily pichu, figurine, detailed product photo",
     "images": [
       {
-        "path": "hun/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.jpg",
+        "webp_path": "webp_images/hun/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.webp",
+        "original_path": "images/hun/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.jpg",
+        "webp_path": "webp_images/kolors_out1/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.webp",
+        "original_path": "images/kolors_out1/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.jpg",
+        "webp_path": "webp_images/sd3b/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.webp",
+        "original_path": "images/sd3b/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri_thumbnail.webp"
   },
   {
     "prompt": "real life photo of a beautiful girl, full body photoshoot, long braided curly blonde hair, twisted braids, golden watery eyes, full round face, short smile, pale pink bikini, serene beach setting, cinematic lighting, medium shot, mid-shot, highly detailed, artstation contest winner, 105mm f2.4",
     "images": [
       {
-        "path": "hun/real-life-photo-of-a-beautiful-girl-full-body-phot.jpg",
+        "webp_path": "webp_images/hun/real-life-photo-of-a-beautiful-girl-full-body-phot.webp",
+        "original_path": "images/hun/real-life-photo-of-a-beautiful-girl-full-body-phot.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/real-life-photo-of-a-beautiful-girl-full-body-phot.jpg",
+        "webp_path": "webp_images/kolors_out1/real-life-photo-of-a-beautiful-girl-full-body-phot.webp",
+        "original_path": "images/kolors_out1/real-life-photo-of-a-beautiful-girl-full-body-phot.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/real-life-photo-of-a-beautiful-girl-full-body-phot.jpg",
+        "webp_path": "webp_images/sd3b/real-life-photo-of-a-beautiful-girl-full-body-phot.webp",
+        "original_path": "images/sd3b/real-life-photo-of-a-beautiful-girl-full-body-phot.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/real-life-photo-of-a-beautiful-girl-full-body-phot_thumbnail.webp"
   },
   {
     "prompt": "ultra detailed Female Android deity, scifi, octane render, clay render, (dia de los muertos), asymmetrical, intricate concept art, art by michael welan and DZO and greg rutkowski and alphonse mucha and loish and WLOP",
     "images": [
       {
-        "path": "hun/ultra-detailed-female-android-deity-scifi-octane-r.jpg",
+        "webp_path": "webp_images/hun/ultra-detailed-female-android-deity-scifi-octane-r.webp",
+        "original_path": "images/hun/ultra-detailed-female-android-deity-scifi-octane-r.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/ultra-detailed-female-android-deity-scifi-octane-r.jpg",
+        "webp_path": "webp_images/kolors_out1/ultra-detailed-female-android-deity-scifi-octane-r.webp",
+        "original_path": "images/kolors_out1/ultra-detailed-female-android-deity-scifi-octane-r.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/ultra-detailed-female-android-deity-scifi-octane-r.jpg",
+        "webp_path": "webp_images/sd3b/ultra-detailed-female-android-deity-scifi-octane-r.webp",
+        "original_path": "images/sd3b/ultra-detailed-female-android-deity-scifi-octane-r.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/ultra-detailed-female-android-deity-scifi-octane-r_thumbnail.webp"
   },
   {
     "prompt": "cinematic bust portrait of psychedelic robot, head and chest only, exotic alien features, robotic enhancements, desaturated, Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, HD, HDR, 4K, 8K",
     "images": [
       {
-        "path": "hun/cinematic-bust-portrait-of-psychedelic-robot-head-.jpg",
+        "webp_path": "webp_images/hun/cinematic-bust-portrait-of-psychedelic-robot-head-.webp",
+        "original_path": "images/hun/cinematic-bust-portrait-of-psychedelic-robot-head-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/cinematic-bust-portrait-of-psychedelic-robot-head-.jpg",
+        "webp_path": "webp_images/kolors_out1/cinematic-bust-portrait-of-psychedelic-robot-head-.webp",
+        "original_path": "images/kolors_out1/cinematic-bust-portrait-of-psychedelic-robot-head-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/cinematic-bust-portrait-of-psychedelic-robot-head-.jpg",
+        "webp_path": "webp_images/sd3b/cinematic-bust-portrait-of-psychedelic-robot-head-.webp",
+        "original_path": "images/sd3b/cinematic-bust-portrait-of-psychedelic-robot-head-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/cinematic-bust-portrait-of-psychedelic-robot-head-_thumbnail.webp"
   },
   {
     "prompt": "cyberpunk room, top view, with girl on  table,  laboratory experiment attached, hellraiser, liquid in tube, technological , technomancer , alien experiment, future dark by Greg Rutkowski, Sung Choi, Mitchell Mohrhauser, Maciej Kuciara, Johnson Ting, Maxim Verehin, Peter Konig, Bloodborne , 8k photorealistic, cinematic lighting, HD, high details, atmospheric , trending on artstation",
     "images": [
       {
-        "path": "hun/cyberpunk-room-top-view-with-girl-on-table-laborat.jpg",
+        "webp_path": "webp_images/hun/cyberpunk-room-top-view-with-girl-on-table-laborat.webp",
+        "original_path": "images/hun/cyberpunk-room-top-view-with-girl-on-table-laborat.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/cyberpunk-room-top-view-with-girl-on-table-laborat.jpg",
+        "webp_path": "webp_images/kolors_out1/cyberpunk-room-top-view-with-girl-on-table-laborat.webp",
+        "original_path": "images/kolors_out1/cyberpunk-room-top-view-with-girl-on-table-laborat.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/cyberpunk-room-top-view-with-girl-on-table-laborat.jpg",
+        "webp_path": "webp_images/sd3b/cyberpunk-room-top-view-with-girl-on-table-laborat.webp",
+        "original_path": "images/sd3b/cyberpunk-room-top-view-with-girl-on-table-laborat.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/cyberpunk-room-top-view-with-girl-on-table-laborat_thumbnail.webp"
   },
   {
     "prompt": "movie poster, 8k octane render, symmetrical face, full warior body in ancient style cinematic, neon, (vaporwave:1.2), purple and pink colour scheme",
     "images": [
       {
-        "path": "hun/movie-poster-8k-octane-render-symmetrical-face-ful.jpg",
+        "webp_path": "webp_images/hun/movie-poster-8k-octane-render-symmetrical-face-ful.webp",
+        "original_path": "images/hun/movie-poster-8k-octane-render-symmetrical-face-ful.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/movie-poster-8k-octane-render-symmetrical-face-ful.jpg",
+        "webp_path": "webp_images/kolors_out1/movie-poster-8k-octane-render-symmetrical-face-ful.webp",
+        "original_path": "images/kolors_out1/movie-poster-8k-octane-render-symmetrical-face-ful.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/movie-poster-8k-octane-render-symmetrical-face-ful.jpg",
+        "webp_path": "webp_images/sd3b/movie-poster-8k-octane-render-symmetrical-face-ful.webp",
+        "original_path": "images/sd3b/movie-poster-8k-octane-render-symmetrical-face-ful.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/movie-poster-8k-octane-render-symmetrical-face-ful_thumbnail.webp"
   },
   {
     "prompt": "miku surfer advertising photo, female surfer body, beach,  symmetrical face, symmetrical eyes, perfect face, beautiful face",
     "images": [
       {
-        "path": "hun/miku-surfer-advertising-photo-female-surfer-body-b.jpg",
+        "webp_path": "webp_images/hun/miku-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/hun/miku-surfer-advertising-photo-female-surfer-body-b.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/miku-surfer-advertising-photo-female-surfer-body-b.jpg",
+        "webp_path": "webp_images/kolors_out1/miku-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/kolors_out1/miku-surfer-advertising-photo-female-surfer-body-b.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/miku-surfer-advertising-photo-female-surfer-body-b.jpg",
+        "webp_path": "webp_images/sd3b/miku-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/sd3b/miku-surfer-advertising-photo-female-surfer-body-b.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/miku-surfer-advertising-photo-female-surfer-body-b_thumbnail.webp"
   },
   {
     "prompt": "Girl surfer advertising photo, female surfer body, beach, sunset wave, symmetrical face, symmetrical eyes, perfect face, perfect body, beautiful face",
     "images": [
       {
-        "path": "hun/girl-surfer-advertising-photo-female-surfer-body-b.jpg",
+        "webp_path": "webp_images/hun/girl-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/hun/girl-surfer-advertising-photo-female-surfer-body-b.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/girl-surfer-advertising-photo-female-surfer-body-b.jpg",
+        "webp_path": "webp_images/kolors_out1/girl-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/kolors_out1/girl-surfer-advertising-photo-female-surfer-body-b.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/girl-surfer-advertising-photo-female-surfer-body-b.jpg",
+        "webp_path": "webp_images/sd3b/girl-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/sd3b/girl-surfer-advertising-photo-female-surfer-body-b.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/girl-surfer-advertising-photo-female-surfer-body-b_thumbnail.webp"
   },
   {
     "prompt": "vogue fashion editorial, girl in a circus, wearing red and white striped leather jacket, bare chest, photograph by mario testino, eyes, face, mouth, hasselblad",
     "images": [
       {
-        "path": "hun/vogue-fashion-editorial-girl-in-a-circus-wearing-r.jpg",
+        "webp_path": "webp_images/hun/vogue-fashion-editorial-girl-in-a-circus-wearing-r.webp",
+        "original_path": "images/hun/vogue-fashion-editorial-girl-in-a-circus-wearing-r.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/vogue-fashion-editorial-girl-in-a-circus-wearing-r.jpg",
+        "webp_path": "webp_images/kolors_out1/vogue-fashion-editorial-girl-in-a-circus-wearing-r.webp",
+        "original_path": "images/kolors_out1/vogue-fashion-editorial-girl-in-a-circus-wearing-r.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/vogue-fashion-editorial-girl-in-a-circus-wearing-r.jpg",
+        "webp_path": "webp_images/sd3b/vogue-fashion-editorial-girl-in-a-circus-wearing-r.webp",
+        "original_path": "images/sd3b/vogue-fashion-editorial-girl-in-a-circus-wearing-r.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/vogue-fashion-editorial-girl-in-a-circus-wearing-r_thumbnail.webp"
   },
   {
     "prompt": "The fogs wraps the dying city of London in a thin whispy blanket as she was drifting through the alleys, past the ancient pubs and warehouses, searching for the memories of the dreams that never were.",
     "images": [
       {
-        "path": "hun/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.jpg",
+        "webp_path": "webp_images/hun/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.webp",
+        "original_path": "images/hun/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.jpg",
+        "webp_path": "webp_images/kolors_out1/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.webp",
+        "original_path": "images/kolors_out1/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.jpg",
+        "webp_path": "webp_images/sd3b/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.webp",
+        "original_path": "images/sd3b/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/the-fogs-wraps-the-dying-city-of-london-in-a-thin-_thumbnail.webp"
   },
   {
     "prompt": "dungeons and dragons portrait of a female half-orc with green skin and white hair, wearing a brown jacket, forest background, symmetrical face",
     "images": [
       {
-        "path": "hun/dungeons-and-dragons-portrait-of-a-female-half-orc.jpg",
+        "webp_path": "webp_images/hun/dungeons-and-dragons-portrait-of-a-female-half-orc.webp",
+        "original_path": "images/hun/dungeons-and-dragons-portrait-of-a-female-half-orc.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/dungeons-and-dragons-portrait-of-a-female-half-orc.jpg",
+        "webp_path": "webp_images/kolors_out1/dungeons-and-dragons-portrait-of-a-female-half-orc.webp",
+        "original_path": "images/kolors_out1/dungeons-and-dragons-portrait-of-a-female-half-orc.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/dungeons-and-dragons-portrait-of-a-female-half-orc.jpg",
+        "webp_path": "webp_images/sd3b/dungeons-and-dragons-portrait-of-a-female-half-orc.webp",
+        "original_path": "images/sd3b/dungeons-and-dragons-portrait-of-a-female-half-orc.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/dungeons-and-dragons-portrait-of-a-female-half-orc_thumbnail.webp"
   },
   {
     "prompt": "Mitsuri Kanjoro",
     "images": [
       {
-        "path": "hun/mitsuri-kanjoro.jpg",
+        "webp_path": "webp_images/hun/mitsuri-kanjoro.webp",
+        "original_path": "images/hun/mitsuri-kanjoro.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/mitsuri-kanjoro.jpg",
+        "webp_path": "webp_images/kolors_out1/mitsuri-kanjoro.webp",
+        "original_path": "images/kolors_out1/mitsuri-kanjoro.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/mitsuri-kanjoro.jpg",
+        "webp_path": "webp_images/sd3b/mitsuri-kanjoro.webp",
+        "original_path": "images/sd3b/mitsuri-kanjoro.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/mitsuri-kanjoro_thumbnail.webp"
   },
   {
     "prompt": "Hyperrealist portrait of arthur morgan by jeremy mann and alphonse mucha, fantasy art, photo realistic, dynamic lighting, artstation, poster, volumetric lighting, very detailed faces, award winning",
     "images": [
       {
-        "path": "hun/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.jpg",
+        "webp_path": "webp_images/hun/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.webp",
+        "original_path": "images/hun/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.jpg",
+        "webp_path": "webp_images/kolors_out1/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.webp",
+        "original_path": "images/kolors_out1/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.jpg",
+        "webp_path": "webp_images/sd3b/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.webp",
+        "original_path": "images/sd3b/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m_thumbnail.webp"
   },
   {
     "prompt": "(full body), a model beautiful women with long  blond hair, beautiful detailed dress, delicate, detailed, centered, digital painting, artstation, concept art, donato giancola, joseph christian leyendecker, wlop, boris vallejo, breathtaking, 8k resolution, extremely detailed, beautiful, establishing shot, artistic, hyperrealistic, beautiful face, octane render",
     "images": [
       {
-        "path": "hun/full-body-a-model-beautiful-women-with-long-blond-.jpg",
+        "webp_path": "webp_images/hun/full-body-a-model-beautiful-women-with-long-blond-.webp",
+        "original_path": "images/hun/full-body-a-model-beautiful-women-with-long-blond-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/full-body-a-model-beautiful-women-with-long-blond-.jpg",
+        "webp_path": "webp_images/kolors_out1/full-body-a-model-beautiful-women-with-long-blond-.webp",
+        "original_path": "images/kolors_out1/full-body-a-model-beautiful-women-with-long-blond-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/full-body-a-model-beautiful-women-with-long-blond-.jpg",
+        "webp_path": "webp_images/sd3b/full-body-a-model-beautiful-women-with-long-blond-.webp",
+        "original_path": "images/sd3b/full-body-a-model-beautiful-women-with-long-blond-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/full-body-a-model-beautiful-women-with-long-blond-_thumbnail.webp"
   },
   {
     "prompt": "pixar style portrait shot, pin-up anime belle delphine robot in a junkyard, artwork by granblue fantasy, artgerm, attack on titan, high quality, amazing background by ghibli, wide gorgeous eyes, smooth cell shading",
     "images": [
       {
-        "path": "hun/pixar-style-portrait-shot-pin-up-anime-belle-delph.jpg",
+        "webp_path": "webp_images/hun/pixar-style-portrait-shot-pin-up-anime-belle-delph.webp",
+        "original_path": "images/hun/pixar-style-portrait-shot-pin-up-anime-belle-delph.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/pixar-style-portrait-shot-pin-up-anime-belle-delph.jpg",
+        "webp_path": "webp_images/kolors_out1/pixar-style-portrait-shot-pin-up-anime-belle-delph.webp",
+        "original_path": "images/kolors_out1/pixar-style-portrait-shot-pin-up-anime-belle-delph.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/pixar-style-portrait-shot-pin-up-anime-belle-delph.jpg",
+        "webp_path": "webp_images/sd3b/pixar-style-portrait-shot-pin-up-anime-belle-delph.webp",
+        "original_path": "images/sd3b/pixar-style-portrait-shot-pin-up-anime-belle-delph.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/pixar-style-portrait-shot-pin-up-anime-belle-delph_thumbnail.webp"
   },
   {
     "prompt": "tiny cute kitten plush stuffed toy, anthropomorphic, surrounded by vines, pixar style eyes, pokemon anime style, octane render, fantasy, volumetric light, soft cinematic lighting, tinycore, cutecore, realistic, 8k",
     "images": [
       {
-        "path": "hun/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.jpg",
+        "webp_path": "webp_images/hun/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.webp",
+        "original_path": "images/hun/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.jpg",
+        "webp_path": "webp_images/kolors_out1/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.webp",
+        "original_path": "images/kolors_out1/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.jpg",
+        "webp_path": "webp_images/sd3b/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.webp",
+        "original_path": "images/sd3b/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic_thumbnail.webp"
   },
   {
     "prompt": "tiny cute grape plush stuffed toy, anthropomorphic, surrounded by vines, pixar style eyes, pokemon anime style, octane render, fantasy, volumetric light, soft cinematic lighting, tinycore, cutecore, purplecore, realistic, 8k",
     "images": [
       {
-        "path": "hun/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.jpg",
+        "webp_path": "webp_images/hun/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.webp",
+        "original_path": "images/hun/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.jpg",
+        "webp_path": "webp_images/kolors_out1/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.webp",
+        "original_path": "images/kolors_out1/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.jpg",
+        "webp_path": "webp_images/sd3b/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.webp",
+        "original_path": "images/sd3b/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-_thumbnail.webp"
   },
   {
     "prompt": "pixar style cute, adorable, fuzzy corgi puppy wearing a college bandana, beautiful, volumetric lighting, octane render",
     "images": [
       {
-        "path": "hun/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.jpg",
+        "webp_path": "webp_images/hun/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.webp",
+        "original_path": "images/hun/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.jpg",
+        "webp_path": "webp_images/kolors_out1/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.webp",
+        "original_path": "images/kolors_out1/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.jpg",
+        "webp_path": "webp_images/sd3b/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.webp",
+        "original_path": "images/sd3b/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin_thumbnail.webp"
   },
   {
     "prompt": "Art by alfredo rodriguez, Cowboy on a horse running through water, dynamic, movement, beautiful oil painting, fine art, award-winning art, beautiful lighting, intricate detail",
     "images": [
       {
-        "path": "hun/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.jpg",
+        "webp_path": "webp_images/hun/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.webp",
+        "original_path": "images/hun/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.jpg",
+        "webp_path": "webp_images/kolors_out1/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.webp",
+        "original_path": "images/kolors_out1/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.jpg",
+        "webp_path": "webp_images/sd3b/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.webp",
+        "original_path": "images/sd3b/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/art-by-alfredo-rodriguez-cowboy-on-a-horse-running_thumbnail.webp"
   },
   {
     "prompt": "beautiful stunning highly detailed modern woman, art noveau, surrounded with magnolia flowers, flourish, art painted by Magali Villeneuve and artgerm and Fenghua Zhong, open eyes, hyperrealistic, fantasy, illustration",
     "images": [
       {
-        "path": "hun/beautiful-stunning-highly-detailed-modern-woman-ar.jpg",
+        "webp_path": "webp_images/hun/beautiful-stunning-highly-detailed-modern-woman-ar.webp",
+        "original_path": "images/hun/beautiful-stunning-highly-detailed-modern-woman-ar.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-stunning-highly-detailed-modern-woman-ar.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-stunning-highly-detailed-modern-woman-ar.webp",
+        "original_path": "images/kolors_out1/beautiful-stunning-highly-detailed-modern-woman-ar.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-stunning-highly-detailed-modern-woman-ar.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-stunning-highly-detailed-modern-woman-ar.webp",
+        "original_path": "images/sd3b/beautiful-stunning-highly-detailed-modern-woman-ar.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-stunning-highly-detailed-modern-woman-ar_thumbnail.webp"
   },
   {
     "prompt": "close up profile, Futuristic cybernetic Mayan Warrior in full Headdress, in the style of Russ Mills, Aaron Horkey, rhads, artgerm, ivan laliashvili, Jean-Baptiste Monge, atompunk, Ink Dropped in water, torn paper, bold strokes oil paint, feathers, beads, pulp Manga illustration, cinematic lighting",
     "images": [
       {
-        "path": "hun/close-up-profile-futuristic-cybernetic-mayan-warri.jpg",
+        "webp_path": "webp_images/hun/close-up-profile-futuristic-cybernetic-mayan-warri.webp",
+        "original_path": "images/hun/close-up-profile-futuristic-cybernetic-mayan-warri.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/close-up-profile-futuristic-cybernetic-mayan-warri.jpg",
+        "webp_path": "webp_images/kolors_out1/close-up-profile-futuristic-cybernetic-mayan-warri.webp",
+        "original_path": "images/kolors_out1/close-up-profile-futuristic-cybernetic-mayan-warri.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/close-up-profile-futuristic-cybernetic-mayan-warri.jpg",
+        "webp_path": "webp_images/sd3b/close-up-profile-futuristic-cybernetic-mayan-warri.webp",
+        "original_path": "images/sd3b/close-up-profile-futuristic-cybernetic-mayan-warri.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/close-up-profile-futuristic-cybernetic-mayan-warri_thumbnail.webp"
   },
   {
     "prompt": "Beautiful female cyborg standing on a space ship with long flowing hair glowing eyes filagree armor cyberpunk Bladerunner android style of Alyssa Monks highly detailed",
     "images": [
       {
-        "path": "hun/beautiful-female-cyborg-standing-on-a-space-ship-w.jpg",
+        "webp_path": "webp_images/hun/beautiful-female-cyborg-standing-on-a-space-ship-w.webp",
+        "original_path": "images/hun/beautiful-female-cyborg-standing-on-a-space-ship-w.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-female-cyborg-standing-on-a-space-ship-w.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-female-cyborg-standing-on-a-space-ship-w.webp",
+        "original_path": "images/kolors_out1/beautiful-female-cyborg-standing-on-a-space-ship-w.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-female-cyborg-standing-on-a-space-ship-w.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-female-cyborg-standing-on-a-space-ship-w.webp",
+        "original_path": "images/sd3b/beautiful-female-cyborg-standing-on-a-space-ship-w.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-female-cyborg-standing-on-a-space-ship-w_thumbnail.webp"
   },
   {
     "prompt": "Beautiful opal queen, intricate details, rich colors, beautiful lighting, gorgeous, flowerpunk atompunk, in the style of Gediminas Pranckevicius and Pino Daeni and Moebius and Artgerm and Esao Andrews, jewels, spikes, mohawk, moss, branches, Flowers, Photorealistic, Pulp Comic Illustration, Film Lighting, Rake Lighting",
     "images": [
       {
-        "path": "hun/beautiful-opal-queen-intricate-details-rich-colors.jpg",
+        "webp_path": "webp_images/hun/beautiful-opal-queen-intricate-details-rich-colors.webp",
+        "original_path": "images/hun/beautiful-opal-queen-intricate-details-rich-colors.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-opal-queen-intricate-details-rich-colors.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-opal-queen-intricate-details-rich-colors.webp",
+        "original_path": "images/kolors_out1/beautiful-opal-queen-intricate-details-rich-colors.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-opal-queen-intricate-details-rich-colors.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-opal-queen-intricate-details-rich-colors.webp",
+        "original_path": "images/sd3b/beautiful-opal-queen-intricate-details-rich-colors.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-opal-queen-intricate-details-rich-colors_thumbnail.webp"
   },
   {
     "prompt": "maximalist painting of emma watson",
     "images": [
       {
-        "path": "hun/maximalist-painting-of-emma-watson.jpg",
+        "webp_path": "webp_images/hun/maximalist-painting-of-emma-watson.webp",
+        "original_path": "images/hun/maximalist-painting-of-emma-watson.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/maximalist-painting-of-emma-watson.jpg",
+        "webp_path": "webp_images/kolors_out1/maximalist-painting-of-emma-watson.webp",
+        "original_path": "images/kolors_out1/maximalist-painting-of-emma-watson.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/maximalist-painting-of-emma-watson.jpg",
+        "webp_path": "webp_images/sd3b/maximalist-painting-of-emma-watson.webp",
+        "original_path": "images/sd3b/maximalist-painting-of-emma-watson.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/maximalist-painting-of-emma-watson_thumbnail.webp"
   },
   {
     "prompt": "woman walking on pantone water, lake with tranquil lotus flowers, studio ghibli style",
     "images": [
       {
-        "path": "hun/woman-walking-on-pantone-water-lake-with-tranquil-.jpg",
+        "webp_path": "webp_images/hun/woman-walking-on-pantone-water-lake-with-tranquil-.webp",
+        "original_path": "images/hun/woman-walking-on-pantone-water-lake-with-tranquil-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/woman-walking-on-pantone-water-lake-with-tranquil-.jpg",
+        "webp_path": "webp_images/kolors_out1/woman-walking-on-pantone-water-lake-with-tranquil-.webp",
+        "original_path": "images/kolors_out1/woman-walking-on-pantone-water-lake-with-tranquil-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/woman-walking-on-pantone-water-lake-with-tranquil-.jpg",
+        "webp_path": "webp_images/sd3b/woman-walking-on-pantone-water-lake-with-tranquil-.webp",
+        "original_path": "images/sd3b/woman-walking-on-pantone-water-lake-with-tranquil-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/woman-walking-on-pantone-water-lake-with-tranquil-_thumbnail.webp"
   },
   {
     "prompt": "digital painting concept art of alina as a cowboy, masterpiece, ultra detailed, ultra realistic, by enki bilal",
     "images": [
       {
-        "path": "hun/digital-painting-concept-art-of-alina-as-a-cowboy-.jpg",
+        "webp_path": "webp_images/hun/digital-painting-concept-art-of-alina-as-a-cowboy-.webp",
+        "original_path": "images/hun/digital-painting-concept-art-of-alina-as-a-cowboy-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/digital-painting-concept-art-of-alina-as-a-cowboy-.jpg",
+        "webp_path": "webp_images/kolors_out1/digital-painting-concept-art-of-alina-as-a-cowboy-.webp",
+        "original_path": "images/kolors_out1/digital-painting-concept-art-of-alina-as-a-cowboy-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/digital-painting-concept-art-of-alina-as-a-cowboy-.jpg",
+        "webp_path": "webp_images/sd3b/digital-painting-concept-art-of-alina-as-a-cowboy-.webp",
+        "original_path": "images/sd3b/digital-painting-concept-art-of-alina-as-a-cowboy-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/digital-painting-concept-art-of-alina-as-a-cowboy-_thumbnail.webp"
   },
   {
     "prompt": "a cute brunette girl wearing pink headphones, wearing a color blocking hoodie, kawaii, whimsical, happy, big anime Pixar eyes, Nicoletta Ceccoli, Tim Burton, Lisa Frank",
     "images": [
       {
-        "path": "hun/a-cute-brunette-girl-wearing-pink-headphones-weari.jpg",
+        "webp_path": "webp_images/hun/a-cute-brunette-girl-wearing-pink-headphones-weari.webp",
+        "original_path": "images/hun/a-cute-brunette-girl-wearing-pink-headphones-weari.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-cute-brunette-girl-wearing-pink-headphones-weari.jpg",
+        "webp_path": "webp_images/kolors_out1/a-cute-brunette-girl-wearing-pink-headphones-weari.webp",
+        "original_path": "images/kolors_out1/a-cute-brunette-girl-wearing-pink-headphones-weari.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-cute-brunette-girl-wearing-pink-headphones-weari.jpg",
+        "webp_path": "webp_images/sd3b/a-cute-brunette-girl-wearing-pink-headphones-weari.webp",
+        "original_path": "images/sd3b/a-cute-brunette-girl-wearing-pink-headphones-weari.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-cute-brunette-girl-wearing-pink-headphones-weari_thumbnail.webp"
   },
   {
     "prompt": "an ornate biomechanical robot, by Shaun tan and kenny Scharf",
     "images": [
       {
-        "path": "hun/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.jpg",
+        "webp_path": "webp_images/hun/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.webp",
+        "original_path": "images/hun/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.jpg",
+        "webp_path": "webp_images/kolors_out1/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.webp",
+        "original_path": "images/kolors_out1/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.jpg",
+        "webp_path": "webp_images/sd3b/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.webp",
+        "original_path": "images/sd3b/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/an-ornate-biomechanical-robot-by-shaun-tan-and-ken_thumbnail.webp"
   },
   {
     "prompt": "Beautiful Ebony Cyberpunk Demon Princess, Portrait, Profile, Yoji Shinkawa style, Flowing hair, bold brush strokes, concept art, dramatic lighting, Orphism, psychedelic, Red Black and White, stylize, intricate detail, Alfredo Rodriguez, Jeremy Mann, Aaron Griffin, Tom Bagshaw",
     "images": [
       {
-        "path": "hun/beautiful-ebony-cyberpunk-demon-princess-portrait-.jpg",
+        "webp_path": "webp_images/hun/beautiful-ebony-cyberpunk-demon-princess-portrait-.webp",
+        "original_path": "images/hun/beautiful-ebony-cyberpunk-demon-princess-portrait-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-ebony-cyberpunk-demon-princess-portrait-.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-ebony-cyberpunk-demon-princess-portrait-.webp",
+        "original_path": "images/kolors_out1/beautiful-ebony-cyberpunk-demon-princess-portrait-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-ebony-cyberpunk-demon-princess-portrait-.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-ebony-cyberpunk-demon-princess-portrait-.webp",
+        "original_path": "images/sd3b/beautiful-ebony-cyberpunk-demon-princess-portrait-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-ebony-cyberpunk-demon-princess-portrait-_thumbnail.webp"
   },
   {
     "prompt": "Beautiful female thief of the thieves' guild wearing gilded assassin robe, exposed thighs and exposed stomach, intricate details, warm colors, mid-close portrait, anatomically perfect, beautiful symmetric face, natural lighting, cinematic by Artgerm and WLOP and Ross Tram and sakimichan and Alphonse Mucha",
     "images": [
       {
-        "path": "hun/beautiful-female-thief-of-the-thieves-guild-wearin.jpg",
+        "webp_path": "webp_images/hun/beautiful-female-thief-of-the-thieves-guild-wearin.webp",
+        "original_path": "images/hun/beautiful-female-thief-of-the-thieves-guild-wearin.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-female-thief-of-the-thieves-guild-wearin.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-female-thief-of-the-thieves-guild-wearin.webp",
+        "original_path": "images/kolors_out1/beautiful-female-thief-of-the-thieves-guild-wearin.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-female-thief-of-the-thieves-guild-wearin.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-female-thief-of-the-thieves-guild-wearin.webp",
+        "original_path": "images/sd3b/beautiful-female-thief-of-the-thieves-guild-wearin.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-female-thief-of-the-thieves-guild-wearin_thumbnail.webp"
   },
   {
     "prompt": "Intricate detailed, hyper realistic robotic head from Transformers, Bioshock and Blade Runner, filled with glowing light. Bolts of lightning. Sci-fi cyborg. Cinematic lighting. 85mm, f1.4, V-ray, octane render, unreal engine, ultra sharp, 8k, trending on CGSociety, caustics",
     "images": [
       {
-        "path": "hun/intricate-detailed-hyper-realistic-robotic-head-fr.jpg",
+        "webp_path": "webp_images/hun/intricate-detailed-hyper-realistic-robotic-head-fr.webp",
+        "original_path": "images/hun/intricate-detailed-hyper-realistic-robotic-head-fr.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/intricate-detailed-hyper-realistic-robotic-head-fr.jpg",
+        "webp_path": "webp_images/kolors_out1/intricate-detailed-hyper-realistic-robotic-head-fr.webp",
+        "original_path": "images/kolors_out1/intricate-detailed-hyper-realistic-robotic-head-fr.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/intricate-detailed-hyper-realistic-robotic-head-fr.jpg",
+        "webp_path": "webp_images/sd3b/intricate-detailed-hyper-realistic-robotic-head-fr.webp",
+        "original_path": "images/sd3b/intricate-detailed-hyper-realistic-robotic-head-fr.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/intricate-detailed-hyper-realistic-robotic-head-fr_thumbnail.webp"
   },
   {
     "prompt": "retrato de chica, hecho de trozos de papel de peri\u00f3dico + [art by Karol Bak + WLOP + Ray Caesar] + [beautifully detailed, perfect shading, highly detailed, Epic composition, white background, on white, margins, top-margin, bottom-margin, left-margin, right-margin, bold strokes oil paint, ink dropped in water, torn paper, tone mapping, {r_mada-book}]",
     "images": [
       {
-        "path": "hun/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.jpg",
+        "webp_path": "webp_images/hun/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.webp",
+        "original_path": "images/hun/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.jpg",
+        "webp_path": "webp_images/kolors_out1/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.webp",
+        "original_path": "images/kolors_out1/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.jpg",
         "subfolder": "kolors_out1"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3_thumbnail.webp"
   },
   {
     "prompt": "portrait of henry cavill as james bond, casino, key art, sprinting, palm trees, highly detailed, digital painting, artstation, concept art, cinematic lighting, sharp focus, illustration, by gaston bussiere alphonse mucha",
     "images": [
       {
-        "path": "hun/portrait-of-henry-cavill-as-james-bond-casino-key-.jpg",
+        "webp_path": "webp_images/hun/portrait-of-henry-cavill-as-james-bond-casino-key-.webp",
+        "original_path": "images/hun/portrait-of-henry-cavill-as-james-bond-casino-key-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/portrait-of-henry-cavill-as-james-bond-casino-key-.jpg",
+        "webp_path": "webp_images/kolors_out1/portrait-of-henry-cavill-as-james-bond-casino-key-.webp",
+        "original_path": "images/kolors_out1/portrait-of-henry-cavill-as-james-bond-casino-key-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/portrait-of-henry-cavill-as-james-bond-casino-key-.jpg",
+        "webp_path": "webp_images/sd3b/portrait-of-henry-cavill-as-james-bond-casino-key-.webp",
+        "original_path": "images/sd3b/portrait-of-henry-cavill-as-james-bond-casino-key-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/portrait-of-henry-cavill-as-james-bond-casino-key-_thumbnail.webp"
   },
   {
     "prompt": "graffiti of extremely cute small robot on concrete wall, how is it so cute \ud83d\ude2d\ud83e\udd7a",
     "images": [
       {
-        "path": "hun/graffiti-of-extremely-cute-small-robot-on-concrete.jpg",
+        "webp_path": "webp_images/hun/graffiti-of-extremely-cute-small-robot-on-concrete.webp",
+        "original_path": "images/hun/graffiti-of-extremely-cute-small-robot-on-concrete.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/graffiti-of-extremely-cute-small-robot-on-concrete.jpg",
+        "webp_path": "webp_images/kolors_out1/graffiti-of-extremely-cute-small-robot-on-concrete.webp",
+        "original_path": "images/kolors_out1/graffiti-of-extremely-cute-small-robot-on-concrete.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/graffiti-of-extremely-cute-small-robot-on-concrete.jpg",
+        "webp_path": "webp_images/sd3b/graffiti-of-extremely-cute-small-robot-on-concrete.webp",
+        "original_path": "images/sd3b/graffiti-of-extremely-cute-small-robot-on-concrete.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/graffiti-of-extremely-cute-small-robot-on-concrete_thumbnail.webp"
   },
   {
     "prompt": "Goddess of Agriculture, looks exactly like Elizabeth Hurley portrait, wearing green armor with lightning, rain, branches, leaves, fruits, flowers, smoke, gods, jesper ejsing, james jean, justin gerard, tomasz alen kopera, cgsociety, fenghua zhong, makoto shinkai, highly detailed, rim light, artistic, looks exactly like Elizabeth Hurley, cinematic lighting, in the style of Gediminas Pranckevicius and Pino Daeni and Moebius and Artgerm and Esao Andrews, very coherent, surreal, 8k illustration, by Charlie Bowater Art, Karol Bak, Mark Brooks",
     "images": [
       {
-        "path": "hun/goddess-of-agriculture-looks-exactly-like-elizabet.jpg",
+        "webp_path": "webp_images/hun/goddess-of-agriculture-looks-exactly-like-elizabet.webp",
+        "original_path": "images/hun/goddess-of-agriculture-looks-exactly-like-elizabet.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/goddess-of-agriculture-looks-exactly-like-elizabet.jpg",
+        "webp_path": "webp_images/kolors_out1/goddess-of-agriculture-looks-exactly-like-elizabet.webp",
+        "original_path": "images/kolors_out1/goddess-of-agriculture-looks-exactly-like-elizabet.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/goddess-of-agriculture-looks-exactly-like-elizabet.jpg",
+        "webp_path": "webp_images/sd3b/goddess-of-agriculture-looks-exactly-like-elizabet.webp",
+        "original_path": "images/sd3b/goddess-of-agriculture-looks-exactly-like-elizabet.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/goddess-of-agriculture-looks-exactly-like-elizabet_thumbnail.webp"
   },
   {
     "prompt": "infrared photography of exhausted olga fonda in dynamic pose at valley + greg rutkowski, billowing hair, face, beautifully lit, studio lighting, saturated colors, intricate details, perfect features, dramatic, hdr",
     "images": [
       {
-        "path": "hun/infrared-photography-of-exhausted-olga-fonda-in-dy.jpg",
+        "webp_path": "webp_images/hun/infrared-photography-of-exhausted-olga-fonda-in-dy.webp",
+        "original_path": "images/hun/infrared-photography-of-exhausted-olga-fonda-in-dy.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/infrared-photography-of-exhausted-olga-fonda-in-dy.jpg",
+        "webp_path": "webp_images/kolors_out1/infrared-photography-of-exhausted-olga-fonda-in-dy.webp",
+        "original_path": "images/kolors_out1/infrared-photography-of-exhausted-olga-fonda-in-dy.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/infrared-photography-of-exhausted-olga-fonda-in-dy.jpg",
+        "webp_path": "webp_images/sd3b/infrared-photography-of-exhausted-olga-fonda-in-dy.webp",
+        "original_path": "images/sd3b/infrared-photography-of-exhausted-olga-fonda-in-dy.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/infrared-photography-of-exhausted-olga-fonda-in-dy_thumbnail.webp"
   },
   {
     "prompt": "beautiful and extremely detailed matryoshka doll virgin mary by mark ryden and nicoletta ceccoli",
     "images": [
       {
-        "path": "hun/beautiful-and-extremely-detailed-matryoshka-doll-v.jpg",
+        "webp_path": "webp_images/hun/beautiful-and-extremely-detailed-matryoshka-doll-v.webp",
+        "original_path": "images/hun/beautiful-and-extremely-detailed-matryoshka-doll-v.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-and-extremely-detailed-matryoshka-doll-v.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-and-extremely-detailed-matryoshka-doll-v.webp",
+        "original_path": "images/kolors_out1/beautiful-and-extremely-detailed-matryoshka-doll-v.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-and-extremely-detailed-matryoshka-doll-v.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-and-extremely-detailed-matryoshka-doll-v.webp",
+        "original_path": "images/sd3b/beautiful-and-extremely-detailed-matryoshka-doll-v.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-and-extremely-detailed-matryoshka-doll-v_thumbnail.webp"
   },
   {
     "prompt": "an abandoned city of the gods floating in the sky, surrounded by clouds and big waterfalls, statues of antique gods,epic, octane render, 8K, unreal engine 5, ray tracing, highly detailed, Cinematic,",
     "images": [
       {
-        "path": "hun/an-abandoned-city-of-the-gods-floating-in-the-sky-.jpg",
+        "webp_path": "webp_images/hun/an-abandoned-city-of-the-gods-floating-in-the-sky-.webp",
+        "original_path": "images/hun/an-abandoned-city-of-the-gods-floating-in-the-sky-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/an-abandoned-city-of-the-gods-floating-in-the-sky-.jpg",
+        "webp_path": "webp_images/kolors_out1/an-abandoned-city-of-the-gods-floating-in-the-sky-.webp",
+        "original_path": "images/kolors_out1/an-abandoned-city-of-the-gods-floating-in-the-sky-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/an-abandoned-city-of-the-gods-floating-in-the-sky-.jpg",
+        "webp_path": "webp_images/sd3b/an-abandoned-city-of-the-gods-floating-in-the-sky-.webp",
+        "original_path": "images/sd3b/an-abandoned-city-of-the-gods-floating-in-the-sky-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/an-abandoned-city-of-the-gods-floating-in-the-sky-_thumbnail.webp"
   },
   {
     "prompt": "A gigantic battle bot vaguely in the shape of hello kitty. Cute but deadly. White and pink. in a cyberpunk city street. Art by Dan LuVisi",
     "images": [
       {
-        "path": "hun/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.jpg",
+        "webp_path": "webp_images/hun/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.webp",
+        "original_path": "images/hun/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.jpg",
+        "webp_path": "webp_images/kolors_out1/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.webp",
+        "original_path": "images/kolors_out1/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.jpg",
+        "webp_path": "webp_images/sd3b/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.webp",
+        "original_path": "images/sd3b/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell_thumbnail.webp"
   },
   {
     "prompt": "beautiful woman wearing an elaborate white rabbit mask that covers her eyes and nose, wavy hair, beautiful eyes, art by [Bastien Lecouffe-Deharme + \u00c9lisabeth Sonrel + Artgerm + WLOP + Ilya Kuvshinov + RHADS + Loish + Rossdraws]",
     "images": [
       {
-        "path": "hun/beautiful-woman-wearing-an-elaborate-white-rabbit-.jpg",
+        "webp_path": "webp_images/hun/beautiful-woman-wearing-an-elaborate-white-rabbit-.webp",
+        "original_path": "images/hun/beautiful-woman-wearing-an-elaborate-white-rabbit-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-woman-wearing-an-elaborate-white-rabbit-.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-woman-wearing-an-elaborate-white-rabbit-.webp",
+        "original_path": "images/kolors_out1/beautiful-woman-wearing-an-elaborate-white-rabbit-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-woman-wearing-an-elaborate-white-rabbit-.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-woman-wearing-an-elaborate-white-rabbit-.webp",
+        "original_path": "images/sd3b/beautiful-woman-wearing-an-elaborate-white-rabbit-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-woman-wearing-an-elaborate-white-rabbit-_thumbnail.webp"
   },
   {
     "prompt": "\"Kakashi Sensei, one eyed covered with facemask\" head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting,",
     "images": [
       {
-        "path": "hun/kakashi-sensei-one-eyed-covered-with-facemask-head.jpg",
+        "webp_path": "webp_images/hun/kakashi-sensei-one-eyed-covered-with-facemask-head.webp",
+        "original_path": "images/hun/kakashi-sensei-one-eyed-covered-with-facemask-head.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/kakashi-sensei-one-eyed-covered-with-facemask-head.jpg",
+        "webp_path": "webp_images/kolors_out1/kakashi-sensei-one-eyed-covered-with-facemask-head.webp",
+        "original_path": "images/kolors_out1/kakashi-sensei-one-eyed-covered-with-facemask-head.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/kakashi-sensei-one-eyed-covered-with-facemask-head.jpg",
+        "webp_path": "webp_images/sd3b/kakashi-sensei-one-eyed-covered-with-facemask-head.webp",
+        "original_path": "images/sd3b/kakashi-sensei-one-eyed-covered-with-facemask-head.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/kakashi-sensei-one-eyed-covered-with-facemask-head_thumbnail.webp"
   },
   {
     "prompt": "Cascadia forest, mossy steps ascending to old bronze doors, very detailed, ultra realistic, 8k, hd, cinematic, dramatic lighting,",
     "images": [
       {
-        "path": "hun/cascadia-forest-mossy-steps-ascending-to-old-bronz.jpg",
+        "webp_path": "webp_images/hun/cascadia-forest-mossy-steps-ascending-to-old-bronz.webp",
+        "original_path": "images/hun/cascadia-forest-mossy-steps-ascending-to-old-bronz.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/cascadia-forest-mossy-steps-ascending-to-old-bronz.jpg",
+        "webp_path": "webp_images/kolors_out1/cascadia-forest-mossy-steps-ascending-to-old-bronz.webp",
+        "original_path": "images/kolors_out1/cascadia-forest-mossy-steps-ascending-to-old-bronz.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/cascadia-forest-mossy-steps-ascending-to-old-bronz.jpg",
+        "webp_path": "webp_images/sd3b/cascadia-forest-mossy-steps-ascending-to-old-bronz.webp",
+        "original_path": "images/sd3b/cascadia-forest-mossy-steps-ascending-to-old-bronz.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/cascadia-forest-mossy-steps-ascending-to-old-bronz_thumbnail.webp"
   },
   {
     "prompt": "Close up portrait, A cybertank Engineer with a cybernetic eye, tools and workshop growing out of his head, rain, dripping oil, in the style of Gediminas Pranckevicius, Tim Razumovsky, Moebius, Russ Mills, Carne Griffiths, torn paper collage, splattered oil paint, cyberpunk, atompunk, engineerpunk, volumetric dust, pulp illustration, photorealism, raking sunlight, cinematic lighting",
     "images": [
       {
-        "path": "hun/close-up-portrait-a-cybertank-engineer-with-a-cybe.jpg",
+        "webp_path": "webp_images/hun/close-up-portrait-a-cybertank-engineer-with-a-cybe.webp",
+        "original_path": "images/hun/close-up-portrait-a-cybertank-engineer-with-a-cybe.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/close-up-portrait-a-cybertank-engineer-with-a-cybe.jpg",
+        "webp_path": "webp_images/kolors_out1/close-up-portrait-a-cybertank-engineer-with-a-cybe.webp",
+        "original_path": "images/kolors_out1/close-up-portrait-a-cybertank-engineer-with-a-cybe.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/close-up-portrait-a-cybertank-engineer-with-a-cybe.jpg",
+        "webp_path": "webp_images/sd3b/close-up-portrait-a-cybertank-engineer-with-a-cybe.webp",
+        "original_path": "images/sd3b/close-up-portrait-a-cybertank-engineer-with-a-cybe.jpg",
         "subfolder": "sd3b"
       }
-    ]
-  },
-  {
-    "prompt": "fantasy art, style of tom bagshaw and karol bak and h.r. giger, Barbara palvin, beautiful sorceress, glamour model, intricate ivory filigree breastplate, Muscular, bold bright colorful makeup, colorful tattoo covered body, rococopunk, boroquepunk, fashion punk, flower-punk",
-    "images": [
-      {
-        "path": "hun/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
-        "subfolder": "hun"
-      },
-      {
-        "path": "kolors_out1/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
-        "subfolder": "kolors_out1"
-      },
-      {
-        "path": "sd3b/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
-        "subfolder": "sd3b"
-      }
-    ]
+    ],
+    "thumbnail": "thumbnails/close-up-portrait-a-cybertank-engineer-with-a-cybe_thumbnail.webp"
   },
   {
     "prompt": "Akira, unreal engine, ambiant cyberpunk city background, character design, strong male biker with long blond hair and beard on is futuristic motorbike, in a cyberpunk and apocalyptic city, darkest dungeon styleBeautiful black hair Woman , close up profile, A futuristic gothicpunk, in the style of Russ Mills, Aaron Horkey, rhads, artgerm, ivan laliashvili, Jean-Baptiste Monge, Ink Dropped in water, torn paper, bold strokes oil paint, cinematic lighting",
     "images": [
       {
-        "path": "hun/akira-unreal-engine-ambiant-cyberpunk-city-backgro.jpg",
+        "webp_path": "webp_images/hun/akira-unreal-engine-ambiant-cyberpunk-city-backgro.webp",
+        "original_path": "images/hun/akira-unreal-engine-ambiant-cyberpunk-city-backgro.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/akira-unreal-engine-ambiant-cyberpunk-city-backgro.jpg",
+        "webp_path": "webp_images/kolors_out1/akira-unreal-engine-ambiant-cyberpunk-city-backgro.webp",
+        "original_path": "images/kolors_out1/akira-unreal-engine-ambiant-cyberpunk-city-backgro.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/akira-unreal-engine-ambiant-cyberpunk-city-backgro.jpg",
+        "webp_path": "webp_images/sd3b/akira-unreal-engine-ambiant-cyberpunk-city-backgro.webp",
+        "original_path": "images/sd3b/akira-unreal-engine-ambiant-cyberpunk-city-backgro.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/akira-unreal-engine-ambiant-cyberpunk-city-backgro_thumbnail.webp"
   },
   {
     "prompt": "Beautiful pure black background photography, stunning African voodoo priestess with Rembrandt lighting, black lipstick, white red face paint, dark skin, smooth, intricate detail, by testino",
     "images": [
       {
-        "path": "hun/beautiful-pure-black-background-photography-stunni.jpg",
+        "webp_path": "webp_images/hun/beautiful-pure-black-background-photography-stunni.webp",
+        "original_path": "images/hun/beautiful-pure-black-background-photography-stunni.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-pure-black-background-photography-stunni.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-pure-black-background-photography-stunni.webp",
+        "original_path": "images/kolors_out1/beautiful-pure-black-background-photography-stunni.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-pure-black-background-photography-stunni.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-pure-black-background-photography-stunni.webp",
+        "original_path": "images/sd3b/beautiful-pure-black-background-photography-stunni.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-pure-black-background-photography-stunni_thumbnail.webp"
   },
   {
     "prompt": "Beautiful Ebony Cyberpunk Demon Princess, Yoji Shinkawa style, Flowing hair, bold brush strokes, concept art, dramatic lighting, Orphism, psychedelic, Blue violet Black and White, stylize, intricate detail, Alfredo Rodriguez, Jeremy Mann, Aaron Griffin, Tom Bagshaw",
     "images": [
       {
-        "path": "hun/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.jpg",
+        "webp_path": "webp_images/hun/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.webp",
+        "original_path": "images/hun/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.webp",
+        "original_path": "images/kolors_out1/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.webp",
+        "original_path": "images/sd3b/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-ebony-cyberpunk-demon-princess-yoji-shin_thumbnail.webp"
   },
   {
     "prompt": "dramatic portrait of a golden stormtrooper in gold armor, gilded gold, shiny, smooth, hyperdetailed, hyperrealistic, extremely intricate and ornate, futuristic alien guild hall interior background, cinematic, epic, star wars concept art, volumetric lighting, octane render",
     "images": [
       {
-        "path": "hun/dramatic-portrait-of-a-golden-stormtrooper-in-gold.jpg",
+        "webp_path": "webp_images/hun/dramatic-portrait-of-a-golden-stormtrooper-in-gold.webp",
+        "original_path": "images/hun/dramatic-portrait-of-a-golden-stormtrooper-in-gold.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/dramatic-portrait-of-a-golden-stormtrooper-in-gold.jpg",
+        "webp_path": "webp_images/kolors_out1/dramatic-portrait-of-a-golden-stormtrooper-in-gold.webp",
+        "original_path": "images/kolors_out1/dramatic-portrait-of-a-golden-stormtrooper-in-gold.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/dramatic-portrait-of-a-golden-stormtrooper-in-gold.jpg",
+        "webp_path": "webp_images/sd3b/dramatic-portrait-of-a-golden-stormtrooper-in-gold.webp",
+        "original_path": "images/sd3b/dramatic-portrait-of-a-golden-stormtrooper-in-gold.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/dramatic-portrait-of-a-golden-stormtrooper-in-gold_thumbnail.webp"
   },
   {
     "prompt": "tiny cute adorable cyborg cat with wire-whiskers and cute paws, sitting in a space station with cyberpunk background, Pixar style, octane render",
     "images": [
       {
-        "path": "hun/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.jpg",
+        "webp_path": "webp_images/hun/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.webp",
+        "original_path": "images/hun/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.jpg",
+        "webp_path": "webp_images/kolors_out1/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.webp",
+        "original_path": "images/kolors_out1/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.jpg",
+        "webp_path": "webp_images/sd3b/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.webp",
+        "original_path": "images/sd3b/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a_thumbnail.webp"
   },
   {
     "prompt": "close-up portrait, upset lord's muse, very expressive angry face, gild and teal, heavy brush stroke, hyperdetailed, Yoji Shinkawa style, gilded light, surreal concept art, intricate, Aaron Griffin, WLOP, Junji Ito",
     "images": [
       {
-        "path": "hun/close-up-portrait-upset-lords-muse-very-expressive.jpg",
+        "webp_path": "webp_images/hun/close-up-portrait-upset-lords-muse-very-expressive.webp",
+        "original_path": "images/hun/close-up-portrait-upset-lords-muse-very-expressive.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/close-up-portrait-upset-lords-muse-very-expressive.jpg",
+        "webp_path": "webp_images/kolors_out1/close-up-portrait-upset-lords-muse-very-expressive.webp",
+        "original_path": "images/kolors_out1/close-up-portrait-upset-lords-muse-very-expressive.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/close-up-portrait-upset-lords-muse-very-expressive.jpg",
+        "webp_path": "webp_images/sd3b/close-up-portrait-upset-lords-muse-very-expressive.webp",
+        "original_path": "images/sd3b/close-up-portrait-upset-lords-muse-very-expressive.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/close-up-portrait-upset-lords-muse-very-expressive_thumbnail.webp"
   },
   {
     "prompt": "Beautiful Queen of Mars, Yoji Shinkawa style, Flowing hair, bold brush strokes, concept art, dramatic lighting, Orphism, psychedelic, Red Scarlet Orange Black and White, intricate detail, Tom Bagshaw, Jojos bizarre adventure, anime, Luis Royo",
     "images": [
       {
-        "path": "hun/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.jpg",
+        "webp_path": "webp_images/hun/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.webp",
+        "original_path": "images/hun/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.webp",
+        "original_path": "images/kolors_out1/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.webp",
+        "original_path": "images/sd3b/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-queen-of-mars-yoji-shinkawa-style-flowin_thumbnail.webp"
   },
   {
     "prompt": "fantasy art, style of tom bagshaw and karol bak and h.r. giger, angelababy, beautiful sorceress, intricate ivory filigree breastplate, Muscular, bold bright colorful makeup, colorful tattoo covered body, rococopunk, boroquepunk, fashion punk, flower-punk",
     "images": [
       {
-        "path": "hun/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
+        "webp_path": "webp_images/hun/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.webp",
+        "original_path": "images/hun/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
+        "webp_path": "webp_images/kolors_out1/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.webp",
+        "original_path": "images/kolors_out1/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
+        "webp_path": "webp_images/sd3b/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.webp",
+        "original_path": "images/sd3b/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and_thumbnail.webp"
   },
   {
     "prompt": "fantasy art, badass liuyifei, beautiful sorceress, intricate (white ivory filigree) breastplate armour, Muscular, colorful tattoo covered body, rococopunk, baroquepunk, fashion punk, style of tom bagshaw and karol bak",
     "images": [
       {
-        "path": "hun/fantasy-art-badass-liuyifei-beautiful-sorceress-in.jpg",
+        "webp_path": "webp_images/hun/fantasy-art-badass-liuyifei-beautiful-sorceress-in.webp",
+        "original_path": "images/hun/fantasy-art-badass-liuyifei-beautiful-sorceress-in.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/fantasy-art-badass-liuyifei-beautiful-sorceress-in.jpg",
+        "webp_path": "webp_images/kolors_out1/fantasy-art-badass-liuyifei-beautiful-sorceress-in.webp",
+        "original_path": "images/kolors_out1/fantasy-art-badass-liuyifei-beautiful-sorceress-in.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/fantasy-art-badass-liuyifei-beautiful-sorceress-in.jpg",
+        "webp_path": "webp_images/sd3b/fantasy-art-badass-liuyifei-beautiful-sorceress-in.webp",
+        "original_path": "images/sd3b/fantasy-art-badass-liuyifei-beautiful-sorceress-in.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/fantasy-art-badass-liuyifei-beautiful-sorceress-in_thumbnail.webp"
   },
   {
     "prompt": "a \ud83d\udc69, \ud83d\ude1c, \ud83e\udd33, \u270c\ud83d\udc78\ud83d\ude0d\ud83d\ude1c  ,\ud83d\udc95,   \u2728,\ud83e\udd33,\ud83e\udde5",
     "images": [
       {
-        "path": "hun/a.jpg",
+        "webp_path": "webp_images/hun/a.webp",
+        "original_path": "images/hun/a.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a.jpg",
+        "webp_path": "webp_images/kolors_out1/a.webp",
+        "original_path": "images/kolors_out1/a.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a.jpg",
+        "webp_path": "webp_images/sd3b/a.webp",
+        "original_path": "images/sd3b/a.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a_thumbnail.webp"
   },
   {
     "prompt": "Spiderpunk [Tinker bell as a litte diva with long brown hair], Cinematic 8k HDR, Anime Eyes, artwork by Ilya Kuvshinov",
     "images": [
       {
-        "path": "hun/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.jpg",
+        "webp_path": "webp_images/hun/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.webp",
+        "original_path": "images/hun/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.jpg",
+        "webp_path": "webp_images/kolors_out1/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.webp",
+        "original_path": "images/kolors_out1/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.jpg",
+        "webp_path": "webp_images/sd3b/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.webp",
+        "original_path": "images/sd3b/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b_thumbnail.webp"
   },
   {
     "prompt": "A beautiful geisha-punk face by Noriyoshi Ohrai and Tank Girl",
     "images": [
       {
-        "path": "hun/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.jpg",
+        "webp_path": "webp_images/hun/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.webp",
+        "original_path": "images/hun/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.jpg",
+        "webp_path": "webp_images/kolors_out1/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.webp",
+        "original_path": "images/kolors_out1/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.jpg",
+        "webp_path": "webp_images/sd3b/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.webp",
+        "original_path": "images/sd3b/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an_thumbnail.webp"
   },
   {
     "prompt": "flirty male muscular deadpool, wearing a tutu, pointe shoes posing, feminin, girly, cute, flirty, ballet dancer guild",
     "images": [
       {
-        "path": "hun/flirty-male-muscular-deadpool-wearing-a-tutu-point.jpg",
+        "webp_path": "webp_images/hun/flirty-male-muscular-deadpool-wearing-a-tutu-point.webp",
+        "original_path": "images/hun/flirty-male-muscular-deadpool-wearing-a-tutu-point.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/flirty-male-muscular-deadpool-wearing-a-tutu-point.jpg",
+        "webp_path": "webp_images/kolors_out1/flirty-male-muscular-deadpool-wearing-a-tutu-point.webp",
+        "original_path": "images/kolors_out1/flirty-male-muscular-deadpool-wearing-a-tutu-point.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/flirty-male-muscular-deadpool-wearing-a-tutu-point.jpg",
+        "webp_path": "webp_images/sd3b/flirty-male-muscular-deadpool-wearing-a-tutu-point.webp",
+        "original_path": "images/sd3b/flirty-male-muscular-deadpool-wearing-a-tutu-point.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/flirty-male-muscular-deadpool-wearing-a-tutu-point_thumbnail.webp"
   },
   {
     "prompt": "Beautiful Ethereal Portrait of a flower girl, in the style of Anna Dittman, intricate detail, beautiful lighting, flowers, dissolving, liquid, radial composition, translucent, transparent, stylized",
     "images": [
       {
-        "path": "hun/beautiful-ethereal-portrait-of-a-flower-girl-in-th.jpg",
+        "webp_path": "webp_images/hun/beautiful-ethereal-portrait-of-a-flower-girl-in-th.webp",
+        "original_path": "images/hun/beautiful-ethereal-portrait-of-a-flower-girl-in-th.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-ethereal-portrait-of-a-flower-girl-in-th.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-ethereal-portrait-of-a-flower-girl-in-th.webp",
+        "original_path": "images/kolors_out1/beautiful-ethereal-portrait-of-a-flower-girl-in-th.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-ethereal-portrait-of-a-flower-girl-in-th.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-ethereal-portrait-of-a-flower-girl-in-th.webp",
+        "original_path": "images/sd3b/beautiful-ethereal-portrait-of-a-flower-girl-in-th.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-ethereal-portrait-of-a-flower-girl-in-th_thumbnail.webp"
   },
   {
     "prompt": "ghost, ukrainian girl, war, fire, blue, yellow",
     "images": [
       {
-        "path": "hun/ghost-ukrainian-girl-war-fire-blue-yellow.jpg",
+        "webp_path": "webp_images/hun/ghost-ukrainian-girl-war-fire-blue-yellow.webp",
+        "original_path": "images/hun/ghost-ukrainian-girl-war-fire-blue-yellow.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/ghost-ukrainian-girl-war-fire-blue-yellow.jpg",
+        "webp_path": "webp_images/kolors_out1/ghost-ukrainian-girl-war-fire-blue-yellow.webp",
+        "original_path": "images/kolors_out1/ghost-ukrainian-girl-war-fire-blue-yellow.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/ghost-ukrainian-girl-war-fire-blue-yellow.jpg",
+        "webp_path": "webp_images/sd3b/ghost-ukrainian-girl-war-fire-blue-yellow.webp",
+        "original_path": "images/sd3b/ghost-ukrainian-girl-war-fire-blue-yellow.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/ghost-ukrainian-girl-war-fire-blue-yellow_thumbnail.webp"
   },
   {
     "prompt": "A beautiul portrait of a cyberpunk ronin samurai, sekiro, intense stare, full face cover dieselpunk mask, atompunk goggles, retro-futuristic brown leather jacket, ethereal, galaxy, cosmic colors, in the style of artgerm, moebius, deathburger, John Cassaday, Wayne Barlowe and greg rutkowski, trending on artstation, steampunk, splash of bronze flakes, volumetric nebula dust particles, blue galactic atmosphere, ultra realistic digital art, digital painting, cinematic, high detailed, intricate, cyberpunk lighting, photo realistic, symmertical, concept art, smooth, sharp focus, illustration, Bokeh blur, unreal engine 5, octane render, 8K, HDR",
     "images": [
       {
-        "path": "hun/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.jpg",
+        "webp_path": "webp_images/hun/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.webp",
+        "original_path": "images/hun/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.jpg",
+        "webp_path": "webp_images/kolors_out1/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.webp",
+        "original_path": "images/kolors_out1/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.jpg",
+        "webp_path": "webp_images/sd3b/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.webp",
+        "original_path": "images/sd3b/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s_thumbnail.webp"
   },
   {
     "prompt": "alina as wonderwoman in a post-apocalyptic factory overgrown with plants, by guweiz",
     "images": [
       {
-        "path": "hun/alina-as-wonderwoman-in-a-post-apocalyptic-factory.jpg",
+        "webp_path": "webp_images/hun/alina-as-wonderwoman-in-a-post-apocalyptic-factory.webp",
+        "original_path": "images/hun/alina-as-wonderwoman-in-a-post-apocalyptic-factory.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/alina-as-wonderwoman-in-a-post-apocalyptic-factory.jpg",
+        "webp_path": "webp_images/kolors_out1/alina-as-wonderwoman-in-a-post-apocalyptic-factory.webp",
+        "original_path": "images/kolors_out1/alina-as-wonderwoman-in-a-post-apocalyptic-factory.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/alina-as-wonderwoman-in-a-post-apocalyptic-factory.jpg",
+        "webp_path": "webp_images/sd3b/alina-as-wonderwoman-in-a-post-apocalyptic-factory.webp",
+        "original_path": "images/sd3b/alina-as-wonderwoman-in-a-post-apocalyptic-factory.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/alina-as-wonderwoman-in-a-post-apocalyptic-factory_thumbnail.webp"
   },
   {
     "prompt": "Beautiful Woman appearing from (colorful liquid oil paint:1.3), splashing paint, bold paint strokes, cinematic lighting, photo realistic, by karol bak",
     "images": [
       {
-        "path": "hun/beautiful-woman-appearing-from-colorful-liquid-oil.jpg",
+        "webp_path": "webp_images/hun/beautiful-woman-appearing-from-colorful-liquid-oil.webp",
+        "original_path": "images/hun/beautiful-woman-appearing-from-colorful-liquid-oil.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/beautiful-woman-appearing-from-colorful-liquid-oil.jpg",
+        "webp_path": "webp_images/kolors_out1/beautiful-woman-appearing-from-colorful-liquid-oil.webp",
+        "original_path": "images/kolors_out1/beautiful-woman-appearing-from-colorful-liquid-oil.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/beautiful-woman-appearing-from-colorful-liquid-oil.jpg",
+        "webp_path": "webp_images/sd3b/beautiful-woman-appearing-from-colorful-liquid-oil.webp",
+        "original_path": "images/sd3b/beautiful-woman-appearing-from-colorful-liquid-oil.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/beautiful-woman-appearing-from-colorful-liquid-oil_thumbnail.webp"
   },
   {
     "prompt": "realistic detailed semirealism beautiful gorgeous cute blackpink lalisa manoban wearing a summer dress",
     "images": [
       {
-        "path": "hun/realistic-detailed-semirealism-beautiful-gorgeous-.jpg",
+        "webp_path": "webp_images/hun/realistic-detailed-semirealism-beautiful-gorgeous-.webp",
+        "original_path": "images/hun/realistic-detailed-semirealism-beautiful-gorgeous-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/realistic-detailed-semirealism-beautiful-gorgeous-.jpg",
+        "webp_path": "webp_images/kolors_out1/realistic-detailed-semirealism-beautiful-gorgeous-.webp",
+        "original_path": "images/kolors_out1/realistic-detailed-semirealism-beautiful-gorgeous-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/realistic-detailed-semirealism-beautiful-gorgeous-.jpg",
+        "webp_path": "webp_images/sd3b/realistic-detailed-semirealism-beautiful-gorgeous-.webp",
+        "original_path": "images/sd3b/realistic-detailed-semirealism-beautiful-gorgeous-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/realistic-detailed-semirealism-beautiful-gorgeous-_thumbnail.webp"
   },
   {
     "prompt": "lofi girl studying in a cafe, listening to music, (wearing pink headphones), smooth, masterpiece, trending on artstation, by enki bilal",
     "images": [
       {
-        "path": "hun/lofi-girl-studying-in-a-cafe-listening-to-music-we.jpg",
+        "webp_path": "webp_images/hun/lofi-girl-studying-in-a-cafe-listening-to-music-we.webp",
+        "original_path": "images/hun/lofi-girl-studying-in-a-cafe-listening-to-music-we.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/lofi-girl-studying-in-a-cafe-listening-to-music-we.jpg",
+        "webp_path": "webp_images/kolors_out1/lofi-girl-studying-in-a-cafe-listening-to-music-we.webp",
+        "original_path": "images/kolors_out1/lofi-girl-studying-in-a-cafe-listening-to-music-we.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/lofi-girl-studying-in-a-cafe-listening-to-music-we.jpg",
+        "webp_path": "webp_images/sd3b/lofi-girl-studying-in-a-cafe-listening-to-music-we.webp",
+        "original_path": "images/sd3b/lofi-girl-studying-in-a-cafe-listening-to-music-we.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/lofi-girl-studying-in-a-cafe-listening-to-music-we_thumbnail.webp"
   },
   {
     "prompt": "pixar style cute, adorable, tiny, anime chibi emma watson as hermione, wearing hogwarts uniform, in front of hogwarts castle,  at night, big anime eyes, beautiful, volumetric lighting, octane render",
     "images": [
       {
-        "path": "hun/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.jpg",
+        "webp_path": "webp_images/hun/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.webp",
+        "original_path": "images/hun/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.jpg",
+        "webp_path": "webp_images/kolors_out1/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.webp",
+        "original_path": "images/kolors_out1/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.jpg",
+        "webp_path": "webp_images/sd3b/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.webp",
+        "original_path": "images/sd3b/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa_thumbnail.webp"
   },
   {
     "prompt": "robot with exposed hydraulic lines in a junkyard, robot body, by enki, masterpiece, high quality, amazing background by ghibli, wide gorgeous eyes, smooth cell shading",
     "images": [
       {
-        "path": "hun/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.jpg",
+        "webp_path": "webp_images/hun/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.webp",
+        "original_path": "images/hun/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.jpg",
+        "webp_path": "webp_images/kolors_out1/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.webp",
+        "original_path": "images/kolors_out1/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.jpg",
+        "webp_path": "webp_images/sd3b/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.webp",
+        "original_path": "images/sd3b/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/robot-with-exposed-hydraulic-lines-in-a-junkyard-r_thumbnail.webp"
   },
   {
     "prompt": "highly detailed, highly accurate, masterpiece, best quality, pixar style cute, adorable, tiny, anime chibi emma watson as hermione, wearing hogwarts uniform, in front of hogwarts castle, at night, big anime eyes",
     "images": [
       {
-        "path": "hun/highly-detailed-highly-accurate-masterpiece-best-q.jpg",
+        "webp_path": "webp_images/hun/highly-detailed-highly-accurate-masterpiece-best-q.webp",
+        "original_path": "images/hun/highly-detailed-highly-accurate-masterpiece-best-q.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/highly-detailed-highly-accurate-masterpiece-best-q.jpg",
+        "webp_path": "webp_images/kolors_out1/highly-detailed-highly-accurate-masterpiece-best-q.webp",
+        "original_path": "images/kolors_out1/highly-detailed-highly-accurate-masterpiece-best-q.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/highly-detailed-highly-accurate-masterpiece-best-q.jpg",
+        "webp_path": "webp_images/sd3b/highly-detailed-highly-accurate-masterpiece-best-q.webp",
+        "original_path": "images/sd3b/highly-detailed-highly-accurate-masterpiece-best-q.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/highly-detailed-highly-accurate-masterpiece-best-q_thumbnail.webp"
   },
   {
     "prompt": "japanese gravure model, geisha-punk face, tankgirl, dieselpunk, covered in black straps, eyes, face, mouth, hasselblad, masterpiece photo by enki and karol",
     "images": [
       {
-        "path": "hun/japanese-gravure-model-geisha-punk-face-tankgirl-d.jpg",
+        "webp_path": "webp_images/hun/japanese-gravure-model-geisha-punk-face-tankgirl-d.webp",
+        "original_path": "images/hun/japanese-gravure-model-geisha-punk-face-tankgirl-d.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/japanese-gravure-model-geisha-punk-face-tankgirl-d.jpg",
+        "webp_path": "webp_images/kolors_out1/japanese-gravure-model-geisha-punk-face-tankgirl-d.webp",
+        "original_path": "images/kolors_out1/japanese-gravure-model-geisha-punk-face-tankgirl-d.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/japanese-gravure-model-geisha-punk-face-tankgirl-d.jpg",
+        "webp_path": "webp_images/sd3b/japanese-gravure-model-geisha-punk-face-tankgirl-d.webp",
+        "original_path": "images/sd3b/japanese-gravure-model-geisha-punk-face-tankgirl-d.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/japanese-gravure-model-geisha-punk-face-tankgirl-d_thumbnail.webp"
   },
   {
     "prompt": "close-up portrait, suggestive, unbuttoned, fantasy art, style of tom bagshaw and karol bak and h.r. giger, Barbara palvin, beautiful sorceress, glamour model, intricate ivory filigree breastplate, Muscular, bold bright colorful makeup, colorful tattoo covered body, rococopunk, baroque-punk, fashion punk, flower-punk",
     "images": [
       {
-        "path": "hun/close-up-portrait-suggestive-unbuttoned-fantasy-ar.jpg",
+        "webp_path": "webp_images/hun/close-up-portrait-suggestive-unbuttoned-fantasy-ar.webp",
+        "original_path": "images/hun/close-up-portrait-suggestive-unbuttoned-fantasy-ar.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/close-up-portrait-suggestive-unbuttoned-fantasy-ar.jpg",
+        "webp_path": "webp_images/kolors_out1/close-up-portrait-suggestive-unbuttoned-fantasy-ar.webp",
+        "original_path": "images/kolors_out1/close-up-portrait-suggestive-unbuttoned-fantasy-ar.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/close-up-portrait-suggestive-unbuttoned-fantasy-ar.jpg",
+        "webp_path": "webp_images/sd3b/close-up-portrait-suggestive-unbuttoned-fantasy-ar.webp",
+        "original_path": "images/sd3b/close-up-portrait-suggestive-unbuttoned-fantasy-ar.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/close-up-portrait-suggestive-unbuttoned-fantasy-ar_thumbnail.webp"
   },
   {
     "prompt": "a group of chinese supermodels wearing bikinis, masterpiece photo, canon 5d mkiii, 24mm f4",
     "images": [
       {
-        "path": "hun/a-group-of-chinese-supermodels-wearing-bikinis-mas.jpg",
+        "webp_path": "webp_images/hun/a-group-of-chinese-supermodels-wearing-bikinis-mas.webp",
+        "original_path": "images/hun/a-group-of-chinese-supermodels-wearing-bikinis-mas.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-group-of-chinese-supermodels-wearing-bikinis-mas.jpg",
+        "webp_path": "webp_images/kolors_out1/a-group-of-chinese-supermodels-wearing-bikinis-mas.webp",
+        "original_path": "images/kolors_out1/a-group-of-chinese-supermodels-wearing-bikinis-mas.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-group-of-chinese-supermodels-wearing-bikinis-mas.jpg",
+        "webp_path": "webp_images/sd3b/a-group-of-chinese-supermodels-wearing-bikinis-mas.webp",
+        "original_path": "images/sd3b/a-group-of-chinese-supermodels-wearing-bikinis-mas.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-group-of-chinese-supermodels-wearing-bikinis-mas_thumbnail.webp"
   },
   {
     "prompt": "photo of a tiny cute kitten plush stuffed toy, as an astronaut on the moon, pixar style eyes, pokemon anime style, octane render, fantasy, volumetric light, soft cinematic lighting, tinycore, cutecore, realistic, 8 k",
     "images": [
       {
-        "path": "hun/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.jpg",
+        "webp_path": "webp_images/hun/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.webp",
+        "original_path": "images/hun/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.jpg",
+        "webp_path": "webp_images/kolors_out1/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.webp",
+        "original_path": "images/kolors_out1/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.jpg",
+        "webp_path": "webp_images/sd3b/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.webp",
+        "original_path": "images/sd3b/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a_thumbnail.webp"
   },
   {
     "prompt": "karol ghibli style, julia alina emma wearing alien afro-futuristic (cyborg armor) on a pantone alien planet, by enki wlop testino karol",
     "images": [
       {
-        "path": "hun/karol-ghibli-style-julia-alina-emma-wearing-alien-.jpg",
+        "webp_path": "webp_images/hun/karol-ghibli-style-julia-alina-emma-wearing-alien-.webp",
+        "original_path": "images/hun/karol-ghibli-style-julia-alina-emma-wearing-alien-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/karol-ghibli-style-julia-alina-emma-wearing-alien-.jpg",
+        "webp_path": "webp_images/kolors_out1/karol-ghibli-style-julia-alina-emma-wearing-alien-.webp",
+        "original_path": "images/kolors_out1/karol-ghibli-style-julia-alina-emma-wearing-alien-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/karol-ghibli-style-julia-alina-emma-wearing-alien-.jpg",
+        "webp_path": "webp_images/sd3b/karol-ghibli-style-julia-alina-emma-wearing-alien-.webp",
+        "original_path": "images/sd3b/karol-ghibli-style-julia-alina-emma-wearing-alien-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/karol-ghibli-style-julia-alina-emma-wearing-alien-_thumbnail.webp"
   },
   {
     "prompt": "Portrait of beautiful sexy fashion blond girl. Model with bright makeup and curly hairstyle in retro style hat sitting in old car. Attractive woman  rides around the night city",
     "images": [
       {
-        "path": "hun/portrait-of-beautiful-sexy-fashion-blond-girl-mode.jpg",
+        "webp_path": "webp_images/hun/portrait-of-beautiful-sexy-fashion-blond-girl-mode.webp",
+        "original_path": "images/hun/portrait-of-beautiful-sexy-fashion-blond-girl-mode.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/portrait-of-beautiful-sexy-fashion-blond-girl-mode.jpg",
+        "webp_path": "webp_images/kolors_out1/portrait-of-beautiful-sexy-fashion-blond-girl-mode.webp",
+        "original_path": "images/kolors_out1/portrait-of-beautiful-sexy-fashion-blond-girl-mode.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/portrait-of-beautiful-sexy-fashion-blond-girl-mode.jpg",
+        "webp_path": "webp_images/sd3b/portrait-of-beautiful-sexy-fashion-blond-girl-mode.webp",
+        "original_path": "images/sd3b/portrait-of-beautiful-sexy-fashion-blond-girl-mode.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/portrait-of-beautiful-sexy-fashion-blond-girl-mode_thumbnail.webp"
   },
   {
     "prompt": "a close up of a person with horns on their head, a character portrait, by Kieran Yanner, Artstation contest winner, sunset glow, medium portrait of a goblin, teen elf, skinny male fantasy alchemist",
     "images": [
       {
-        "path": "hun/a-close-up-of-a-person-with-horns-on-their-head-a-.jpg",
+        "webp_path": "webp_images/hun/a-close-up-of-a-person-with-horns-on-their-head-a-.webp",
+        "original_path": "images/hun/a-close-up-of-a-person-with-horns-on-their-head-a-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-close-up-of-a-person-with-horns-on-their-head-a-.jpg",
+        "webp_path": "webp_images/kolors_out1/a-close-up-of-a-person-with-horns-on-their-head-a-.webp",
+        "original_path": "images/kolors_out1/a-close-up-of-a-person-with-horns-on-their-head-a-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-close-up-of-a-person-with-horns-on-their-head-a-.jpg",
+        "webp_path": "webp_images/sd3b/a-close-up-of-a-person-with-horns-on-their-head-a-.webp",
+        "original_path": "images/sd3b/a-close-up-of-a-person-with-horns-on-their-head-a-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-close-up-of-a-person-with-horns-on-their-head-a-_thumbnail.webp"
   },
   {
     "prompt": "A surrealist portrait of a mermaid with colorful, flowing hair and intricate tattoos, surrounded by underwater coral and sea creatures. The portrait is inspired by the work of Salvador Dali and Zdzis\u0142aw Beksi\u0144ski.",
     "images": [
       {
-        "path": "hun/a-surrealist-portrait-of-a-mermaid-with-colorful-f.jpg",
+        "webp_path": "webp_images/hun/a-surrealist-portrait-of-a-mermaid-with-colorful-f.webp",
+        "original_path": "images/hun/a-surrealist-portrait-of-a-mermaid-with-colorful-f.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-surrealist-portrait-of-a-mermaid-with-colorful-f.jpg",
+        "webp_path": "webp_images/kolors_out1/a-surrealist-portrait-of-a-mermaid-with-colorful-f.webp",
+        "original_path": "images/kolors_out1/a-surrealist-portrait-of-a-mermaid-with-colorful-f.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-surrealist-portrait-of-a-mermaid-with-colorful-f.jpg",
+        "webp_path": "webp_images/sd3b/a-surrealist-portrait-of-a-mermaid-with-colorful-f.webp",
+        "original_path": "images/sd3b/a-surrealist-portrait-of-a-mermaid-with-colorful-f.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-surrealist-portrait-of-a-mermaid-with-colorful-f_thumbnail.webp"
   },
   {
     "prompt": "A photorealistic rendering of a futuristic cityscape, featuring towering skyscrapers, flying cars, and neon lights. The image is set at sunset, with a vibrant orange and pink sky in the background.",
     "images": [
       {
-        "path": "hun/a-photorealistic-rendering-of-a-futuristic-citysca.jpg",
+        "webp_path": "webp_images/hun/a-photorealistic-rendering-of-a-futuristic-citysca.webp",
+        "original_path": "images/hun/a-photorealistic-rendering-of-a-futuristic-citysca.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-photorealistic-rendering-of-a-futuristic-citysca.jpg",
+        "webp_path": "webp_images/kolors_out1/a-photorealistic-rendering-of-a-futuristic-citysca.webp",
+        "original_path": "images/kolors_out1/a-photorealistic-rendering-of-a-futuristic-citysca.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-photorealistic-rendering-of-a-futuristic-citysca.jpg",
+        "webp_path": "webp_images/sd3b/a-photorealistic-rendering-of-a-futuristic-citysca.webp",
+        "original_path": "images/sd3b/a-photorealistic-rendering-of-a-futuristic-citysca.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-photorealistic-rendering-of-a-futuristic-citysca_thumbnail.webp"
   },
   {
     "prompt": "A fantastical landscape of a rolling green valley, dotted with magical forests and enchanted lakes. In the distance, a castle sits atop a hill, surrounded by clouds and mist. The scene is inspired by the work of Studio Ghibli.",
     "images": [
       {
-        "path": "hun/a-fantastical-landscape-of-a-rolling-green-valley-.jpg",
+        "webp_path": "webp_images/hun/a-fantastical-landscape-of-a-rolling-green-valley-.webp",
+        "original_path": "images/hun/a-fantastical-landscape-of-a-rolling-green-valley-.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-fantastical-landscape-of-a-rolling-green-valley-.jpg",
+        "webp_path": "webp_images/kolors_out1/a-fantastical-landscape-of-a-rolling-green-valley-.webp",
+        "original_path": "images/kolors_out1/a-fantastical-landscape-of-a-rolling-green-valley-.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-fantastical-landscape-of-a-rolling-green-valley-.jpg",
+        "webp_path": "webp_images/sd3b/a-fantastical-landscape-of-a-rolling-green-valley-.webp",
+        "original_path": "images/sd3b/a-fantastical-landscape-of-a-rolling-green-valley-.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-fantastical-landscape-of-a-rolling-green-valley-_thumbnail.webp"
   },
   {
     "prompt": "A digital painting of a warrior princess, dressed in armor and wielding a glowing sword. The warrior is depicted in a dramatic pose, with swirling energy and sparks emanating from her sword. The image is inspired by the art style of Frank Frazetta.",
     "images": [
       {
-        "path": "hun/a-digital-painting-of-a-warrior-princess-dressed-i.jpg",
+        "webp_path": "webp_images/hun/a-digital-painting-of-a-warrior-princess-dressed-i.webp",
+        "original_path": "images/hun/a-digital-painting-of-a-warrior-princess-dressed-i.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-digital-painting-of-a-warrior-princess-dressed-i.jpg",
+        "webp_path": "webp_images/kolors_out1/a-digital-painting-of-a-warrior-princess-dressed-i.webp",
+        "original_path": "images/kolors_out1/a-digital-painting-of-a-warrior-princess-dressed-i.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-digital-painting-of-a-warrior-princess-dressed-i.jpg",
+        "webp_path": "webp_images/sd3b/a-digital-painting-of-a-warrior-princess-dressed-i.webp",
+        "original_path": "images/sd3b/a-digital-painting-of-a-warrior-princess-dressed-i.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-digital-painting-of-a-warrior-princess-dressed-i_thumbnail.webp"
   },
   {
     "prompt": "A close-up photograph of a majestic eagle, with piercing eyes and sharp talons. The eagle is perched on a branch, surrounded by a beautiful natural landscape. The photograph is taken with a shallow depth of field, to focus on the details of the bird's feathers.",
     "images": [
       {
-        "path": "hun/a-close-up-photograph-of-a-majestic-eagle-with-pie.jpg",
+        "webp_path": "webp_images/hun/a-close-up-photograph-of-a-majestic-eagle-with-pie.webp",
+        "original_path": "images/hun/a-close-up-photograph-of-a-majestic-eagle-with-pie.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-close-up-photograph-of-a-majestic-eagle-with-pie.jpg",
+        "webp_path": "webp_images/kolors_out1/a-close-up-photograph-of-a-majestic-eagle-with-pie.webp",
+        "original_path": "images/kolors_out1/a-close-up-photograph-of-a-majestic-eagle-with-pie.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-close-up-photograph-of-a-majestic-eagle-with-pie.jpg",
+        "webp_path": "webp_images/sd3b/a-close-up-photograph-of-a-majestic-eagle-with-pie.webp",
+        "original_path": "images/sd3b/a-close-up-photograph-of-a-majestic-eagle-with-pie.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-close-up-photograph-of-a-majestic-eagle-with-pie_thumbnail.webp"
   },
   {
     "prompt": "A stylized illustration of a robot in a futuristic cyberpunk world. The robot is heavily modified with mechanical limbs and glowing cybernetic implants. The image is inspired by the art style of Katsuhiro Otomo and Hajime Sorayama.",
     "images": [
       {
-        "path": "hun/a-stylized-illustration-of-a-robot-in-a-futuristic.jpg",
+        "webp_path": "webp_images/hun/a-stylized-illustration-of-a-robot-in-a-futuristic.webp",
+        "original_path": "images/hun/a-stylized-illustration-of-a-robot-in-a-futuristic.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-stylized-illustration-of-a-robot-in-a-futuristic.jpg",
+        "webp_path": "webp_images/kolors_out1/a-stylized-illustration-of-a-robot-in-a-futuristic.webp",
+        "original_path": "images/kolors_out1/a-stylized-illustration-of-a-robot-in-a-futuristic.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-stylized-illustration-of-a-robot-in-a-futuristic.jpg",
+        "webp_path": "webp_images/sd3b/a-stylized-illustration-of-a-robot-in-a-futuristic.webp",
+        "original_path": "images/sd3b/a-stylized-illustration-of-a-robot-in-a-futuristic.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-stylized-illustration-of-a-robot-in-a-futuristic_thumbnail.webp"
   },
   {
     "prompt": "A cartoonish illustration of a group of animal friends, including a fox, a rabbit, and a bear, having a picnic in a sunny meadow. The image is inspired by the art style of Pixar and Disney.",
     "images": [
       {
-        "path": "hun/a-cartoonish-illustration-of-a-group-of-animal-fri.jpg",
+        "webp_path": "webp_images/hun/a-cartoonish-illustration-of-a-group-of-animal-fri.webp",
+        "original_path": "images/hun/a-cartoonish-illustration-of-a-group-of-animal-fri.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-cartoonish-illustration-of-a-group-of-animal-fri.jpg",
+        "webp_path": "webp_images/kolors_out1/a-cartoonish-illustration-of-a-group-of-animal-fri.webp",
+        "original_path": "images/kolors_out1/a-cartoonish-illustration-of-a-group-of-animal-fri.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-cartoonish-illustration-of-a-group-of-animal-fri.jpg",
+        "webp_path": "webp_images/sd3b/a-cartoonish-illustration-of-a-group-of-animal-fri.webp",
+        "original_path": "images/sd3b/a-cartoonish-illustration-of-a-group-of-animal-fri.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-cartoonish-illustration-of-a-group-of-animal-fri_thumbnail.webp"
   },
   {
     "prompt": "A realistic 3D model of a dragon, with detailed scales and wings, set against a fiery, molten landscape. The dragon is rendered in a highly detailed and realistic style, inspired by the art of Justin Sweet and Donato Giancola.",
     "images": [
       {
-        "path": "hun/a-realistic-3d-model-of-a-dragon-with-detailed-sca.jpg",
+        "webp_path": "webp_images/hun/a-realistic-3d-model-of-a-dragon-with-detailed-sca.webp",
+        "original_path": "images/hun/a-realistic-3d-model-of-a-dragon-with-detailed-sca.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-realistic-3d-model-of-a-dragon-with-detailed-sca.jpg",
+        "webp_path": "webp_images/kolors_out1/a-realistic-3d-model-of-a-dragon-with-detailed-sca.webp",
+        "original_path": "images/kolors_out1/a-realistic-3d-model-of-a-dragon-with-detailed-sca.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-realistic-3d-model-of-a-dragon-with-detailed-sca.jpg",
+        "webp_path": "webp_images/sd3b/a-realistic-3d-model-of-a-dragon-with-detailed-sca.webp",
+        "original_path": "images/sd3b/a-realistic-3d-model-of-a-dragon-with-detailed-sca.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-realistic-3d-model-of-a-dragon-with-detailed-sca_thumbnail.webp"
   },
   {
     "prompt": "A dark and moody portrait of a gothic vampire, with pale skin, long black hair, and piercing red eyes. The vampire is depicted in a shadowy, candlelit setting, surrounded by cobwebs and bats. The image is inspired by the art of Brom and John Jude Palencar.",
     "images": [
       {
-        "path": "hun/a-dark-and-moody-portrait-of-a-gothic-vampire-with.jpg",
+        "webp_path": "webp_images/hun/a-dark-and-moody-portrait-of-a-gothic-vampire-with.webp",
+        "original_path": "images/hun/a-dark-and-moody-portrait-of-a-gothic-vampire-with.jpg",
         "subfolder": "hun"
       },
       {
-        "path": "kolors_out1/a-dark-and-moody-portrait-of-a-gothic-vampire-with.jpg",
+        "webp_path": "webp_images/kolors_out1/a-dark-and-moody-portrait-of-a-gothic-vampire-with.webp",
+        "original_path": "images/kolors_out1/a-dark-and-moody-portrait-of-a-gothic-vampire-with.jpg",
         "subfolder": "kolors_out1"
       },
       {
-        "path": "sd3b/a-dark-and-moody-portrait-of-a-gothic-vampire-with.jpg",
+        "webp_path": "webp_images/sd3b/a-dark-and-moody-portrait-of-a-gothic-vampire-with.webp",
+        "original_path": "images/sd3b/a-dark-and-moody-portrait-of-a-gothic-vampire-with.jpg",
         "subfolder": "sd3b"
       }
-    ]
+    ],
+    "thumbnail": "thumbnails/a-dark-and-moody-portrait-of-a-gothic-vampire-with_thumbnail.webp"
   }
 ]
