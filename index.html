@@ -108,6 +108,13 @@
             text-align: center;
             margin-top: 5px;
         }
+        #helpBox {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 14px;
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -120,6 +127,15 @@
             <button id="nextPrompt" style="display:none;">Next Prompt</button>
             <button id="backToOverview" style="display:none;">Back to Overview</button>
         </div>
+        <div id="helpBox" style="display:none;">
+            <h3>Keyboard Shortcuts:</h3>
+            <p>→ / ← : Next/Previous prompt</p>
+            <p>↑ / ↓ : Enter/Exit Lightbox</p>
+            <p>In Lightbox:</p>
+            <p>→ / ← : Next/Previous prompt</p>
+            <p>↑ / ↓ : Previous/Next image</p>
+            <p>Esc : Exit Lightbox or return to overview</p>
+        </div>
     </div>
     <div id="lightbox">
         <img id="lightboxImage" src="" alt="Lightbox image">
@@ -130,6 +146,7 @@
         let currentPromptIndex = 0;
         let currentImageIndex = 0;
         let isLightboxOpen = false;
+        let isHelpBoxVisible = false;
 
         const promptBox = document.getElementById('promptBox');
         const imageGrid = document.getElementById('imageGrid');
@@ -139,6 +156,7 @@
         const backButton = document.getElementById('backToOverview');
         const lightbox = document.getElementById('lightbox');
         const lightboxImage = document.getElementById('lightboxImage');
+        const helpBox = document.getElementById('helpBox');
 
         fetch('image_data.json')
             .then(response => response.json())
@@ -155,6 +173,8 @@
             prevButton.style.display = 'none';
             nextButton.style.display = 'none';
             backButton.style.display = 'none';
+            helpBox.style.display = 'none';
+            isHelpBoxVisible = false;
 
             overviewGrid.innerHTML = '';
             data.forEach((prompt, index) => {
@@ -179,6 +199,8 @@
             prevButton.style.display = 'inline-block';
             nextButton.style.display = 'inline-block';
             backButton.style.display = 'inline-block';
+            helpBox.style.display = 'block';
+            isHelpBoxVisible = true;
             
             imageGrid.innerHTML = '';
             currentPrompt.images.forEach((image, idx) => {
@@ -195,12 +217,22 @@
 
         function showNextPrompt() {
             currentPromptIndex = (currentPromptIndex + 1) % data.length;
-            showPrompt(currentPromptIndex);
+            if (isLightboxOpen) {
+                currentImageIndex = 0;
+                updateLightboxImage();
+            } else {
+                showPrompt(currentPromptIndex);
+            }
         }
 
         function showPrevPrompt() {
             currentPromptIndex = (currentPromptIndex - 1 + data.length) % data.length;
-            showPrompt(currentPromptIndex);
+            if (isLightboxOpen) {
+                currentImageIndex = 0;
+                updateLightboxImage();
+            } else {
+                showPrompt(currentPromptIndex);
+            }
         }
 
         function openLightbox(index) {
@@ -213,6 +245,7 @@
         function closeLightbox() {
             lightbox.style.display = 'none';
             isLightboxOpen = false;
+            showPrompt(currentPromptIndex);  // Update the prompt view to match the current prompt
         }
 
         function updateLightboxImage() {
@@ -242,6 +275,13 @@
             updateLightboxImage();
         }
 
+        function hideHelpBox() {
+            if (isHelpBoxVisible) {
+                helpBox.style.display = 'none';
+                isHelpBoxVisible = false;
+            }
+        }
+
         nextButton.addEventListener('click', showNextPrompt);
         prevButton.addEventListener('click', showPrevPrompt);
         backButton.addEventListener('click', showOverview);
@@ -250,11 +290,17 @@
         document.addEventListener('keydown', (e) => {
             if (isLightboxOpen) {
                 switch(e.key) {
+                    case 'ArrowLeft':
+                        showPrevPrompt();
+                        break;
+                    case 'ArrowRight':
+                        showNextPrompt();
+                        break;
                     case 'ArrowUp':
+                        prevImage();
+                        break;
                     case 'ArrowDown':
-                        e.preventDefault();
-                        if (e.key === 'ArrowUp') prevImage();
-                        else nextImage();
+                        nextImage();
                         break;
                     case 'Escape':
                         closeLightbox();
@@ -278,6 +324,7 @@
                         break;
                 }
             }
+            hideHelpBox();
         });
     </script>
 </body>
