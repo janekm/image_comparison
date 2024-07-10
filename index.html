@@ -188,6 +188,7 @@
         let isHelpBoxVisible = false;
         let isZoomedOut = false;
         let helpBoxTimeout;
+        let imageCache = new Map();
 
         const promptBox = document.getElementById('promptBox');
         const imageGrid = document.getElementById('imageGrid');
@@ -257,6 +258,21 @@
                 container.addEventListener('click', () => openLightbox(idx));
                 imageGrid.appendChild(container);
             });
+            preCacheImages(index);
+        }
+
+        function preCacheImages(currentIndex) {
+            for (let i = 1; i <= 2; i++) {
+                const nextIndex = (currentIndex + i) % data.length;
+                const nextPrompt = data[nextIndex];
+                nextPrompt.images.forEach(image => {
+                    if (!imageCache.has(image.webp_path)) {
+                        const img = new Image();
+                        img.src = image.webp_path;
+                        imageCache.set(image.webp_path, img);
+                    }
+                });
+            }
         }
 
         function isHDImage(image) {
@@ -300,8 +316,12 @@
             const currentPrompt = data[currentPromptIndex];
             const currentImage = currentPrompt.images[currentImageIndex];
             
-            // Show WebP image immediately
-            lightboxImage.src = currentImage.webp_path;
+            // Use cached image if available
+            if (imageCache.has(currentImage.webp_path)) {
+                lightboxImage.src = imageCache.get(currentImage.webp_path).src;
+            } else {
+                lightboxImage.src = currentImage.webp_path;
+            }
             
             // Update lightbox labels
             lightboxLabels.innerHTML = `
@@ -309,12 +329,6 @@
                 ${isHDImage(currentImage) ? '<div class="hdLabel">HD</div>' : ''}
             `;
             
-            // Load original image
-            const originalImage = new Image();
-            originalImage.onload = function() {
-                lightboxImage.src = this.src;
-            };
-            originalImage.src = currentImage.original_path;
         }
 
         function nextImage() {
