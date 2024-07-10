@@ -338,7 +338,64 @@ def create_job(prompt):
             }
         ]
     }
-    data = sd3_data
+    newdawnplus_data = {
+        "request_id": hashlib.md5((str(int(time.time()))+prompt).encode()).hexdigest(),
+        "stages": [
+            {
+                "type": "INPUT_INITIALIZE",
+                "inputInitialize": {
+                    "seed": -1,
+                    "count": 1
+                }
+            },
+            {
+                "type": "DIFFUSION",
+                "diffusion": {
+                    "width": 1024,
+                    "height": 1024,
+                    "prompts": [
+                        {
+                            "text": prompt
+                        }
+                    ],
+                    "negativePrompts": [{ "text": "hands, deviantart" }],
+                    "sampler": "DPM++ 3M SDE Exponential",
+                    "sdVae": "None",
+                    "steps": 40,
+                    "sd_model": "642019060365894429",
+                    "clip_skip": 2,
+                    "cfg_scale": 7,
+                    "lora": {
+                    "items": [
+                        {
+                            "loraModel": "680564184234250697",
+                            "weight": 0.5,
+                            "loraAccessKey": "ad5688b9-2c47-9386-a620-c7b1ea3cfa37"
+                        },
+                        {
+                            "loraModel": "648321710124311246",
+                            "weight": 0.7
+                        },
+                        {
+                            "loraModel": "667484492694498117",
+                            "weight": 0.5
+                        }
+                    ]
+                }
+                }
+            },
+            {
+                "type": "IMAGE_TO_UPSCALER",
+                "image_to_upscaler": {
+                "hr_upscaler": "4x_foolhardy_Remacri",
+                "hr_scale": 1.5,
+                "hr_second_pass_steps": 15,
+                "denoising_strength": 0.3
+                }
+            }
+        ]
+    }
+    data = newdawnplus_data
 
     log_info(f"request_id: {data['request_id']}")
     body = json.dumps(data)
