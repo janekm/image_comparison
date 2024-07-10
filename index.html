@@ -50,14 +50,20 @@
             height: 100%;
             object-fit: contain;
         }
-        .subfolderLabel {
+        .subfolderLabel, .hdLabel {
             position: absolute;
-            bottom: 10px;
-            left: 10px;
             background-color: rgba(0, 0, 0, 0.7);
             padding: 5px 10px;
             border-radius: 5px;
             font-size: 12px;
+        }
+        .subfolderLabel {
+            bottom: 10px;
+            left: 10px;
+        }
+        .hdLabel {
+            top: 10px;
+            right: 10px;
         }
         #controls {
             display: flex;
@@ -95,6 +101,12 @@
             left: 50%;
             transform: translate(-50%, -50%);
         }
+        #lightboxLabels {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            z-index: 1001;
+        }
         .overviewItem {
             width: calc(25% - 20px);
             margin: 10px;
@@ -109,11 +121,29 @@
             margin-top: 5px;
         }
         #helpBox {
+            display: none;
+            position: fixed;
+            top: 20px;
+            right: 20px;
             background-color: rgba(0, 0, 0, 0.7);
             padding: 10px;
             border-radius: 5px;
             font-size: 14px;
-            margin-top: 20px;
+            z-index: 1001;
+        }
+        #zoomButton {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 1002;
+            background: none;
+            border: none;
+            padding: 0;
+            cursor: pointer;
+        }
+        .zoomed-out .imageContainer {
+            width: calc(20% - 10px);
+            padding-bottom: calc(20% - 10px);
         }
     </style>
 </head>
@@ -127,7 +157,7 @@
             <button id="nextPrompt" style="display:none;">Next Prompt</button>
             <button id="backToOverview" style="display:none;">Back to Overview</button>
         </div>
-        <div id="helpBox" style="display:none;">
+        <div id="helpBox">
             <h3>Keyboard Shortcuts:</h3>
             <p>→ / ← : Next/Previous prompt</p>
             <p>↑ / ↓ : Enter/Exit Lightbox</p>
@@ -136,9 +166,18 @@
             <p>↑ / ↓ : Previous/Next image</p>
             <p>Esc : Exit Lightbox or return to overview</p>
         </div>
+        <button id="zoomButton" style="display:none;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                <line x1="11" y1="8" x2="11" y2="14"></line>
+                <line x1="8" y1="11" x2="14" y2="11"></line>
+            </svg>
+        </button>
     </div>
     <div id="lightbox">
         <img id="lightboxImage" src="" alt="Lightbox image">
+        <div id="lightboxLabels"></div>
     </div>
 
     <script>
@@ -147,6 +186,8 @@
         let currentImageIndex = 0;
         let isLightboxOpen = false;
         let isHelpBoxVisible = false;
+        let isZoomedOut = false;
+        let helpBoxTimeout;
 
         const promptBox = document.getElementById('promptBox');
         const imageGrid = document.getElementById('imageGrid');
@@ -156,7 +197,9 @@
         const backButton = document.getElementById('backToOverview');
         const lightbox = document.getElementById('lightbox');
         const lightboxImage = document.getElementById('lightboxImage');
+        const lightboxLabels = document.getElementById('lightboxLabels');
         const helpBox = document.getElementById('helpBox');
+        const zoomButton = document.getElementById('zoomButton');
 
         fetch('image_data.json')
             .then(response => response.json())
@@ -173,8 +216,8 @@
             prevButton.style.display = 'none';
             nextButton.style.display = 'none';
             backButton.style.display = 'none';
-            helpBox.style.display = 'none';
-            isHelpBoxVisible = false;
+            zoomButton.style.display = 'none';
+            hideHelpBox();
 
             overviewGrid.innerHTML = '';
             data.forEach((prompt, index) => {
@@ -199,8 +242,8 @@
             prevButton.style.display = 'inline-block';
             nextButton.style.display = 'inline-block';
             backButton.style.display = 'inline-block';
-            helpBox.style.display = 'block';
-            isHelpBoxVisible = true;
+            zoomButton.style.display = 'inline-block';
+            showHelpBox();
             
             imageGrid.innerHTML = '';
             currentPrompt.images.forEach((image, idx) => {
@@ -209,10 +252,15 @@
                 container.innerHTML = `
                     <img src="${image.webp_path}" alt="Image">
                     <div class="subfolderLabel">${image.subfolder}</div>
+                    ${isHDImage(image) ? '<div class="hdLabel">HD</div>' : ''}
                 `;
                 container.addEventListener('click', () => openLightbox(idx));
                 imageGrid.appendChild(container);
             });
+        }
+
+        function isHDImage(image) {
+            return image.width * image.height > 1200000;
         }
 
         function showNextPrompt() {
@@ -255,6 +303,12 @@
             // Show WebP image immediately
             lightboxImage.src = currentImage.webp_path;
             
+            // Update lightbox labels
+            lightboxLabels.innerHTML = `
+                <div class="subfolderLabel">${currentImage.subfolder}</div>
+                ${isHDImage(currentImage) ? '<div class="hdLabel">HD</div>' : ''}
+            `;
+            
             // Load original image
             const originalImage = new Image();
             originalImage.onload = function() {
@@ -275,17 +329,38 @@
             updateLightboxImage();
         }
 
-        function hideHelpBox() {
-            if (isHelpBoxVisible) {
-                helpBox.style.display = 'none';
-                isHelpBoxVisible = false;
+        function showHelpBox() {
+            if (!isHelpBoxVisible && !isMobile()) {
+                helpBox.style.display = 'block';
+                isHelpBoxVisible = true;
+                clearTimeout(helpBoxTimeout);
+                helpBoxTimeout = setTimeout(hideHelpBox, 20000);
             }
+        }
+
+        function hideHelpBox() {
+            helpBox.style.display = 'none';
+            isHelpBoxVisible = false;
+            clearTimeout(helpBoxTimeout);
+        }
+
+        function isMobile() {
+            return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
+
+        function toggleZoom() {
+            isZoomedOut = !isZoomedOut;
+            imageGrid.classList.toggle('zoomed-out', isZoomedOut);
+            zoomButton.innerHTML = isZoomedOut ? 
+                '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>' :
+                '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>';
         }
 
         nextButton.addEventListener('click', showNextPrompt);
         prevButton.addEventListener('click', showPrevPrompt);
         backButton.addEventListener('click', showOverview);
         lightbox.addEventListener('click', closeLightbox);
+        zoomButton.addEventListener('click', toggleZoom);
 
         document.addEventListener('keydown', (e) => {
             if (isLightboxOpen) {
@@ -326,6 +401,8 @@
             }
             hideHelpBox();
         });
+
+        document.addEventListener('click', hideHelpBox);
     </script>
 </body>
 </html>

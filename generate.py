@@ -270,10 +270,27 @@ def create_job(prompt):
                     ],
                     "sampler": "DPM++ 2M SGM Uniform",
                     "sdVae": "Automatic",
-                    "steps": 32,
+                    "steps": 35,
                     "sd_model": "738420691994573454",
                     "clip_skip": 2,
-                    "cfg_scale": 7
+                    "cfg_scale": 7,
+                    "lora": {
+                    "items": [
+                        {
+                            "loraModel": "745836812276087995",
+                            "weight": 0.5
+                        }
+                    ]
+                }
+                }
+            },
+            {
+                "type": "IMAGE_TO_UPSCALER",
+                "image_to_upscaler": {
+                "hr_upscaler": "4x_foolhardy_Remacri",
+                "hr_scale": 1.5,
+                "hr_second_pass_steps": 15,
+                "denoising_strength": 0.25
                 }
             }
         ]
@@ -434,7 +451,7 @@ def create_job(prompt):
             }
         ]
     }
-    data = playground25_hd_data
+    data = sd3_data
 
     log_info(f"request_id: {data['request_id']}")
     body = json.dumps(data)

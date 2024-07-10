@@ -50,7 +50,12 @@ def process_image(image_path, webp_dir):
     webp_subfolder = os.path.join(webp_dir, subfolder)
     os.makedirs(webp_subfolder, exist_ok=True)
     webp_path = os.path.join(webp_subfolder, webp_name)
-    return convert_to_webp(image_path, webp_path), image_path
+    webp_path = convert_to_webp(image_path, webp_path)
+    
+    with Image.open(image_path) as img:
+        width, height = img.size
+    
+    return webp_path, image_path, width, height
 
 def generate_image_data(prompts_file, image_root_dir, output_json, webp_dir, thumbnail_dir):
     os.makedirs(webp_dir, exist_ok=True)
@@ -74,7 +79,7 @@ def generate_image_data(prompts_file, image_root_dir, output_json, webp_dir, thu
                         futures.append(executor.submit(process_image, image_path, webp_dir))
 
         for future in as_completed(futures):
-            webp_path, original_path = future.result()
+            webp_path, original_path, width, height = future.result()
             print(f"Converted {original_path} to {webp_path}")
             relative_webp_path = os.path.relpath(webp_path, webp_dir)
             relative_original_path = os.path.relpath(original_path, image_root_dir)
@@ -89,7 +94,9 @@ def generate_image_data(prompts_file, image_root_dir, output_json, webp_dir, thu
             prompt_entry["images"].append({
                 "webp_path": os.path.join("webp_images", relative_webp_path),
                 "original_path": os.path.join("images", relative_original_path),
-                "subfolder": os.path.dirname(relative_webp_path)
+                "subfolder": os.path.dirname(relative_webp_path),
+                "width": width,
+                "height": height
             })
 
     for prompt_entry in data:
