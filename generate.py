@@ -338,6 +338,45 @@ def create_job(prompt):
             }
         ]
     }
+    playground25_hd_data = {
+        "request_id": hashlib.md5((str(int(time.time()))+prompt).encode()).hexdigest(),
+        "stages": [
+            {
+                "type": "INPUT_INITIALIZE",
+                "inputInitialize": {
+                    "seed": -1,
+                    "count": 1
+                }
+            },
+            {
+                "type": "DIFFUSION",
+                "diffusion": {
+                    "width": 1024,
+                    "height": 1024,
+                    "prompts": [
+                        {
+                            "text": prompt
+                        }
+                    ],
+                    "sampler": "DPM++ 2S a",
+                    "sdVae": "None",
+                    "steps": 40,
+                    "sd_model": "711820250385052892",
+                    "clip_skip": 2,
+                    "cfg_scale": 3
+                }
+            },
+            {
+                "type": "IMAGE_TO_UPSCALER",
+                "image_to_upscaler": {
+                "hr_upscaler": "4x_foolhardy_Remacri",
+                "hr_scale": 1.5,
+                "hr_second_pass_steps": 15,
+                "denoising_strength": 0.25
+                }
+            }
+        ]
+    }    
     newdawnplus_data = {
         "request_id": hashlib.md5((str(int(time.time()))+prompt).encode()).hexdigest(),
         "stages": [
@@ -374,11 +413,11 @@ def create_job(prompt):
                         },
                         {
                             "loraModel": "648321710124311246",
-                            "weight": 0.7
+                            "weight": 1.1
                         },
                         {
                             "loraModel": "667484492694498117",
-                            "weight": 0.5
+                            "weight": 0.7
                         }
                     ]
                 }
@@ -395,7 +434,7 @@ def create_job(prompt):
             }
         ]
     }
-    data = newdawnplus_data
+    data = playground25_hd_data
 
     log_info(f"request_id: {data['request_id']}")
     body = json.dumps(data)
