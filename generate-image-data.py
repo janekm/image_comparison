@@ -30,7 +30,7 @@ def create_thumbnail(images, output_path, max_size=(300, 300)):
 
     size = (min(max_size[0], cols * 100), min(max_size[1], rows * 100))
     
-    thumbnail = Image.new('RGB', size, (255, 255, 255))
+    thumbnail = Image.new('RGB', size, (0, 0, 0))
     
     for i, image_path in enumerate(images[:9]):
         with Image.open(image_path) as img:
