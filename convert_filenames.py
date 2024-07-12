@@ -67,8 +67,8 @@ def rename_and_copy_files(input_dir, output_dir, prompts_file):
     # print(prompts)
 
 # Usage
-input_dir = 'images_in/StableCascade'
-output_dir = 'images/StableCascade'
+input_dir = 'images_in/auraflow_llm'
+output_dir = 'images/auraflow_llm'
 prompts_file = 'numbered_prompts.txt'
 
 rename_and_copy_files(input_dir, output_dir, prompts_file)

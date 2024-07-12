@@ -15,11 +15,7 @@ def extract_number(prompt):
 def process_prompt(client, prompt):
     history = [
         {"role": "system", "content": "You are an intelligent assistant. You always provide well-reasoned answers that are both correct and helpful."},
-        {"role": "user", "content": """Here are examples of enhanced text 2 image prompts:A breathtakingly detailed 8k illustration of the Goddess of Agriculture, resembling Elizabeth Hurley, standing majestically against a surreal backdrop. She wears intricately designed green armor adorned with lightning, rain, branches, leaves, fruits, flowers, and smoke. The goddess is surrounded by celestial beings, including rain nymphs and fruit spirits. The background showcases a lush, otherworldly landscape with vibrant colors, creating a coherent and immersive scene. The artwork is illuminated with cinematic lighting, reminiscent of the styles of Gediminas Pranckevicius, Pino Daeni, Moebius, Artgerm, and Esao Andrews. This remarkable piece was created by the talented artists Charlie Bowater Art, Karol Bak, and Mark Brooks, and showcases their exceptional skills
-A stunning, cinematic photograph showcasing a beautiful woman emerging from a pool of vibrant, colorful liquid oil paint. The paint splashes around her, creating bold strokes of red, blue, and yellow in a dynamic, abstract pattern. The artist's name, Karol Bak, is clearly visible in the bottom corner. The lighting is dramatic and theatrical, highlighting the woman's captivating features and the mesmerizing paint.
-A stunning, realistic portrayal of Lalisa Manoban from BLACKPINK wearing a summer dress. The dress is beautifully designed with vibrant colors and floral patterns, complementing her radiant smile. Her long, wavy hair is adorned with a delicate hairpin. The background features a picturesque summer scene, with sunflowers and a blue sky. The overall atmosphere is cheerful and captivating, showcasing Lalisa's natural beauty and charisma.
-A stunning, close-up intimate portrait of Sasha Luss, confidently posing in a vibrant orange bandeau bikini top and a sheer cover-up wrapped around her waist. Her gaze penetrates the camera lens with a fearless intensity, evoking the essence of Solve Sundsbo's iconic subjects. The background features a tropical paradise with palm trees and a turquoise sea, adding to the alluring atmosphere.
-Rewrite the following prompt in the same style: """ + prompt + "\n only output the enhanced prompt in a single paragraph, nothing else."},
+        {"role": "user", "content": """A caption is a way that a person would describe an image separated by commas when necessary. All in lower case. Expand the input below into a more detailed caption without changing the original relative positions or interactions between objects, colors or any other specific attributes if they are disclosed in the original prompt. Clarify positional information, colors, counts of objects, other visual aspects and features. Make sure to include as much detail as possible. Make sure to describe the spatial relationships seen in the image. You can use words like left/right, above/below, front/behind, far/near/adjacent, inside/outside. Make sure to include object interactions like "a table is in front of the kitchen pot" and "there are baskets on the table". Also describe relative sizes of objects seen in the image. Make sure to include counts of prominent objects in the image, especially when there is humans in the image. When its a photograph, include photographic details like bokeh, large field of view etc but dont just say it to say something, do it only when it makes sense. When its art, include details about the style like minimalist, impressionist, oil painting etc. Include world and period knowledge if it makes sense to, like 1950s chevrolet etc. """ + prompt + "\n only output the enhanced prompt in a single paragraph, nothing else."},
     ]
 
     completion = client.chat.completions.create(
@@ -34,7 +30,7 @@ def main():
     client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
 
     input_file = "numbered_prompts.txt"
-    output_file = "enhanced_prompts.txt"
+    output_file = "enhanced_prompts2.txt"
 
     prompts = read_prompts(input_file)
 

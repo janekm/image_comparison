@@ -3,6 +3,13 @@
     "prompt": "A wise old alien cryptographer decoding an ancient holographic projection of an extinct civilization's history. Strange symbols and technologies fill the room. Moebius-inspired.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-wise-old-alien-cryptographer-decoding-an-ancient.webp",
+        "original_path": "images/auraflow_llm/a-wise-old-alien-cryptographer-decoding-an-ancient.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-wise-old-alien-cryptographer-decoding-an-ancient.webp",
         "original_path": "images/auraflow/a-wise-old-alien-cryptographer-decoding-an-ancient.png",
         "subfolder": "auraflow",
@@ -71,6 +78,13 @@
   {
     "prompt": "Pop surrealist oil painting of a mystic fortune teller robot reading tarot cards within a dimly lit room filled with candles, mystic artifacts. Highly textured brushwork in the style of Michael Page.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/pop-surrealist-oil-painting-of-a-mystic-fortune-te.webp",
+        "original_path": "images/auraflow_llm/pop-surrealist-oil-painting-of-a-mystic-fortune-te.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/pop-surrealist-oil-painting-of-a-mystic-fortune-te.webp",
         "original_path": "images/auraflow/pop-surrealist-oil-painting-of-a-mystic-fortune-te.png",
@@ -141,6 +155,13 @@
     "prompt": "Graphite illustration of a fierce archer heroine aiming her glowing bow, clad in a forest green tunic and leggings, surrounded by wispy clouds atop a mountain peak at sunset.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/graphite-illustration-of-a-fierce-archer-heroine-a.webp",
+        "original_path": "images/auraflow_llm/graphite-illustration-of-a-fierce-archer-heroine-a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/graphite-illustration-of-a-fierce-archer-heroine-a.webp",
         "original_path": "images/auraflow/graphite-illustration-of-a-fierce-archer-heroine-a.png",
         "subfolder": "auraflow",
@@ -209,6 +230,13 @@
   {
     "prompt": "A cheerful dwarf blacksmith hammering a sword with sparks flying. The smithy is carved out of a rocky cavern with carved pillars, lit by molten gold light. Highly detailed textures and surfaces, by Donato Giancola.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-cheerful-dwarf-blacksmith-hammering-a-sword-with.webp",
+        "original_path": "images/auraflow_llm/a-cheerful-dwarf-blacksmith-hammering-a-sword-with.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-cheerful-dwarf-blacksmith-hammering-a-sword-with.webp",
         "original_path": "images/auraflow/a-cheerful-dwarf-blacksmith-hammering-a-sword-with.png",
@@ -279,6 +307,13 @@
     "prompt": "Pixel art sprite animation of a cute witch with a tall black hat, wearing a purple dress and striped stockings, waving a wand that's shooting out bouncing stars.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/pixel-art-sprite-animation-of-a-cute-witch-with-a-.webp",
+        "original_path": "images/auraflow_llm/pixel-art-sprite-animation-of-a-cute-witch-with-a-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/pixel-art-sprite-animation-of-a-cute-witch-with-a-.webp",
         "original_path": "images/auraflow/pixel-art-sprite-animation-of-a-cute-witch-with-a-.png",
         "subfolder": "auraflow",
@@ -347,6 +382,13 @@
   {
     "prompt": "A rugged explorer on a distant gas giant moon colony wearing a heavy mechanical pressurized suit, emerging from an airlock onto the alien surface.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-rugged-explorer-on-a-distant-gas-giant-moon-colo.webp",
+        "original_path": "images/auraflow_llm/a-rugged-explorer-on-a-distant-gas-giant-moon-colo.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-rugged-explorer-on-a-distant-gas-giant-moon-colo.webp",
         "original_path": "images/auraflow/a-rugged-explorer-on-a-distant-gas-giant-moon-colo.png",
@@ -417,6 +459,13 @@
     "prompt": "Cinematic grayscale portrait of an old wizard casting a spell, with electric energy flowing through his hands. Dynamic swirling cloth, smoke, sparks. High contrast lighting.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/cinematic-grayscale-portrait-of-an-old-wizard-cast.webp",
+        "original_path": "images/auraflow_llm/cinematic-grayscale-portrait-of-an-old-wizard-cast.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/cinematic-grayscale-portrait-of-an-old-wizard-cast.webp",
         "original_path": "images/auraflow/cinematic-grayscale-portrait-of-an-old-wizard-cast.png",
         "subfolder": "auraflow",
@@ -486,6 +535,13 @@
     "prompt": "Illustration of a wizard camping in a mystical forest under the stars, roasting marshmallows over a magic blue fire.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/illustration-of-a-wizard-camping-in-a-mystical-for.webp",
+        "original_path": "images/auraflow_llm/illustration-of-a-wizard-camping-in-a-mystical-for.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/illustration-of-a-wizard-camping-in-a-mystical-for.webp",
         "original_path": "images/auraflow/illustration-of-a-wizard-camping-in-a-mystical-for.png",
         "subfolder": "auraflow",
@@ -554,6 +610,13 @@
   {
     "prompt": "Anime-style mecha action scene of a pilot battling in a blue and white robot suit against a giant monster emerging from the ocean. Dramatic angle, energy beams, water splashing.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/anime-style-mecha-action-scene-of-a-pilot-battling.webp",
+        "original_path": "images/auraflow_llm/anime-style-mecha-action-scene-of-a-pilot-battling.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/anime-style-mecha-action-scene-of-a-pilot-battling.webp",
         "original_path": "images/auraflow/anime-style-mecha-action-scene-of-a-pilot-battling.png",
@@ -686,6 +749,13 @@
     "prompt": "Fantasy creature illustration of a wise wizard with a long white beard meditating with magic sparking from his staff. Mystical lights glowing in the cave.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/fantasy-creature-illustration-of-a-wise-wizard-wit.webp",
+        "original_path": "images/auraflow_llm/fantasy-creature-illustration-of-a-wise-wizard-wit.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/fantasy-creature-illustration-of-a-wise-wizard-wit.webp",
         "original_path": "images/auraflow/fantasy-creature-illustration-of-a-wise-wizard-wit.png",
         "subfolder": "auraflow",
@@ -754,6 +824,13 @@
   {
     "prompt": "Photorealistic portrait of a tribal orc warrior holding a fiery sword. Intense expression, scar details, braided hair beads. Dramatic side lighting in the fantasy style of Peter Mohrbacher.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/photorealistic-portrait-of-a-tribal-orc-warrior-ho.webp",
+        "original_path": "images/auraflow_llm/photorealistic-portrait-of-a-tribal-orc-warrior-ho.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/photorealistic-portrait-of-a-tribal-orc-warrior-ho.webp",
         "original_path": "images/auraflow/photorealistic-portrait-of-a-tribal-orc-warrior-ho.png",
@@ -824,6 +901,13 @@
     "prompt": "Cute anime character expressions sheet of a romantic couple on a Ferris wheel date at night, blushing. Soft tender moment.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/cute-anime-character-expressions-sheet-of-a-romant.webp",
+        "original_path": "images/auraflow_llm/cute-anime-character-expressions-sheet-of-a-romant.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/cute-anime-character-expressions-sheet-of-a-romant.webp",
         "original_path": "images/auraflow/cute-anime-character-expressions-sheet-of-a-romant.png",
         "subfolder": "auraflow",
@@ -892,6 +976,13 @@
   {
     "prompt": "A scene inside an alien cave glowing with bioluminescent lifeforms and crystalline growths. An astrobiologist takes samples in a bulky hazard suit, laser tools in hand. James Cameron worldbuilding aesthetic.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-scene-inside-an-alien-cave-glowing-with-biolumin.webp",
+        "original_path": "images/auraflow_llm/a-scene-inside-an-alien-cave-glowing-with-biolumin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-scene-inside-an-alien-cave-glowing-with-biolumin.webp",
         "original_path": "images/auraflow/a-scene-inside-an-alien-cave-glowing-with-biolumin.png",
@@ -962,6 +1053,13 @@
     "prompt": "A friendly weathered spaceship mechanic with cybernetic augments hard at work jury-rigging repairs in a hangar bay, blowtorch in hand, sparks flying. Retro working class sci-fi vibe.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-friendly-weathered-spaceship-mechanic-with-cyber.webp",
+        "original_path": "images/auraflow_llm/a-friendly-weathered-spaceship-mechanic-with-cyber.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-friendly-weathered-spaceship-mechanic-with-cyber.webp",
         "original_path": "images/auraflow/a-friendly-weathered-spaceship-mechanic-with-cyber.png",
         "subfolder": "auraflow",
@@ -1030,6 +1128,13 @@
   {
     "prompt": "Cinematic digital matte painting of a hooded Jedi wielding a lightsaber atop a rocky cliff on an alien planet. Atmospheric fog, flying avians, epic perspective. Rendered in the expansive style of Dylan Cole.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/cinematic-digital-matte-painting-of-a-hooded-jedi-.webp",
+        "original_path": "images/auraflow_llm/cinematic-digital-matte-painting-of-a-hooded-jedi-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/cinematic-digital-matte-painting-of-a-hooded-jedi-.webp",
         "original_path": "images/auraflow/cinematic-digital-matte-painting-of-a-hooded-jedi-.png",
@@ -1100,6 +1205,13 @@
     "prompt": "Dreamy watercolor painting of a girl curled up reading a book beside a rainy window as the rain pours down outside.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/dreamy-watercolor-painting-of-a-girl-curled-up-rea.webp",
+        "original_path": "images/auraflow_llm/dreamy-watercolor-painting-of-a-girl-curled-up-rea.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/dreamy-watercolor-painting-of-a-girl-curled-up-rea.webp",
         "original_path": "images/auraflow/dreamy-watercolor-painting-of-a-girl-curled-up-rea.png",
         "subfolder": "auraflow",
@@ -1168,6 +1280,13 @@
   {
     "prompt": "A mushroom village built around the trunk of a colossal ancient tree, with winding stairs, bridges, and towers. Glowing spores float in the air.Detailed exterior, populated, in the style of Studio Ghibli.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-mushroom-village-built-around-the-trunk-of-a-col.webp",
+        "original_path": "images/auraflow_llm/a-mushroom-village-built-around-the-trunk-of-a-col.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-mushroom-village-built-around-the-trunk-of-a-col.webp",
         "original_path": "images/auraflow/a-mushroom-village-built-around-the-trunk-of-a-col.png",
@@ -1238,6 +1357,13 @@
     "prompt": "Photorealistic portrait of a female astronaut floating in a spacesuit above Earth, with the Milky Way galaxy in the background. Detailed suit textures, dynamic backlit helmet visor.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/photorealistic-portrait-of-a-female-astronaut-floa.webp",
+        "original_path": "images/auraflow_llm/photorealistic-portrait-of-a-female-astronaut-floa.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/photorealistic-portrait-of-a-female-astronaut-floa.webp",
         "original_path": "images/auraflow/photorealistic-portrait-of-a-female-astronaut-floa.png",
         "subfolder": "auraflow",
@@ -1306,6 +1432,13 @@
   {
     "prompt": "A close-up of an owl alchemist with spectacles in his study, furiously scribbling formulas while surrounded by bubbling vials, herbs, coins, and artifacts. Intricately detailed still life, by Ivan Laliashvili.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-close-up-of-an-owl-alchemist-with-spectacles-in-.webp",
+        "original_path": "images/auraflow_llm/a-close-up-of-an-owl-alchemist-with-spectacles-in-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-close-up-of-an-owl-alchemist-with-spectacles-in-.webp",
         "original_path": "images/auraflow/a-close-up-of-an-owl-alchemist-with-spectacles-in-.png",
@@ -1376,6 +1509,13 @@
     "prompt": "A close-up of an old leprechaun sailor with a white beard, holding a lantern. He wears an oilskin coat, souwester hat, has a weathered face with keen eyes. Portrait study reminiscent of Rembrandt.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-close-up-of-an-old-leprechaun-sailor-with-a-whit.webp",
+        "original_path": "images/auraflow_llm/a-close-up-of-an-old-leprechaun-sailor-with-a-whit.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-close-up-of-an-old-leprechaun-sailor-with-a-whit.webp",
         "original_path": "images/auraflow/a-close-up-of-an-old-leprechaun-sailor-with-a-whit.png",
         "subfolder": "auraflow",
@@ -1444,6 +1584,13 @@
   {
     "prompt": "A Starship Bridge interior view showing crewmembers at holographic controls, tracking a mysterious cosmic anomaly on the main viewscreen. Inspired by Star Trek: The Motion Picture.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-starship-bridge-interior-view-showing-crewmember.webp",
+        "original_path": "images/auraflow_llm/a-starship-bridge-interior-view-showing-crewmember.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-starship-bridge-interior-view-showing-crewmember.webp",
         "original_path": "images/auraflow/a-starship-bridge-interior-view-showing-crewmember.png",
@@ -1514,6 +1661,13 @@
     "prompt": "A cute fluffy hamster sitting in a miniature cutting edge modern home, detailed textures, Pixar animation style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-cute-fluffy-hamster-sitting-in-a-miniature-cutti.webp",
+        "original_path": "images/auraflow_llm/a-cute-fluffy-hamster-sitting-in-a-miniature-cutti.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-cute-fluffy-hamster-sitting-in-a-miniature-cutti.webp",
         "original_path": "images/auraflow/a-cute-fluffy-hamster-sitting-in-a-miniature-cutti.png",
         "subfolder": "auraflow",
@@ -1582,6 +1736,13 @@
   {
     "prompt": "A close-up profile of a pilot in a sleek helmet with augmented reality tech glowing across the visor as ship systems data streams past. Inspired by TRON and Daft Punk.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-close-up-profile-of-a-pilot-in-a-sleek-helmet-wi.webp",
+        "original_path": "images/auraflow_llm/a-close-up-profile-of-a-pilot-in-a-sleek-helmet-wi.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-close-up-profile-of-a-pilot-in-a-sleek-helmet-wi.webp",
         "original_path": "images/auraflow/a-close-up-profile-of-a-pilot-in-a-sleek-helmet-wi.png",
@@ -1652,6 +1813,13 @@
     "prompt": "Cinematic background of a courageous knight wearing shining armor and helmet decorated with wings, wielding a feathered lance and shield while riding a white Pegasus over clouds.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/cinematic-background-of-a-courageous-knight-wearin.webp",
+        "original_path": "images/auraflow_llm/cinematic-background-of-a-courageous-knight-wearin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/cinematic-background-of-a-courageous-knight-wearin.webp",
         "original_path": "images/auraflow/cinematic-background-of-a-courageous-knight-wearin.png",
         "subfolder": "auraflow",
@@ -1720,6 +1888,13 @@
   {
     "prompt": "Photorealistic portrait of an African priestess with glowing hieroglyphs surrounding her. She wears an ankh necklace and intricately braided hair decorated with gold beads. Lit with radiant rim lighting resembling the mystical style of Alex Ruiz.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/photorealistic-portrait-of-an-african-priestess-wi.webp",
+        "original_path": "images/auraflow_llm/photorealistic-portrait-of-an-african-priestess-wi.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/photorealistic-portrait-of-an-african-priestess-wi.webp",
         "original_path": "images/auraflow/photorealistic-portrait-of-an-african-priestess-wi.png",
@@ -1790,6 +1965,13 @@
     "prompt": "portrait photo of a beautiful young african woman, with braided hair, close up, perfecteyes, soft studio lighting, Hasselblad, Voigtl\u00e4nder 50mm lens, in style of Martin Schoeller",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/portrait-photo-of-a-beautiful-young-african-woman-.webp",
+        "original_path": "images/auraflow_llm/portrait-photo-of-a-beautiful-young-african-woman-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/portrait-photo-of-a-beautiful-young-african-woman-.webp",
         "original_path": "images/auraflow/portrait-photo-of-a-beautiful-young-african-woman-.png",
         "subfolder": "auraflow",
@@ -1858,6 +2040,13 @@
   {
     "prompt": "Anime character illustration of a cheerful karate girl wearing a white gi and headband, jumping kick pose. Expressive manga-style linework.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/anime-character-illustration-of-a-cheerful-karate-.webp",
+        "original_path": "images/auraflow_llm/anime-character-illustration-of-a-cheerful-karate-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/anime-character-illustration-of-a-cheerful-karate-.webp",
         "original_path": "images/auraflow/anime-character-illustration-of-a-cheerful-karate-.png",
@@ -1928,6 +2117,13 @@
     "prompt": "Serene close-up beauty shots of a model with freckles and braids wearing a peach ruffled one piece swimsuit, photographed in the style of Mario Testino's tropical backdrops.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/serene-close-up-beauty-shots-of-a-model-with-freck.webp",
+        "original_path": "images/auraflow_llm/serene-close-up-beauty-shots-of-a-model-with-freck.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/serene-close-up-beauty-shots-of-a-model-with-freck.webp",
         "original_path": "images/auraflow/serene-close-up-beauty-shots-of-a-model-with-freck.png",
         "subfolder": "auraflow",
@@ -1989,6 +2185,13 @@
   {
     "prompt": "real life photo of a beautiful girl, full body photoshoot, long braided curly blonde hair, twisted braids, golden watery eyes, full round face, short smile, pale pink bikini, serene beach setting, cinematic lighting, medium shot, mid-shot, highly detailed, artstation contest winner, 105mm f2.4",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/real-life-photo-of-a-beautiful-girl-full-body-phot.webp",
+        "original_path": "images/auraflow_llm/real-life-photo-of-a-beautiful-girl-full-body-phot.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/real-life-photo-of-a-beautiful-girl-full-body-phot.webp",
         "original_path": "images/auraflow/real-life-photo-of-a-beautiful-girl-full-body-phot.png",
@@ -2059,6 +2262,13 @@
     "prompt": "ultra detailed Female Android deity, scifi, octane render, clay render, (dia de los muertos), asymmetrical, intricate concept art, art by michael welan and DZO and greg rutkowski and alphonse mucha and loish and WLOP",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/ultra-detailed-female-android-deity-scifi-octane-r.webp",
+        "original_path": "images/auraflow_llm/ultra-detailed-female-android-deity-scifi-octane-r.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/ultra-detailed-female-android-deity-scifi-octane-r.webp",
         "original_path": "images/auraflow/ultra-detailed-female-android-deity-scifi-octane-r.png",
         "subfolder": "auraflow",
@@ -2127,6 +2337,13 @@
   {
     "prompt": "cinematic bust portrait of psychedelic robot, head and chest only, exotic alien features, robotic enhancements, desaturated, Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, HD, HDR, 4K, 8K",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/cinematic-bust-portrait-of-psychedelic-robot-head-.webp",
+        "original_path": "images/auraflow_llm/cinematic-bust-portrait-of-psychedelic-robot-head-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/cinematic-bust-portrait-of-psychedelic-robot-head-.webp",
         "original_path": "images/auraflow/cinematic-bust-portrait-of-psychedelic-robot-head-.png",
@@ -2197,6 +2414,13 @@
     "prompt": "cyberpunk room, top view, with girl on  table,  laboratory experiment attached, hellraiser, liquid in tube, technological , technomancer , alien experiment, future dark by Greg Rutkowski, Sung Choi, Mitchell Mohrhauser, Maciej Kuciara, Johnson Ting, Maxim Verehin, Peter Konig, Bloodborne , 8k photorealistic, cinematic lighting, HD, high details, atmospheric , trending on artstation",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/cyberpunk-room-top-view-with-girl-on-table-laborat.webp",
+        "original_path": "images/auraflow_llm/cyberpunk-room-top-view-with-girl-on-table-laborat.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/cyberpunk-room-top-view-with-girl-on-table-laborat.webp",
         "original_path": "images/auraflow/cyberpunk-room-top-view-with-girl-on-table-laborat.png",
         "subfolder": "auraflow",
@@ -2265,6 +2489,13 @@
   {
     "prompt": "movie poster, 8k octane render, symmetrical face, full warior body in ancient style cinematic, neon, (vaporwave:1.2), purple and pink colour scheme",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/movie-poster-8k-octane-render-symmetrical-face-ful.webp",
+        "original_path": "images/auraflow_llm/movie-poster-8k-octane-render-symmetrical-face-ful.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/movie-poster-8k-octane-render-symmetrical-face-ful.webp",
         "original_path": "images/auraflow/movie-poster-8k-octane-render-symmetrical-face-ful.png",
@@ -2335,6 +2566,13 @@
     "prompt": "miku surfer advertising photo, female surfer body, beach,  symmetrical face, symmetrical eyes, perfect face, beautiful face",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/miku-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/auraflow_llm/miku-surfer-advertising-photo-female-surfer-body-b.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/miku-surfer-advertising-photo-female-surfer-body-b.webp",
         "original_path": "images/auraflow/miku-surfer-advertising-photo-female-surfer-body-b.png",
         "subfolder": "auraflow",
@@ -2403,6 +2641,13 @@
   {
     "prompt": "Girl surfer advertising photo, female surfer body, beach, sunset wave, symmetrical face, symmetrical eyes, perfect face, perfect body, beautiful face",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/girl-surfer-advertising-photo-female-surfer-body-b.webp",
+        "original_path": "images/auraflow_llm/girl-surfer-advertising-photo-female-surfer-body-b.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/girl-surfer-advertising-photo-female-surfer-body-b.webp",
         "original_path": "images/auraflow/girl-surfer-advertising-photo-female-surfer-body-b.png",
@@ -2473,6 +2718,13 @@
     "prompt": "vogue fashion editorial, girl in a circus, wearing red and white striped leather jacket, bare chest, photograph by mario testino, eyes, face, mouth, hasselblad",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/vogue-fashion-editorial-girl-in-a-circus-wearing-r.webp",
+        "original_path": "images/auraflow_llm/vogue-fashion-editorial-girl-in-a-circus-wearing-r.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/vogue-fashion-editorial-girl-in-a-circus-wearing-r.webp",
         "original_path": "images/auraflow/vogue-fashion-editorial-girl-in-a-circus-wearing-r.png",
         "subfolder": "auraflow",
@@ -2542,6 +2794,13 @@
     "prompt": "The fogs wraps the dying city of London in a thin whispy blanket as she was drifting through the alleys, past the ancient pubs and warehouses, searching for the memories of the dreams that never were.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.webp",
+        "original_path": "images/auraflow_llm/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.webp",
         "original_path": "images/auraflow/the-fogs-wraps-the-dying-city-of-london-in-a-thin-.png",
         "subfolder": "auraflow",
@@ -2610,6 +2869,13 @@
   {
     "prompt": "dungeons and dragons portrait of a female half-orc with green skin and white hair, wearing a brown jacket, forest background, symmetrical face",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/dungeons-and-dragons-portrait-of-a-female-half-orc.webp",
+        "original_path": "images/auraflow_llm/dungeons-and-dragons-portrait-of-a-female-half-orc.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/dungeons-and-dragons-portrait-of-a-female-half-orc.webp",
         "original_path": "images/auraflow/dungeons-and-dragons-portrait-of-a-female-half-orc.png",
@@ -2735,6 +3001,13 @@
     "prompt": "Hyperrealist portrait of arthur morgan by jeremy mann and alphonse mucha, fantasy art, photo realistic, dynamic lighting, artstation, poster, volumetric lighting, very detailed faces, award winning",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.webp",
+        "original_path": "images/auraflow_llm/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.webp",
         "original_path": "images/auraflow/hyperrealist-portrait-of-arthur-morgan-by-jeremy-m.png",
         "subfolder": "auraflow",
@@ -2803,6 +3076,13 @@
   {
     "prompt": "(full body), a model beautiful women with long  blond hair, beautiful detailed dress, delicate, detailed, centered, digital painting, artstation, concept art, donato giancola, joseph christian leyendecker, wlop, boris vallejo, breathtaking, 8k resolution, extremely detailed, beautiful, establishing shot, artistic, hyperrealistic, beautiful face, octane render",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/full-body-a-model-beautiful-women-with-long-blond-.webp",
+        "original_path": "images/auraflow_llm/full-body-a-model-beautiful-women-with-long-blond-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/full-body-a-model-beautiful-women-with-long-blond-.webp",
         "original_path": "images/auraflow/full-body-a-model-beautiful-women-with-long-blond-.png",
@@ -2873,6 +3153,13 @@
     "prompt": "pixar style portrait shot, pin-up anime belle delphine robot in a junkyard, artwork by granblue fantasy, artgerm, attack on titan, high quality, amazing background by ghibli, wide gorgeous eyes, smooth cell shading",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/pixar-style-portrait-shot-pin-up-anime-belle-delph.webp",
+        "original_path": "images/auraflow_llm/pixar-style-portrait-shot-pin-up-anime-belle-delph.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/pixar-style-portrait-shot-pin-up-anime-belle-delph.webp",
         "original_path": "images/auraflow/pixar-style-portrait-shot-pin-up-anime-belle-delph.png",
         "subfolder": "auraflow",
@@ -2941,6 +3228,13 @@
   {
     "prompt": "tiny cute kitten plush stuffed toy, anthropomorphic, surrounded by vines, pixar style eyes, pokemon anime style, octane render, fantasy, volumetric light, soft cinematic lighting, tinycore, cutecore, realistic, 8k",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.webp",
+        "original_path": "images/auraflow_llm/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.webp",
         "original_path": "images/auraflow/tiny-cute-kitten-plush-stuffed-toy-anthropomorphic.png",
@@ -3011,6 +3305,13 @@
     "prompt": "tiny cute grape plush stuffed toy, anthropomorphic, surrounded by vines, pixar style eyes, pokemon anime style, octane render, fantasy, volumetric light, soft cinematic lighting, tinycore, cutecore, purplecore, realistic, 8k",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.webp",
+        "original_path": "images/auraflow_llm/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.webp",
         "original_path": "images/auraflow/tiny-cute-grape-plush-stuffed-toy-anthropomorphic-.png",
         "subfolder": "auraflow",
@@ -3079,6 +3380,13 @@
   {
     "prompt": "pixar style cute, adorable, fuzzy corgi puppy wearing a college bandana, beautiful, volumetric lighting, octane render",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.webp",
+        "original_path": "images/auraflow_llm/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.webp",
         "original_path": "images/auraflow/pixar-style-cute-adorable-fuzzy-corgi-puppy-wearin.png",
@@ -3149,6 +3457,13 @@
     "prompt": "Art by alfredo rodriguez, Cowboy on a horse running through water, dynamic, movement, beautiful oil painting, fine art, award-winning art, beautiful lighting, intricate detail",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.webp",
+        "original_path": "images/auraflow_llm/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.webp",
         "original_path": "images/auraflow/art-by-alfredo-rodriguez-cowboy-on-a-horse-running.png",
         "subfolder": "auraflow",
@@ -3217,6 +3532,13 @@
   {
     "prompt": "beautiful stunning highly detailed modern woman, art noveau, surrounded with magnolia flowers, flourish, art painted by Magali Villeneuve and artgerm and Fenghua Zhong, open eyes, hyperrealistic, fantasy, illustration",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/beautiful-stunning-highly-detailed-modern-woman-ar.webp",
+        "original_path": "images/auraflow_llm/beautiful-stunning-highly-detailed-modern-woman-ar.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/beautiful-stunning-highly-detailed-modern-woman-ar.webp",
         "original_path": "images/auraflow/beautiful-stunning-highly-detailed-modern-woman-ar.png",
@@ -3287,6 +3609,13 @@
     "prompt": "close up profile, Futuristic cybernetic Mayan Warrior in full Headdress, in the style of Russ Mills, Aaron Horkey, rhads, artgerm, ivan laliashvili, Jean-Baptiste Monge, atompunk, Ink Dropped in water, torn paper, bold strokes oil paint, feathers, beads, pulp Manga illustration, cinematic lighting",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/close-up-profile-futuristic-cybernetic-mayan-warri.webp",
+        "original_path": "images/auraflow_llm/close-up-profile-futuristic-cybernetic-mayan-warri.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/close-up-profile-futuristic-cybernetic-mayan-warri.webp",
         "original_path": "images/auraflow/close-up-profile-futuristic-cybernetic-mayan-warri.png",
         "subfolder": "auraflow",
@@ -3355,6 +3684,13 @@
   {
     "prompt": "Beautiful female cyborg standing on a space ship with long flowing hair glowing eyes filagree armor cyberpunk Bladerunner android style of Alyssa Monks highly detailed",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/beautiful-female-cyborg-standing-on-a-space-ship-w.webp",
+        "original_path": "images/auraflow_llm/beautiful-female-cyborg-standing-on-a-space-ship-w.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/beautiful-female-cyborg-standing-on-a-space-ship-w.webp",
         "original_path": "images/auraflow/beautiful-female-cyborg-standing-on-a-space-ship-w.png",
@@ -3425,6 +3761,13 @@
     "prompt": "Beautiful opal queen, intricate details, rich colors, beautiful lighting, gorgeous, flowerpunk atompunk, in the style of Gediminas Pranckevicius and Pino Daeni and Moebius and Artgerm and Esao Andrews, jewels, spikes, mohawk, moss, branches, Flowers, Photorealistic, Pulp Comic Illustration, Film Lighting, Rake Lighting",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-opal-queen-intricate-details-rich-colors.webp",
+        "original_path": "images/auraflow_llm/beautiful-opal-queen-intricate-details-rich-colors.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-opal-queen-intricate-details-rich-colors.webp",
         "original_path": "images/auraflow/beautiful-opal-queen-intricate-details-rich-colors.png",
         "subfolder": "auraflow",
@@ -3493,6 +3836,13 @@
   {
     "prompt": "maximalist painting of emma watson",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/maximalist-painting-of-emma-watson.webp",
+        "original_path": "images/auraflow_llm/maximalist-painting-of-emma-watson.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/maximalist-painting-of-emma-watson.webp",
         "original_path": "images/auraflow/maximalist-painting-of-emma-watson.png",
@@ -3563,6 +3913,13 @@
     "prompt": "woman walking on pantone water, lake with tranquil lotus flowers, studio ghibli style",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/woman-walking-on-pantone-water-lake-with-tranquil-.webp",
+        "original_path": "images/auraflow_llm/woman-walking-on-pantone-water-lake-with-tranquil-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/woman-walking-on-pantone-water-lake-with-tranquil-.webp",
         "original_path": "images/auraflow/woman-walking-on-pantone-water-lake-with-tranquil-.png",
         "subfolder": "auraflow",
@@ -3631,6 +3988,13 @@
   {
     "prompt": "digital painting concept art of alina as a cowboy, masterpiece, ultra detailed, ultra realistic, by enki bilal",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/digital-painting-concept-art-of-alina-as-a-cowboy-.webp",
+        "original_path": "images/auraflow_llm/digital-painting-concept-art-of-alina-as-a-cowboy-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/digital-painting-concept-art-of-alina-as-a-cowboy-.webp",
         "original_path": "images/auraflow/digital-painting-concept-art-of-alina-as-a-cowboy-.png",
@@ -3701,6 +4065,13 @@
     "prompt": "a cute brunette girl wearing pink headphones, wearing a color blocking hoodie, kawaii, whimsical, happy, big anime Pixar eyes, Nicoletta Ceccoli, Tim Burton, Lisa Frank",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-cute-brunette-girl-wearing-pink-headphones-weari.webp",
+        "original_path": "images/auraflow_llm/a-cute-brunette-girl-wearing-pink-headphones-weari.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-cute-brunette-girl-wearing-pink-headphones-weari.webp",
         "original_path": "images/auraflow/a-cute-brunette-girl-wearing-pink-headphones-weari.png",
         "subfolder": "auraflow",
@@ -3769,6 +4140,13 @@
   {
     "prompt": "an ornate biomechanical robot, by Shaun tan and kenny Scharf",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.webp",
+        "original_path": "images/auraflow_llm/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.webp",
         "original_path": "images/auraflow/an-ornate-biomechanical-robot-by-shaun-tan-and-ken.png",
@@ -3839,6 +4217,13 @@
     "prompt": "Beautiful Ebony Cyberpunk Demon Princess, Portrait, Profile, Yoji Shinkawa style, Flowing hair, bold brush strokes, concept art, dramatic lighting, Orphism, psychedelic, Red Black and White, stylize, intricate detail, Alfredo Rodriguez, Jeremy Mann, Aaron Griffin, Tom Bagshaw",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-ebony-cyberpunk-demon-princess-portrait-.webp",
+        "original_path": "images/auraflow_llm/beautiful-ebony-cyberpunk-demon-princess-portrait-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-ebony-cyberpunk-demon-princess-portrait-.webp",
         "original_path": "images/auraflow/beautiful-ebony-cyberpunk-demon-princess-portrait-.png",
         "subfolder": "auraflow",
@@ -3908,6 +4293,13 @@
     "prompt": "Beautiful female thief of the thieves' guild wearing gilded assassin robe, exposed thighs and exposed stomach, intricate details, warm colors, mid-close portrait, anatomically perfect, beautiful symmetric face, natural lighting, cinematic by Artgerm and WLOP and Ross Tram and sakimichan and Alphonse Mucha",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-female-thief-of-the-thieves-guild-wearin.webp",
+        "original_path": "images/auraflow_llm/beautiful-female-thief-of-the-thieves-guild-wearin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-female-thief-of-the-thieves-guild-wearin.webp",
         "original_path": "images/auraflow/beautiful-female-thief-of-the-thieves-guild-wearin.png",
         "subfolder": "auraflow",
@@ -3969,6 +4361,13 @@
   {
     "prompt": "Intricate detailed, hyper realistic robotic head from Transformers, Bioshock and Blade Runner, filled with glowing light. Bolts of lightning. Sci-fi cyborg. Cinematic lighting. 85mm, f1.4, V-ray, octane render, unreal engine, ultra sharp, 8k, trending on CGSociety, caustics",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/intricate-detailed-hyper-realistic-robotic-head-fr.webp",
+        "original_path": "images/auraflow_llm/intricate-detailed-hyper-realistic-robotic-head-fr.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/intricate-detailed-hyper-realistic-robotic-head-fr.webp",
         "original_path": "images/auraflow/intricate-detailed-hyper-realistic-robotic-head-fr.png",
@@ -4039,6 +4438,13 @@
     "prompt": "retrato de chica, hecho de trozos de papel de peri\u00f3dico + [art by Karol Bak + WLOP + Ray Caesar] + [beautifully detailed, perfect shading, highly detailed, Epic composition, white background, on white, margins, top-margin, bottom-margin, left-margin, right-margin, bold strokes oil paint, ink dropped in water, torn paper, tone mapping, {r_mada-book}]",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.webp",
+        "original_path": "images/auraflow_llm/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.webp",
         "original_path": "images/auraflow/retrato-de-chica-hecho-de-trozos-de-papel-de-peri\u00f3.png",
         "subfolder": "auraflow",
@@ -4100,6 +4506,13 @@
   {
     "prompt": "portrait of henry cavill as james bond, casino, key art, sprinting, palm trees, highly detailed, digital painting, artstation, concept art, cinematic lighting, sharp focus, illustration, by gaston bussiere alphonse mucha",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/portrait-of-henry-cavill-as-james-bond-casino-key-.webp",
+        "original_path": "images/auraflow_llm/portrait-of-henry-cavill-as-james-bond-casino-key-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/portrait-of-henry-cavill-as-james-bond-casino-key-.webp",
         "original_path": "images/auraflow/portrait-of-henry-cavill-as-james-bond-casino-key-.png",
@@ -4170,6 +4583,13 @@
     "prompt": "graffiti of extremely cute small robot on concrete wall, how is it so cute \ud83d\ude2d\ud83e\udd7a",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/graffiti-of-extremely-cute-small-robot-on-concrete.webp",
+        "original_path": "images/auraflow_llm/graffiti-of-extremely-cute-small-robot-on-concrete.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/graffiti-of-extremely-cute-small-robot-on-concrete.webp",
         "original_path": "images/auraflow/graffiti-of-extremely-cute-small-robot-on-concrete.png",
         "subfolder": "auraflow",
@@ -4239,6 +4659,13 @@
     "prompt": "Goddess of Agriculture, looks exactly like Elizabeth Hurley portrait, wearing green armor with lightning, rain, branches, leaves, fruits, flowers, smoke, gods, jesper ejsing, james jean, justin gerard, tomasz alen kopera, cgsociety, fenghua zhong, makoto shinkai, highly detailed, rim light, artistic, looks exactly like Elizabeth Hurley, cinematic lighting, in the style of Gediminas Pranckevicius and Pino Daeni and Moebius and Artgerm and Esao Andrews, very coherent, surreal, 8k illustration, by Charlie Bowater Art, Karol Bak, Mark Brooks",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/goddess-of-agriculture-looks-exactly-like-elizabet.webp",
+        "original_path": "images/auraflow_llm/goddess-of-agriculture-looks-exactly-like-elizabet.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/goddess-of-agriculture-looks-exactly-like-elizabet.webp",
         "original_path": "images/auraflow/goddess-of-agriculture-looks-exactly-like-elizabet.png",
         "subfolder": "auraflow",
@@ -4300,6 +4727,13 @@
   {
     "prompt": "infrared photography of exhausted olga fonda in dynamic pose at valley + greg rutkowski, billowing hair, face, beautifully lit, studio lighting, saturated colors, intricate details, perfect features, dramatic, hdr",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/infrared-photography-of-exhausted-olga-fonda-in-dy.webp",
+        "original_path": "images/auraflow_llm/infrared-photography-of-exhausted-olga-fonda-in-dy.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/infrared-photography-of-exhausted-olga-fonda-in-dy.webp",
         "original_path": "images/auraflow/infrared-photography-of-exhausted-olga-fonda-in-dy.png",
@@ -4370,6 +4804,13 @@
     "prompt": "beautiful and extremely detailed matryoshka doll virgin mary by mark ryden and nicoletta ceccoli",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-and-extremely-detailed-matryoshka-doll-v.webp",
+        "original_path": "images/auraflow_llm/beautiful-and-extremely-detailed-matryoshka-doll-v.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-and-extremely-detailed-matryoshka-doll-v.webp",
         "original_path": "images/auraflow/beautiful-and-extremely-detailed-matryoshka-doll-v.png",
         "subfolder": "auraflow",
@@ -4438,6 +4879,13 @@
   {
     "prompt": "an abandoned city of the gods floating in the sky, surrounded by clouds and big waterfalls, statues of antique gods,epic, octane render, 8K, unreal engine 5, ray tracing, highly detailed, Cinematic,",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/an-abandoned-city-of-the-gods-floating-in-the-sky-.webp",
+        "original_path": "images/auraflow_llm/an-abandoned-city-of-the-gods-floating-in-the-sky-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/an-abandoned-city-of-the-gods-floating-in-the-sky-.webp",
         "original_path": "images/auraflow/an-abandoned-city-of-the-gods-floating-in-the-sky-.png",
@@ -4508,6 +4956,13 @@
     "prompt": "A gigantic battle bot vaguely in the shape of hello kitty. Cute but deadly. White and pink. in a cyberpunk city street. Art by Dan LuVisi",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.webp",
+        "original_path": "images/auraflow_llm/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.webp",
         "original_path": "images/auraflow/a-gigantic-battle-bot-vaguely-in-the-shape-of-hell.png",
         "subfolder": "auraflow",
@@ -4577,6 +5032,13 @@
     "prompt": "beautiful woman wearing an elaborate white rabbit mask that covers her eyes and nose, wavy hair, beautiful eyes, art by [Bastien Lecouffe-Deharme + \u00c9lisabeth Sonrel + Artgerm + WLOP + Ilya Kuvshinov + RHADS + Loish + Rossdraws]",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-woman-wearing-an-elaborate-white-rabbit-.webp",
+        "original_path": "images/auraflow_llm/beautiful-woman-wearing-an-elaborate-white-rabbit-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-woman-wearing-an-elaborate-white-rabbit-.webp",
         "original_path": "images/auraflow/beautiful-woman-wearing-an-elaborate-white-rabbit-.png",
         "subfolder": "auraflow",
@@ -4639,6 +5101,13 @@
     "prompt": "\"Kakashi Sensei, one eyed covered with facemask\" head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting,",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/kakashi-sensei-one-eyed-covered-with-facemask-head.webp",
+        "original_path": "images/auraflow_llm/kakashi-sensei-one-eyed-covered-with-facemask-head.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/kakashi-sensei-one-eyed-covered-with-facemask-head.webp",
         "original_path": "images/auraflow/kakashi-sensei-one-eyed-covered-with-facemask-head.png",
         "subfolder": "auraflow",
@@ -4700,6 +5169,13 @@
   {
     "prompt": "Cascadia forest, mossy steps ascending to old bronze doors, very detailed, ultra realistic, 8k, hd, cinematic, dramatic lighting,",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/cascadia-forest-mossy-steps-ascending-to-old-bronz.webp",
+        "original_path": "images/auraflow_llm/cascadia-forest-mossy-steps-ascending-to-old-bronz.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/cascadia-forest-mossy-steps-ascending-to-old-bronz.webp",
         "original_path": "images/auraflow/cascadia-forest-mossy-steps-ascending-to-old-bronz.png",
@@ -4770,6 +5246,13 @@
     "prompt": "Close up portrait, A cybertank Engineer with a cybernetic eye, tools and workshop growing out of his head, rain, dripping oil, in the style of Gediminas Pranckevicius, Tim Razumovsky, Moebius, Russ Mills, Carne Griffiths, torn paper collage, splattered oil paint, cyberpunk, atompunk, engineerpunk, volumetric dust, pulp illustration, photorealism, raking sunlight, cinematic lighting",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/close-up-portrait-a-cybertank-engineer-with-a-cybe.webp",
+        "original_path": "images/auraflow_llm/close-up-portrait-a-cybertank-engineer-with-a-cybe.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/close-up-portrait-a-cybertank-engineer-with-a-cybe.webp",
         "original_path": "images/auraflow/close-up-portrait-a-cybertank-engineer-with-a-cybe.png",
         "subfolder": "auraflow",
@@ -4831,6 +5314,13 @@
   {
     "prompt": "fantasy art, style of tom bagshaw and karol bak and h.r. giger, Barbara palvin, beautiful sorceress, glamour model, intricate ivory filigree breastplate, Muscular, bold bright colorful makeup, colorful tattoo covered body, rococopunk, boroquepunk, fashion punk, flower-punk",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.webp",
+        "original_path": "images/auraflow_llm/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.webp",
         "original_path": "images/auraflow/fantasy-art-style-of-tom-bagshaw-and-karol-bak-and.png",
@@ -4901,6 +5391,13 @@
     "prompt": "Akira, unreal engine, ambiant cyberpunk city background, character design, strong male biker with long blond hair and beard on is futuristic motorbike, in a cyberpunk and apocalyptic city, darkest dungeon styleBeautiful black hair Woman , close up profile, A futuristic gothicpunk, in the style of Russ Mills, Aaron Horkey, rhads, artgerm, ivan laliashvili, Jean-Baptiste Monge, Ink Dropped in water, torn paper, bold strokes oil paint, cinematic lighting",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/akira-unreal-engine-ambiant-cyberpunk-city-backgro.webp",
+        "original_path": "images/auraflow_llm/akira-unreal-engine-ambiant-cyberpunk-city-backgro.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/akira-unreal-engine-ambiant-cyberpunk-city-backgro.webp",
         "original_path": "images/auraflow/akira-unreal-engine-ambiant-cyberpunk-city-backgro.png",
         "subfolder": "auraflow",
@@ -4969,6 +5466,13 @@
   {
     "prompt": "Beautiful pure black background photography, stunning African voodoo priestess with Rembrandt lighting, black lipstick, white red face paint, dark skin, smooth, intricate detail, by testino",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/beautiful-pure-black-background-photography-stunni.webp",
+        "original_path": "images/auraflow_llm/beautiful-pure-black-background-photography-stunni.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/beautiful-pure-black-background-photography-stunni.webp",
         "original_path": "images/auraflow/beautiful-pure-black-background-photography-stunni.png",
@@ -5039,6 +5543,13 @@
     "prompt": "Beautiful Ebony Cyberpunk Demon Princess, Yoji Shinkawa style, Flowing hair, bold brush strokes, concept art, dramatic lighting, Orphism, psychedelic, Blue violet Black and White, stylize, intricate detail, Alfredo Rodriguez, Jeremy Mann, Aaron Griffin, Tom Bagshaw",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.webp",
+        "original_path": "images/auraflow_llm/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.webp",
         "original_path": "images/auraflow/beautiful-ebony-cyberpunk-demon-princess-yoji-shin.png",
         "subfolder": "auraflow",
@@ -5107,6 +5618,13 @@
   {
     "prompt": "dramatic portrait of a golden stormtrooper in gold armor, gilded gold, shiny, smooth, hyperdetailed, hyperrealistic, extremely intricate and ornate, futuristic alien guild hall interior background, cinematic, epic, star wars concept art, volumetric lighting, octane render",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/dramatic-portrait-of-a-golden-stormtrooper-in-gold.webp",
+        "original_path": "images/auraflow_llm/dramatic-portrait-of-a-golden-stormtrooper-in-gold.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/dramatic-portrait-of-a-golden-stormtrooper-in-gold.webp",
         "original_path": "images/auraflow/dramatic-portrait-of-a-golden-stormtrooper-in-gold.png",
@@ -5177,6 +5695,13 @@
     "prompt": "tiny cute adorable cyborg cat with wire-whiskers and cute paws, sitting in a space station with cyberpunk background, Pixar style, octane render",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.webp",
+        "original_path": "images/auraflow_llm/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.webp",
         "original_path": "images/auraflow/tiny-cute-adorable-cyborg-cat-with-wire-whiskers-a.png",
         "subfolder": "auraflow",
@@ -5245,6 +5770,13 @@
   {
     "prompt": "close-up portrait, upset lord's muse, very expressive angry face, gild and teal, heavy brush stroke, hyperdetailed, Yoji Shinkawa style, gilded light, surreal concept art, intricate, Aaron Griffin, WLOP, Junji Ito",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/close-up-portrait-upset-lords-muse-very-expressive.webp",
+        "original_path": "images/auraflow_llm/close-up-portrait-upset-lords-muse-very-expressive.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/close-up-portrait-upset-lords-muse-very-expressive.webp",
         "original_path": "images/auraflow/close-up-portrait-upset-lords-muse-very-expressive.png",
@@ -5315,6 +5847,13 @@
     "prompt": "Beautiful Queen of Mars, Yoji Shinkawa style, Flowing hair, bold brush strokes, concept art, dramatic lighting, Orphism, psychedelic, Red Scarlet Orange Black and White, intricate detail, Tom Bagshaw, Jojos bizarre adventure, anime, Luis Royo",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.webp",
+        "original_path": "images/auraflow_llm/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.webp",
         "original_path": "images/auraflow/beautiful-queen-of-mars-yoji-shinkawa-style-flowin.png",
         "subfolder": "auraflow",
@@ -5383,6 +5922,13 @@
   {
     "prompt": "fantasy art, badass liuyifei, beautiful sorceress, intricate (white ivory filigree) breastplate armour, Muscular, colorful tattoo covered body, rococopunk, baroquepunk, fashion punk, style of tom bagshaw and karol bak",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/fantasy-art-badass-liuyifei-beautiful-sorceress-in.webp",
+        "original_path": "images/auraflow_llm/fantasy-art-badass-liuyifei-beautiful-sorceress-in.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/fantasy-art-badass-liuyifei-beautiful-sorceress-in.webp",
         "original_path": "images/auraflow/fantasy-art-badass-liuyifei-beautiful-sorceress-in.png",
@@ -5453,6 +5999,13 @@
     "prompt": "a \ud83d\udc69, \ud83d\ude1c, \ud83e\udd33, \u270c\ud83d\udc78\ud83d\ude0d\ud83d\ude1c  ,\ud83d\udc95,   \u2728,\ud83e\udd33,\ud83e\udde5",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a.webp",
+        "original_path": "images/auraflow_llm/a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a.webp",
         "original_path": "images/auraflow/a.png",
         "subfolder": "auraflow",
@@ -5521,6 +6074,13 @@
   {
     "prompt": "Spiderpunk [Tinker bell as a litte diva with long brown hair], Cinematic 8k HDR, Anime Eyes, artwork by Ilya Kuvshinov",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.webp",
+        "original_path": "images/auraflow_llm/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.webp",
         "original_path": "images/auraflow/spiderpunk-tinker-bell-as-a-litte-diva-with-long-b.png",
@@ -5591,6 +6151,13 @@
     "prompt": "A beautiful geisha-punk face by Noriyoshi Ohrai and Tank Girl",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.webp",
+        "original_path": "images/auraflow_llm/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.webp",
         "original_path": "images/auraflow/a-beautiful-geisha-punk-face-by-noriyoshi-ohrai-an.png",
         "subfolder": "auraflow",
@@ -5659,6 +6226,13 @@
   {
     "prompt": "flirty male muscular deadpool, wearing a tutu, pointe shoes posing, feminin, girly, cute, flirty, ballet dancer guild",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/flirty-male-muscular-deadpool-wearing-a-tutu-point.webp",
+        "original_path": "images/auraflow_llm/flirty-male-muscular-deadpool-wearing-a-tutu-point.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/flirty-male-muscular-deadpool-wearing-a-tutu-point.webp",
         "original_path": "images/auraflow/flirty-male-muscular-deadpool-wearing-a-tutu-point.png",
@@ -5729,6 +6303,13 @@
     "prompt": "Beautiful Ethereal Portrait of a flower girl, in the style of Anna Dittman, intricate detail, beautiful lighting, flowers, dissolving, liquid, radial composition, translucent, transparent, stylized",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-ethereal-portrait-of-a-flower-girl-in-th.webp",
+        "original_path": "images/auraflow_llm/beautiful-ethereal-portrait-of-a-flower-girl-in-th.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-ethereal-portrait-of-a-flower-girl-in-th.webp",
         "original_path": "images/auraflow/beautiful-ethereal-portrait-of-a-flower-girl-in-th.png",
         "subfolder": "auraflow",
@@ -5797,6 +6378,13 @@
   {
     "prompt": "ghost, ukrainian girl, war, fire, blue, yellow",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/ghost-ukrainian-girl-war-fire-blue-yellow.webp",
+        "original_path": "images/auraflow_llm/ghost-ukrainian-girl-war-fire-blue-yellow.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/ghost-ukrainian-girl-war-fire-blue-yellow.webp",
         "original_path": "images/auraflow/ghost-ukrainian-girl-war-fire-blue-yellow.png",
@@ -5867,6 +6455,13 @@
     "prompt": "A beautiul portrait of a cyberpunk ronin samurai, sekiro, intense stare, full face cover dieselpunk mask, atompunk goggles, retro-futuristic brown leather jacket, ethereal, galaxy, cosmic colors, in the style of artgerm, moebius, deathburger, John Cassaday, Wayne Barlowe and greg rutkowski, trending on artstation, steampunk, splash of bronze flakes, volumetric nebula dust particles, blue galactic atmosphere, ultra realistic digital art, digital painting, cinematic, high detailed, intricate, cyberpunk lighting, photo realistic, symmertical, concept art, smooth, sharp focus, illustration, Bokeh blur, unreal engine 5, octane render, 8K, HDR",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.webp",
+        "original_path": "images/auraflow_llm/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.webp",
         "original_path": "images/auraflow/a-beautiul-portrait-of-a-cyberpunk-ronin-samurai-s.png",
         "subfolder": "auraflow",
@@ -5935,6 +6530,13 @@
   {
     "prompt": "alina as wonderwoman in a post-apocalyptic factory overgrown with plants, by guweiz",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/alina-as-wonderwoman-in-a-post-apocalyptic-factory.webp",
+        "original_path": "images/auraflow_llm/alina-as-wonderwoman-in-a-post-apocalyptic-factory.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/alina-as-wonderwoman-in-a-post-apocalyptic-factory.webp",
         "original_path": "images/auraflow/alina-as-wonderwoman-in-a-post-apocalyptic-factory.png",
@@ -6005,6 +6607,13 @@
     "prompt": "Beautiful Woman appearing from (colorful liquid oil paint:1.3), splashing paint, bold paint strokes, cinematic lighting, photo realistic, by karol bak",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/beautiful-woman-appearing-from-colorful-liquid-oil.webp",
+        "original_path": "images/auraflow_llm/beautiful-woman-appearing-from-colorful-liquid-oil.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/beautiful-woman-appearing-from-colorful-liquid-oil.webp",
         "original_path": "images/auraflow/beautiful-woman-appearing-from-colorful-liquid-oil.png",
         "subfolder": "auraflow",
@@ -6073,6 +6682,13 @@
   {
     "prompt": "realistic detailed semirealism beautiful gorgeous cute blackpink lalisa manoban wearing a summer dress",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/realistic-detailed-semirealism-beautiful-gorgeous-.webp",
+        "original_path": "images/auraflow_llm/realistic-detailed-semirealism-beautiful-gorgeous-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/realistic-detailed-semirealism-beautiful-gorgeous-.webp",
         "original_path": "images/auraflow/realistic-detailed-semirealism-beautiful-gorgeous-.png",
@@ -6143,6 +6759,13 @@
     "prompt": "lofi girl studying in a cafe, listening to music, (wearing pink headphones), smooth, masterpiece, trending on artstation, by enki bilal",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/lofi-girl-studying-in-a-cafe-listening-to-music-we.webp",
+        "original_path": "images/auraflow_llm/lofi-girl-studying-in-a-cafe-listening-to-music-we.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/lofi-girl-studying-in-a-cafe-listening-to-music-we.webp",
         "original_path": "images/auraflow/lofi-girl-studying-in-a-cafe-listening-to-music-we.png",
         "subfolder": "auraflow",
@@ -6211,6 +6834,13 @@
   {
     "prompt": "pixar style cute, adorable, tiny, anime chibi emma watson as hermione, wearing hogwarts uniform, in front of hogwarts castle,  at night, big anime eyes, beautiful, volumetric lighting, octane render",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.webp",
+        "original_path": "images/auraflow_llm/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.webp",
         "original_path": "images/auraflow/pixar-style-cute-adorable-tiny-anime-chibi-emma-wa.png",
@@ -6281,6 +6911,13 @@
     "prompt": "robot with exposed hydraulic lines in a junkyard, robot body, by enki, masterpiece, high quality, amazing background by ghibli, wide gorgeous eyes, smooth cell shading",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.webp",
+        "original_path": "images/auraflow_llm/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.webp",
         "original_path": "images/auraflow/robot-with-exposed-hydraulic-lines-in-a-junkyard-r.png",
         "subfolder": "auraflow",
@@ -6349,6 +6986,13 @@
   {
     "prompt": "highly detailed, highly accurate, masterpiece, best quality, pixar style cute, adorable, tiny, anime chibi emma watson as hermione, wearing hogwarts uniform, in front of hogwarts castle, at night, big anime eyes",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/highly-detailed-highly-accurate-masterpiece-best-q.webp",
+        "original_path": "images/auraflow_llm/highly-detailed-highly-accurate-masterpiece-best-q.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/highly-detailed-highly-accurate-masterpiece-best-q.webp",
         "original_path": "images/auraflow/highly-detailed-highly-accurate-masterpiece-best-q.png",
@@ -6419,6 +7063,13 @@
     "prompt": "japanese gravure model, geisha-punk face, tankgirl, dieselpunk, covered in black straps, eyes, face, mouth, hasselblad, masterpiece photo by enki and karol",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/japanese-gravure-model-geisha-punk-face-tankgirl-d.webp",
+        "original_path": "images/auraflow_llm/japanese-gravure-model-geisha-punk-face-tankgirl-d.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/japanese-gravure-model-geisha-punk-face-tankgirl-d.webp",
         "original_path": "images/auraflow/japanese-gravure-model-geisha-punk-face-tankgirl-d.png",
         "subfolder": "auraflow",
@@ -6488,6 +7139,13 @@
     "prompt": "close-up portrait, suggestive, unbuttoned, fantasy art, style of tom bagshaw and karol bak and h.r. giger, Barbara palvin, beautiful sorceress, glamour model, intricate ivory filigree breastplate, Muscular, bold bright colorful makeup, colorful tattoo covered body, rococopunk, baroque-punk, fashion punk, flower-punk",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/close-up-portrait-suggestive-unbuttoned-fantasy-ar.webp",
+        "original_path": "images/auraflow_llm/close-up-portrait-suggestive-unbuttoned-fantasy-ar.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/close-up-portrait-suggestive-unbuttoned-fantasy-ar.webp",
         "original_path": "images/auraflow/close-up-portrait-suggestive-unbuttoned-fantasy-ar.png",
         "subfolder": "auraflow",
@@ -6550,6 +7208,13 @@
     "prompt": "a group of chinese supermodels wearing bikinis, masterpiece photo, canon 5d mkiii, 24mm f4",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-group-of-chinese-supermodels-wearing-bikinis-mas.webp",
+        "original_path": "images/auraflow_llm/a-group-of-chinese-supermodels-wearing-bikinis-mas.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-group-of-chinese-supermodels-wearing-bikinis-mas.webp",
         "original_path": "images/auraflow/a-group-of-chinese-supermodels-wearing-bikinis-mas.png",
         "subfolder": "auraflow",
@@ -6611,6 +7276,13 @@
   {
     "prompt": "photo of a tiny cute kitten plush stuffed toy, as an astronaut on the moon, pixar style eyes, pokemon anime style, octane render, fantasy, volumetric light, soft cinematic lighting, tinycore, cutecore, realistic, 8 k",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.webp",
+        "original_path": "images/auraflow_llm/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.webp",
         "original_path": "images/auraflow/photo-of-a-tiny-cute-kitten-plush-stuffed-toy-as-a.png",
@@ -6681,6 +7353,13 @@
     "prompt": "karol ghibli style, julia alina emma wearing alien afro-futuristic (cyborg armor) on a pantone alien planet, by enki wlop testino karol",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/karol-ghibli-style-julia-alina-emma-wearing-alien-.webp",
+        "original_path": "images/auraflow_llm/karol-ghibli-style-julia-alina-emma-wearing-alien-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/karol-ghibli-style-julia-alina-emma-wearing-alien-.webp",
         "original_path": "images/auraflow/karol-ghibli-style-julia-alina-emma-wearing-alien-.png",
         "subfolder": "auraflow",
@@ -6749,6 +7428,13 @@
   {
     "prompt": "Portrait of beautiful sexy fashion blond girl. Model with bright makeup and curly hairstyle in retro style hat sitting in old car. Attractive woman  rides around the night city",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/portrait-of-beautiful-sexy-fashion-blond-girl-mode.webp",
+        "original_path": "images/auraflow_llm/portrait-of-beautiful-sexy-fashion-blond-girl-mode.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/portrait-of-beautiful-sexy-fashion-blond-girl-mode.webp",
         "original_path": "images/auraflow/portrait-of-beautiful-sexy-fashion-blond-girl-mode.png",
@@ -6819,6 +7505,13 @@
     "prompt": "a close up of a person with horns on their head, a character portrait, by Kieran Yanner, Artstation contest winner, sunset glow, medium portrait of a goblin, teen elf, skinny male fantasy alchemist",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-close-up-of-a-person-with-horns-on-their-head-a-.webp",
+        "original_path": "images/auraflow_llm/a-close-up-of-a-person-with-horns-on-their-head-a-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-close-up-of-a-person-with-horns-on-their-head-a-.webp",
         "original_path": "images/auraflow/a-close-up-of-a-person-with-horns-on-their-head-a-.png",
         "subfolder": "auraflow",
@@ -6888,6 +7581,13 @@
     "prompt": "A surrealist portrait of a mermaid with colorful, flowing hair and intricate tattoos, surrounded by underwater coral and sea creatures. The portrait is inspired by the work of Salvador Dali and Zdzis\u0142aw Beksi\u0144ski.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-surrealist-portrait-of-a-mermaid-with-colorful-f.webp",
+        "original_path": "images/auraflow_llm/a-surrealist-portrait-of-a-mermaid-with-colorful-f.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-surrealist-portrait-of-a-mermaid-with-colorful-f.webp",
         "original_path": "images/auraflow/a-surrealist-portrait-of-a-mermaid-with-colorful-f.png",
         "subfolder": "auraflow",
@@ -6949,6 +7649,13 @@
   {
     "prompt": "A photorealistic rendering of a futuristic cityscape, featuring towering skyscrapers, flying cars, and neon lights. The image is set at sunset, with a vibrant orange and pink sky in the background.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-photorealistic-rendering-of-a-futuristic-citysca.webp",
+        "original_path": "images/auraflow_llm/a-photorealistic-rendering-of-a-futuristic-citysca.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-photorealistic-rendering-of-a-futuristic-citysca.webp",
         "original_path": "images/auraflow/a-photorealistic-rendering-of-a-futuristic-citysca.png",
@@ -7019,6 +7726,13 @@
     "prompt": "A fantastical landscape of a rolling green valley, dotted with magical forests and enchanted lakes. In the distance, a castle sits atop a hill, surrounded by clouds and mist. The scene is inspired by the work of Studio Ghibli.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-fantastical-landscape-of-a-rolling-green-valley-.webp",
+        "original_path": "images/auraflow_llm/a-fantastical-landscape-of-a-rolling-green-valley-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-fantastical-landscape-of-a-rolling-green-valley-.webp",
         "original_path": "images/auraflow/a-fantastical-landscape-of-a-rolling-green-valley-.png",
         "subfolder": "auraflow",
@@ -7087,6 +7801,13 @@
   {
     "prompt": "A digital painting of a warrior princess, dressed in armor and wielding a glowing sword. The warrior is depicted in a dramatic pose, with swirling energy and sparks emanating from her sword. The image is inspired by the art style of Frank Frazetta.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-digital-painting-of-a-warrior-princess-dressed-i.webp",
+        "original_path": "images/auraflow_llm/a-digital-painting-of-a-warrior-princess-dressed-i.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-digital-painting-of-a-warrior-princess-dressed-i.webp",
         "original_path": "images/auraflow/a-digital-painting-of-a-warrior-princess-dressed-i.png",
@@ -7157,6 +7878,13 @@
     "prompt": "A close-up photograph of a majestic eagle, with piercing eyes and sharp talons. The eagle is perched on a branch, surrounded by a beautiful natural landscape. The photograph is taken with a shallow depth of field, to focus on the details of the bird's feathers.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-close-up-photograph-of-a-majestic-eagle-with-pie.webp",
+        "original_path": "images/auraflow_llm/a-close-up-photograph-of-a-majestic-eagle-with-pie.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-close-up-photograph-of-a-majestic-eagle-with-pie.webp",
         "original_path": "images/auraflow/a-close-up-photograph-of-a-majestic-eagle-with-pie.png",
         "subfolder": "auraflow",
@@ -7225,6 +7953,13 @@
   {
     "prompt": "A stylized illustration of a robot in a futuristic cyberpunk world. The robot is heavily modified with mechanical limbs and glowing cybernetic implants. The image is inspired by the art style of Katsuhiro Otomo and Hajime Sorayama.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-stylized-illustration-of-a-robot-in-a-futuristic.webp",
+        "original_path": "images/auraflow_llm/a-stylized-illustration-of-a-robot-in-a-futuristic.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-stylized-illustration-of-a-robot-in-a-futuristic.webp",
         "original_path": "images/auraflow/a-stylized-illustration-of-a-robot-in-a-futuristic.png",
@@ -7295,6 +8030,13 @@
     "prompt": "A cartoonish illustration of a group of animal friends, including a fox, a rabbit, and a bear, having a picnic in a sunny meadow. The image is inspired by the art style of Pixar and Disney.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-cartoonish-illustration-of-a-group-of-animal-fri.webp",
+        "original_path": "images/auraflow_llm/a-cartoonish-illustration-of-a-group-of-animal-fri.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-cartoonish-illustration-of-a-group-of-animal-fri.webp",
         "original_path": "images/auraflow/a-cartoonish-illustration-of-a-group-of-animal-fri.png",
         "subfolder": "auraflow",
@@ -7363,6 +8105,13 @@
   {
     "prompt": "A realistic 3D model of a dragon, with detailed scales and wings, set against a fiery, molten landscape. The dragon is rendered in a highly detailed and realistic style, inspired by the art of Justin Sweet and Donato Giancola.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-realistic-3d-model-of-a-dragon-with-detailed-sca.webp",
+        "original_path": "images/auraflow_llm/a-realistic-3d-model-of-a-dragon-with-detailed-sca.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-realistic-3d-model-of-a-dragon-with-detailed-sca.webp",
         "original_path": "images/auraflow/a-realistic-3d-model-of-a-dragon-with-detailed-sca.png",
@@ -7433,6 +8182,13 @@
     "prompt": "A dark and moody portrait of a gothic vampire, with pale skin, long black hair, and piercing red eyes. The vampire is depicted in a shadowy, candlelit setting, surrounded by cobwebs and bats. The image is inspired by the art of Brom and John Jude Palencar.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-dark-and-moody-portrait-of-a-gothic-vampire-with.webp",
+        "original_path": "images/auraflow_llm/a-dark-and-moody-portrait-of-a-gothic-vampire-with.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-dark-and-moody-portrait-of-a-gothic-vampire-with.webp",
         "original_path": "images/auraflow/a-dark-and-moody-portrait-of-a-gothic-vampire-with.png",
         "subfolder": "auraflow",
@@ -7501,6 +8257,13 @@
   {
     "prompt": "Expressive bronze sculpture bust of ballet dancer in an elegant pose. Fine details capturing texture of hair and costume. Neoclassical form reminiscent of Degas.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/expressive-bronze-sculpture-bust-of-ballet-dancer-.webp",
+        "original_path": "images/auraflow_llm/expressive-bronze-sculpture-bust-of-ballet-dancer-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/expressive-bronze-sculpture-bust-of-ballet-dancer-.webp",
         "original_path": "images/auraflow/expressive-bronze-sculpture-bust-of-ballet-dancer-.png",
@@ -7571,6 +8334,13 @@
     "prompt": "Photorealistic 3D interior rendering of mid century modern living room. Detailed materials and indirect lighting like Alex Hogrefe architectural visualizations.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/photorealistic-3d-interior-rendering-of-mid-centur.webp",
+        "original_path": "images/auraflow_llm/photorealistic-3d-interior-rendering-of-mid-centur.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/photorealistic-3d-interior-rendering-of-mid-centur.webp",
         "original_path": "images/auraflow/photorealistic-3d-interior-rendering-of-mid-centur.png",
         "subfolder": "auraflow",
@@ -7639,6 +8409,13 @@
   {
     "prompt": "Dynamic music album cover illustration featuring a guitar-playing rocker. Loose brushwork and drips reminiscent of psychedelic 60's art like Wes Wilson's concert posters.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/dynamic-music-album-cover-illustration-featuring-a.webp",
+        "original_path": "images/auraflow_llm/dynamic-music-album-cover-illustration-featuring-a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/dynamic-music-album-cover-illustration-featuring-a.webp",
         "original_path": "images/auraflow/dynamic-music-album-cover-illustration-featuring-a.png",
@@ -7709,6 +8486,13 @@
     "prompt": "Surreal photo collage of a baby dragon curled up asleep inside an ornate birdcage, with gears and candles floating around it.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/surreal-photo-collage-of-a-baby-dragon-curled-up-a.webp",
+        "original_path": "images/auraflow_llm/surreal-photo-collage-of-a-baby-dragon-curled-up-a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/surreal-photo-collage-of-a-baby-dragon-curled-up-a.webp",
         "original_path": "images/auraflow/surreal-photo-collage-of-a-baby-dragon-curled-up-a.png",
         "subfolder": "auraflow",
@@ -7777,6 +8561,13 @@
   {
     "prompt": "Watercolor painting of a colorful armored samurai warrior standing in a field of flowers. Gentle lighting and soft color gradients.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/watercolor-painting-of-a-colorful-armored-samurai-.webp",
+        "original_path": "images/auraflow_llm/watercolor-painting-of-a-colorful-armored-samurai-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/watercolor-painting-of-a-colorful-armored-samurai-.webp",
         "original_path": "images/auraflow/watercolor-painting-of-a-colorful-armored-samurai-.png",
@@ -7847,6 +8638,13 @@
     "prompt": "A colorful childlike dragon splashing playfully in a forest pond surrounded by tall pines, sunbeams streaming down. Peaceful nature scene reminiscent of beginnings in The NeverEnding Story.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-colorful-childlike-dragon-splashing-playfully-in.webp",
+        "original_path": "images/auraflow_llm/a-colorful-childlike-dragon-splashing-playfully-in.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-colorful-childlike-dragon-splashing-playfully-in.webp",
         "original_path": "images/auraflow/a-colorful-childlike-dragon-splashing-playfully-in.png",
         "subfolder": "auraflow",
@@ -7915,6 +8713,13 @@
   {
     "prompt": "A snowy owl carefully protecting her fledglings in a nest lined with soft downy feathers. Photorealistic intimate nature scene.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-snowy-owl-carefully-protecting-her-fledglings-in.webp",
+        "original_path": "images/auraflow_llm/a-snowy-owl-carefully-protecting-her-fledglings-in.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-snowy-owl-carefully-protecting-her-fledglings-in.webp",
         "original_path": "images/auraflow/a-snowy-owl-carefully-protecting-her-fledglings-in.png",
@@ -7985,6 +8790,13 @@
     "prompt": "The silhouette of a cloaked figure standing alone on an alien planet, facing two huge moons rising over jagged mountain peaks. Cinematic landscape vista, inspired by Philippe Bouchet.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/the-silhouette-of-a-cloaked-figure-standing-alone-.webp",
+        "original_path": "images/auraflow_llm/the-silhouette-of-a-cloaked-figure-standing-alone-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/the-silhouette-of-a-cloaked-figure-standing-alone-.webp",
         "original_path": "images/auraflow/the-silhouette-of-a-cloaked-figure-standing-alone-.png",
         "subfolder": "auraflow",
@@ -8053,6 +8865,13 @@
   {
     "prompt": "A wise bearded wizard conjuring a glowing spell, smoke and sparks surround his hands, dramatic lighting, fantasy style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-wise-bearded-wizard-conjuring-a-glowing-spell-sm.webp",
+        "original_path": "images/auraflow_llm/a-wise-bearded-wizard-conjuring-a-glowing-spell-sm.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-wise-bearded-wizard-conjuring-a-glowing-spell-sm.webp",
         "original_path": "images/auraflow/a-wise-bearded-wizard-conjuring-a-glowing-spell-sm.png",
@@ -8123,6 +8942,13 @@
     "prompt": "Oil painting of an astronaut riding a unicorn over a rainbow bridge into a fantasy city in the clouds. Vibrant celestial colors, intricate city details, mystical lighting.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/oil-painting-of-an-astronaut-riding-a-unicorn-over.webp",
+        "original_path": "images/auraflow_llm/oil-painting-of-an-astronaut-riding-a-unicorn-over.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/oil-painting-of-an-astronaut-riding-a-unicorn-over.webp",
         "original_path": "images/auraflow/oil-painting-of-an-astronaut-riding-a-unicorn-over.png",
         "subfolder": "auraflow",
@@ -8191,6 +9017,13 @@
   {
     "prompt": "Digital vector poster of a UFO beaming up a cow into a vivid starry night sky. Simple geometric shapes with limited color palette in a retro style like Ted CoConis illustrations.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/digital-vector-poster-of-a-ufo-beaming-up-a-cow-in.webp",
+        "original_path": "images/auraflow_llm/digital-vector-poster-of-a-ufo-beaming-up-a-cow-in.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/digital-vector-poster-of-a-ufo-beaming-up-a-cow-in.webp",
         "original_path": "images/auraflow/digital-vector-poster-of-a-ufo-beaming-up-a-cow-in.png",
@@ -8261,6 +9094,13 @@
     "prompt": "A curious mermaid peering from behind a coral reef at a majestic underwater shipwreck, schools of fish swimming by, light rays piercing the ocean depths.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-curious-mermaid-peering-from-behind-a-coral-reef.webp",
+        "original_path": "images/auraflow_llm/a-curious-mermaid-peering-from-behind-a-coral-reef.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-curious-mermaid-peering-from-behind-a-coral-reef.webp",
         "original_path": "images/auraflow/a-curious-mermaid-peering-from-behind-a-coral-reef.png",
         "subfolder": "auraflow",
@@ -8329,6 +9169,13 @@
   {
     "prompt": "An astronomer studying a holographic map of nearby exoplanets, with detailed topological projections of alien landscapes and atmospheres. Explorer's Club study room.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/an-astronomer-studying-a-holographic-map-of-nearby.webp",
+        "original_path": "images/auraflow_llm/an-astronomer-studying-a-holographic-map-of-nearby.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/an-astronomer-studying-a-holographic-map-of-nearby.webp",
         "original_path": "images/auraflow/an-astronomer-studying-a-holographic-map-of-nearby.png",
@@ -8399,6 +9246,13 @@
     "prompt": "Whimsical digital cartoon scene of giraffes having a tea party in fancy hats and dresses in a flower garden. Cute style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/whimsical-digital-cartoon-scene-of-giraffes-having.webp",
+        "original_path": "images/auraflow_llm/whimsical-digital-cartoon-scene-of-giraffes-having.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/whimsical-digital-cartoon-scene-of-giraffes-having.webp",
         "original_path": "images/auraflow/whimsical-digital-cartoon-scene-of-giraffes-having.png",
         "subfolder": "auraflow",
@@ -8467,6 +9321,13 @@
   {
     "prompt": "A wise old tortoise surrounded by smiling children listening to his stories at the zoo on a sunny day. Heartwarming scene.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-wise-old-tortoise-surrounded-by-smiling-children.webp",
+        "original_path": "images/auraflow_llm/a-wise-old-tortoise-surrounded-by-smiling-children.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-wise-old-tortoise-surrounded-by-smiling-children.webp",
         "original_path": "images/auraflow/a-wise-old-tortoise-surrounded-by-smiling-children.png",
@@ -8537,6 +9398,13 @@
     "prompt": "Photorealistic still life of a bowl of lemons and limes with water droplets on a sunny windowsill. Soft natural lighting.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/photorealistic-still-life-of-a-bowl-of-lemons-and-.webp",
+        "original_path": "images/auraflow_llm/photorealistic-still-life-of-a-bowl-of-lemons-and-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/photorealistic-still-life-of-a-bowl-of-lemons-and-.webp",
         "original_path": "images/auraflow/photorealistic-still-life-of-a-bowl-of-lemons-and-.png",
         "subfolder": "auraflow",
@@ -8605,6 +9473,13 @@
   {
     "prompt": "Photorealistic still life composition of colorful macaroons neatly arranged on a marble pedestal against a soft blurred background.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/photorealistic-still-life-composition-of-colorful-.webp",
+        "original_path": "images/auraflow_llm/photorealistic-still-life-composition-of-colorful-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/photorealistic-still-life-composition-of-colorful-.webp",
         "original_path": "images/auraflow/photorealistic-still-life-composition-of-colorful-.png",
@@ -8675,6 +9550,13 @@
     "prompt": "An elf druid standing in a lush forest glen, arms raised, commanding vines and roots to grow and entangle a ruined stone statue overgrown with moss. Light streams through the canopy. Painted in the fantasy art style of Justin Gerard.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/an-elf-druid-standing-in-a-lush-forest-glen-arms-r.webp",
+        "original_path": "images/auraflow_llm/an-elf-druid-standing-in-a-lush-forest-glen-arms-r.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/an-elf-druid-standing-in-a-lush-forest-glen-arms-r.webp",
         "original_path": "images/auraflow/an-elf-druid-standing-in-a-lush-forest-glen-arms-r.png",
         "subfolder": "auraflow",
@@ -8743,6 +9625,13 @@
   {
     "prompt": "A cyberpunk hacker in a dark room illuminated only by computer screens and digital projections, coding on an elaborate custom rig with exposed components. Atmospheric high-tech lighting.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-cyberpunk-hacker-in-a-dark-room-illuminated-only.webp",
+        "original_path": "images/auraflow_llm/a-cyberpunk-hacker-in-a-dark-room-illuminated-only.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-cyberpunk-hacker-in-a-dark-room-illuminated-only.webp",
         "original_path": "images/auraflow/a-cyberpunk-hacker-in-a-dark-room-illuminated-only.png",
@@ -8813,6 +9702,13 @@
     "prompt": "A quaint hobbit hole exterior with a round green door, stone chimney, flowers and vines growing around it. Detailed, picturesque landscape foreground, leading to hills in background.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-quaint-hobbit-hole-exterior-with-a-round-green-d.webp",
+        "original_path": "images/auraflow_llm/a-quaint-hobbit-hole-exterior-with-a-round-green-d.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-quaint-hobbit-hole-exterior-with-a-round-green-d.webp",
         "original_path": "images/auraflow/a-quaint-hobbit-hole-exterior-with-a-round-green-d.png",
         "subfolder": "auraflow",
@@ -8881,6 +9777,13 @@
   {
     "prompt": "Cinematic digital matte painting vista of a knight standing proudly atop a hillside meadow overlooking a fantasy kingdom kingdom at sunset. Golden light cascades over trees and rivers. The female knight has a helmet with feathered plume under her arm, wearing silver engraved armor with a red tabard. Epic sweeping perspective.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/cinematic-digital-matte-painting-vista-of-a-knight.webp",
+        "original_path": "images/auraflow_llm/cinematic-digital-matte-painting-vista-of-a-knight.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/cinematic-digital-matte-painting-vista-of-a-knight.webp",
         "original_path": "images/auraflow/cinematic-digital-matte-painting-vista-of-a-knight.png",
@@ -8951,6 +9854,13 @@
     "prompt": "Chibi character design of a cute astronaut with twintails, wearing a white and pink spacesuit, bouncing with stars in her eyes exploring alien planets.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/chibi-character-design-of-a-cute-astronaut-with-tw.webp",
+        "original_path": "images/auraflow_llm/chibi-character-design-of-a-cute-astronaut-with-tw.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/chibi-character-design-of-a-cute-astronaut-with-tw.webp",
         "original_path": "images/auraflow/chibi-character-design-of-a-cute-astronaut-with-tw.png",
         "subfolder": "auraflow",
@@ -9019,6 +9929,13 @@
   {
     "prompt": "An elaborately dressed elven monk practices martial arts in a lush courtyard within a fantasy elven tree city at dawn.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/an-elaborately-dressed-elven-monk-practices-martia.webp",
+        "original_path": "images/auraflow_llm/an-elaborately-dressed-elven-monk-practices-martia.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/an-elaborately-dressed-elven-monk-practices-martia.webp",
         "original_path": "images/auraflow/an-elaborately-dressed-elven-monk-practices-martia.png",
@@ -9089,6 +10006,13 @@
     "prompt": "Steampunk rendition of Keanu Reeves as an intricate robot statue, set in a dystopian cityscape. Vibrant colors, beautiful rim lighting, and intricate detailing, in the styles of Tomasz Alen Kopera and Fenghua Zhong. Render in 8K with Octane and ray tracing.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/steampunk-rendition-of-keanu-reeves-as-an-intricat.webp",
+        "original_path": "images/auraflow_llm/steampunk-rendition-of-keanu-reeves-as-an-intricat.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/steampunk-rendition-of-keanu-reeves-as-an-intricat.webp",
         "original_path": "images/auraflow/steampunk-rendition-of-keanu-reeves-as-an-intricat.png",
         "subfolder": "auraflow",
@@ -9157,6 +10081,13 @@
   {
     "prompt": "Whimsical anime scene of a fox spirit in traditional garb walking through a bamboo forest in autumn. Soft warm lighting, detailed fur textures.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/whimsical-anime-scene-of-a-fox-spirit-in-tradition.webp",
+        "original_path": "images/auraflow_llm/whimsical-anime-scene-of-a-fox-spirit-in-tradition.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/whimsical-anime-scene-of-a-fox-spirit-in-tradition.webp",
         "original_path": "images/auraflow/whimsical-anime-scene-of-a-fox-spirit-in-tradition.png",
@@ -9227,6 +10158,13 @@
     "prompt": "Lush digital illustration of a fairy village nestled within a mossy forest glen, magical glow emitting from mushroom homes at night. Bioluminescent plants, fireflies, moonlight.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/lush-digital-illustration-of-a-fairy-village-nestl.webp",
+        "original_path": "images/auraflow_llm/lush-digital-illustration-of-a-fairy-village-nestl.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/lush-digital-illustration-of-a-fairy-village-nestl.webp",
         "original_path": "images/auraflow/lush-digital-illustration-of-a-fairy-village-nestl.png",
         "subfolder": "auraflow",
@@ -9295,6 +10233,13 @@
   {
     "prompt": "Anime illustration of a magical girl, dressed in an elaborate costume with ribbons and frills, surrounded by sparkling energy as she flies over a futuristic cityscape. Long flowy pink hair, determined expression, raising her wand to cast a spell under the light of a full moon. Detailed background, gradients, glow effects.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/anime-illustration-of-a-magical-girl-dressed-in-an.webp",
+        "original_path": "images/auraflow_llm/anime-illustration-of-a-magical-girl-dressed-in-an.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/anime-illustration-of-a-magical-girl-dressed-in-an.webp",
         "original_path": "images/auraflow/anime-illustration-of-a-magical-girl-dressed-in-an.png",
@@ -9365,6 +10310,13 @@
     "prompt": "Stylized character design of a cheerful artificer wearing steampunk goggles and a toolbelt, happily tinkering away on a mechanical dragon in her workshop. She has bright eyes, curly brown hair in a bun, oil smudges on her cheeks, wearing a puffy blouse under blue overalls. Vibrant color palette.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/stylized-character-design-of-a-cheerful-artificer-.webp",
+        "original_path": "images/auraflow_llm/stylized-character-design-of-a-cheerful-artificer-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/stylized-character-design-of-a-cheerful-artificer-.webp",
         "original_path": "images/auraflow/stylized-character-design-of-a-cheerful-artificer-.png",
         "subfolder": "auraflow",
@@ -9433,6 +10385,13 @@
   {
     "prompt": "An astronaut riding a galloping horse across the moon surface leaving trails in the dusty lunar soil under starry skies.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/an-astronaut-riding-a-galloping-horse-across-the-m.webp",
+        "original_path": "images/auraflow_llm/an-astronaut-riding-a-galloping-horse-across-the-m.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/an-astronaut-riding-a-galloping-horse-across-the-m.webp",
         "original_path": "images/auraflow/an-astronaut-riding-a-galloping-horse-across-the-m.png",
@@ -9503,6 +10462,13 @@
     "prompt": "A pair of Nike running shoes with neon laces set against a dark asphalt background. Dramatic side lighting reveals textures and dimensions. Atmospheric urban environment.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-pair-of-nike-running-shoes-with-neon-laces-set-a.webp",
+        "original_path": "images/auraflow_llm/a-pair-of-nike-running-shoes-with-neon-laces-set-a.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-pair-of-nike-running-shoes-with-neon-laces-set-a.webp",
         "original_path": "images/auraflow/a-pair-of-nike-running-shoes-with-neon-laces-set-a.png",
         "subfolder": "auraflow",
@@ -9564,6 +10530,13 @@
   {
     "prompt": "Vintage travel poster advertising the Orient Express train journey. Featuring a stylized art nouveau steam engine against landmark destinations. Rich colors in the graphic style of Roger Broders.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/vintage-travel-poster-advertising-the-orient-expre.webp",
+        "original_path": "images/auraflow_llm/vintage-travel-poster-advertising-the-orient-expre.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/vintage-travel-poster-advertising-the-orient-expre.webp",
         "original_path": "images/auraflow/vintage-travel-poster-advertising-the-orient-expre.png",
@@ -9634,6 +10607,13 @@
     "prompt": "A fantasy Masquerade Ball scene with masked revelers waltzing in an opulent candlelit ballroom decorated with alien flora,Floating jellyfish illuminate the hall.. Otherworldly atmosphere.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-fantasy-masquerade-ball-scene-with-masked-revele.webp",
+        "original_path": "images/auraflow_llm/a-fantasy-masquerade-ball-scene-with-masked-revele.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-fantasy-masquerade-ball-scene-with-masked-revele.webp",
         "original_path": "images/auraflow/a-fantasy-masquerade-ball-scene-with-masked-revele.png",
         "subfolder": "auraflow",
@@ -9702,6 +10682,13 @@
   {
     "prompt": "A lush jungle planet with two moons in the pink sky. In the foreground, an explorer in a spacesuit examines glowing fungal specimens thriving on a fallen alien megalith. Pulp science fiction cover style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-lush-jungle-planet-with-two-moons-in-the-pink-sk.webp",
+        "original_path": "images/auraflow_llm/a-lush-jungle-planet-with-two-moons-in-the-pink-sk.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-lush-jungle-planet-with-two-moons-in-the-pink-sk.webp",
         "original_path": "images/auraflow/a-lush-jungle-planet-with-two-moons-in-the-pink-sk.png",
@@ -9772,6 +10759,13 @@
     "prompt": "Oil painting of a magical girl with long flowing hair, casting a glowing spell, standing atop a hill at sunset. Rendered in a detailed anime art style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/oil-painting-of-a-magical-girl-with-long-flowing-h.webp",
+        "original_path": "images/auraflow_llm/oil-painting-of-a-magical-girl-with-long-flowing-h.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/oil-painting-of-a-magical-girl-with-long-flowing-h.webp",
         "original_path": "images/auraflow/oil-painting-of-a-magical-girl-with-long-flowing-h.png",
         "subfolder": "auraflow",
@@ -9840,6 +10834,13 @@
   {
     "prompt": "A shiny new electric car parked on a winding coastal highway overlooking the ocean at sunset. Low angle perspective emphasizes sleek lines. Cinematic lighting and color grading.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-shiny-new-electric-car-parked-on-a-winding-coast.webp",
+        "original_path": "images/auraflow_llm/a-shiny-new-electric-car-parked-on-a-winding-coast.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-shiny-new-electric-car-parked-on-a-winding-coast.webp",
         "original_path": "images/auraflow/a-shiny-new-electric-car-parked-on-a-winding-coast.png",
@@ -9910,6 +10911,13 @@
     "prompt": "Dynamic comic book panel of a masked hero frozen in an action leap, cloak trailing. High contrast lighting and vivid colors reminiscent of Jim Lee's illustrations.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/dynamic-comic-book-panel-of-a-masked-hero-frozen-i.webp",
+        "original_path": "images/auraflow_llm/dynamic-comic-book-panel-of-a-masked-hero-frozen-i.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/dynamic-comic-book-panel-of-a-masked-hero-frozen-i.webp",
         "original_path": "images/auraflow/dynamic-comic-book-panel-of-a-masked-hero-frozen-i.png",
         "subfolder": "auraflow",
@@ -9978,6 +10986,13 @@
   {
     "prompt": "An astronaut emerging from her landed vessel onto the surface of an asteroid covered in strange alien artifacts and crumbling megalithic ruins. Atmospheric lighting, cinematic composition.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/an-astronaut-emerging-from-her-landed-vessel-onto-.webp",
+        "original_path": "images/auraflow_llm/an-astronaut-emerging-from-her-landed-vessel-onto-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/an-astronaut-emerging-from-her-landed-vessel-onto-.webp",
         "original_path": "images/auraflow/an-astronaut-emerging-from-her-landed-vessel-onto-.png",
@@ -10048,6 +11063,13 @@
     "prompt": "Whimsical illustration of an elderly goblin teaching potion brewing to children in front of a magical cottage in the woods.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/whimsical-illustration-of-an-elderly-goblin-teachi.webp",
+        "original_path": "images/auraflow_llm/whimsical-illustration-of-an-elderly-goblin-teachi.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/whimsical-illustration-of-an-elderly-goblin-teachi.webp",
         "original_path": "images/auraflow/whimsical-illustration-of-an-elderly-goblin-teachi.png",
         "subfolder": "auraflow",
@@ -10116,6 +11138,13 @@
   {
     "prompt": "Samurai Space Racer, speeding through an interstellar race track, his samurai-inspired ship a blur of motion. Capture the sense of speed and adventure, rendered in a photorealistic, HDR style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/samurai-space-racer-speeding-through-an-interstell.webp",
+        "original_path": "images/auraflow_llm/samurai-space-racer-speeding-through-an-interstell.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/samurai-space-racer-speeding-through-an-interstell.webp",
         "original_path": "images/auraflow/samurai-space-racer-speeding-through-an-interstell.png",
@@ -10186,6 +11215,13 @@
     "prompt": "Stylized anime character design of a baseball girl with bright eyes, holding a metal bat over her shoulder. Pink hair in pigtails flowing in the wind.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/stylized-anime-character-design-of-a-baseball-girl.webp",
+        "original_path": "images/auraflow_llm/stylized-anime-character-design-of-a-baseball-girl.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/stylized-anime-character-design-of-a-baseball-girl.webp",
         "original_path": "images/auraflow/stylized-anime-character-design-of-a-baseball-girl.png",
         "subfolder": "auraflow",
@@ -10254,6 +11290,13 @@
   {
     "prompt": "Anime-style portrait of a glamour Belle Delphine robot amidst a junkyard. The scene has a Granblue Fantasy aesthetic, with her wide gorgeous eyes and smooth cell shading contrasting the grimy background.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/anime-style-portrait-of-a-glamour-belle-delphine-r.webp",
+        "original_path": "images/auraflow_llm/anime-style-portrait-of-a-glamour-belle-delphine-r.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/anime-style-portrait-of-a-glamour-belle-delphine-r.webp",
         "original_path": "images/auraflow/anime-style-portrait-of-a-glamour-belle-delphine-r.png",
@@ -10324,6 +11367,13 @@
     "prompt": "Retro 80's magical girl transformation sequence of a smiling blonde girl with a red bow in her hair, twirling with glittering energy ribbons wrapping her in a pink and white ruffled dress.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/retro-80s-magical-girl-transformation-sequence-of-.webp",
+        "original_path": "images/auraflow_llm/retro-80s-magical-girl-transformation-sequence-of-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/retro-80s-magical-girl-transformation-sequence-of-.webp",
         "original_path": "images/auraflow/retro-80s-magical-girl-transformation-sequence-of-.png",
         "subfolder": "auraflow",
@@ -10392,6 +11442,13 @@
   {
     "prompt": "Graphic flat anime poster of a ninja dashing across rooftops under a crescent moon. Limited color palette with bold outlines.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/graphic-flat-anime-poster-of-a-ninja-dashing-acros.webp",
+        "original_path": "images/auraflow_llm/graphic-flat-anime-poster-of-a-ninja-dashing-acros.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/graphic-flat-anime-poster-of-a-ninja-dashing-acros.webp",
         "original_path": "images/auraflow/graphic-flat-anime-poster-of-a-ninja-dashing-acros.png",
@@ -10462,6 +11519,13 @@
     "prompt": "best quality, ultra high res, photorealistic, sfw, armored wizard, magical tattoos, apprentice, 1girl, looking at viewer, upper body, slender, small breasts, purple hair with white stripes, white croptop, (dark and moody universe:1.3), (elden ring style:1.3), (warhammer style:1.1), floating rocks, glowing pebbles, fiery dust, concept artist, global illumination, depth of field, gloomy, unsettling, splash art, art by artgerm and greg rutkowski and viktoria gavrilenko, scary smile, purple light, rule of the thirds",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/best-quality-ultra-high-res-photorealistic-sfw-arm.webp",
+        "original_path": "images/auraflow_llm/best-quality-ultra-high-res-photorealistic-sfw-arm.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/best-quality-ultra-high-res-photorealistic-sfw-arm.webp",
         "original_path": "images/auraflow/best-quality-ultra-high-res-photorealistic-sfw-arm.png",
         "subfolder": "auraflow",
@@ -10523,6 +11587,13 @@
   {
     "prompt": "3D render of an anthropomorphic pirate cat in adventurer clothes, standing in the busy dock of a pirate harbor. The scene captures the excitement and whimsy of a D&D adventure, with detailed subsurface scattering, fur rendering, and volumetric lighting.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/3d-render-of-an-anthropomorphic-pirate-cat-in-adve.webp",
+        "original_path": "images/auraflow_llm/3d-render-of-an-anthropomorphic-pirate-cat-in-adve.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/3d-render-of-an-anthropomorphic-pirate-cat-in-adve.webp",
         "original_path": "images/auraflow/3d-render-of-an-anthropomorphic-pirate-cat-in-adve.png",
@@ -10593,6 +11664,13 @@
     "prompt": "A cheerful pink unicorn jumping playfully through cotton candy clouds against a vibrant blue sky. Whimsical fantasy digital art.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-cheerful-pink-unicorn-jumping-playfully-through-.webp",
+        "original_path": "images/auraflow_llm/a-cheerful-pink-unicorn-jumping-playfully-through-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-cheerful-pink-unicorn-jumping-playfully-through-.webp",
         "original_path": "images/auraflow/a-cheerful-pink-unicorn-jumping-playfully-through-.png",
         "subfolder": "auraflow",
@@ -10661,6 +11739,13 @@
   {
     "prompt": "A gigantic hourglass half-filled with gleaming sapphire sand sits on a stone pedestal in the center of ahall with vaulted ceilings and arched windows. Epic sense of scale, glamour shot.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-gigantic-hourglass-half-filled-with-gleaming-sap.webp",
+        "original_path": "images/auraflow_llm/a-gigantic-hourglass-half-filled-with-gleaming-sap.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-gigantic-hourglass-half-filled-with-gleaming-sap.webp",
         "original_path": "images/auraflow/a-gigantic-hourglass-half-filled-with-gleaming-sap.png",
@@ -10731,6 +11816,13 @@
     "prompt": "Steampunk scene of a cybernetic elf princess with her futuristic technology-infused armor, against a backdrop of a bustling old-world city with steam-powered machines. Art Nouveau influences, intricate detailing with vibrant colors and warm lighting, rendered in 8K detail.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/steampunk-scene-of-a-cybernetic-elf-princess-with-.webp",
+        "original_path": "images/auraflow_llm/steampunk-scene-of-a-cybernetic-elf-princess-with-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/steampunk-scene-of-a-cybernetic-elf-princess-with-.webp",
         "original_path": "images/auraflow/steampunk-scene-of-a-cybernetic-elf-princess-with-.png",
         "subfolder": "auraflow",
@@ -10799,6 +11891,13 @@
   {
     "prompt": "Whimsical storybook scene of a glasses-wearing owl studying magical texts by candlelight within a treehouse library. Soft muted color palette and textured brushwork reminiscent of Mary Blair.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/whimsical-storybook-scene-of-a-glasses-wearing-owl.webp",
+        "original_path": "images/auraflow_llm/whimsical-storybook-scene-of-a-glasses-wearing-owl.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/whimsical-storybook-scene-of-a-glasses-wearing-owl.webp",
         "original_path": "images/auraflow/whimsical-storybook-scene-of-a-glasses-wearing-owl.png",
@@ -10869,6 +11968,13 @@
     "prompt": "Fantastical digital creature concept art depicting a glow winged unicorn emerging from a blooming lotus flower. Gentle lighting and soft colors in the whimsical style of Lois van Baarle.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/fantastical-digital-creature-concept-art-depicting.webp",
+        "original_path": "images/auraflow_llm/fantastical-digital-creature-concept-art-depicting.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/fantastical-digital-creature-concept-art-depicting.webp",
         "original_path": "images/auraflow/fantastical-digital-creature-concept-art-depicting.png",
         "subfolder": "auraflow",
@@ -10937,6 +12043,13 @@
   {
     "prompt": "Minimalist graphic poster depicting apple silhouettes with leaves. Bold colors with white space similar to Saul Bass's iconic Vertigo poster.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/minimalist-graphic-poster-depicting-apple-silhouet.webp",
+        "original_path": "images/auraflow_llm/minimalist-graphic-poster-depicting-apple-silhouet.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/minimalist-graphic-poster-depicting-apple-silhouet.webp",
         "original_path": "images/auraflow/minimalist-graphic-poster-depicting-apple-silhouet.png",
@@ -11007,6 +12120,13 @@
     "prompt": "A goblin sapper is hyperfocused on delicately disarming a complex mechanical explosive trap, tools in hand. The trap is made of spinning gears, springs, and magical sigils. Steampunk aesthetic.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-goblin-sapper-is-hyperfocused-on-delicately-disa.webp",
+        "original_path": "images/auraflow_llm/a-goblin-sapper-is-hyperfocused-on-delicately-disa.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-goblin-sapper-is-hyperfocused-on-delicately-disa.webp",
         "original_path": "images/auraflow/a-goblin-sapper-is-hyperfocused-on-delicately-disa.png",
         "subfolder": "auraflow",
@@ -11076,6 +12196,13 @@
     "prompt": "Classical Renaissance portrait of a tabby cat astronaut sitting proudly in her spacesuit before a launch to Mars. Dramatic chiaroscuro lighting.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/classical-renaissance-portrait-of-a-tabby-cat-astr.webp",
+        "original_path": "images/auraflow_llm/classical-renaissance-portrait-of-a-tabby-cat-astr.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/classical-renaissance-portrait-of-a-tabby-cat-astr.webp",
         "original_path": "images/auraflow/classical-renaissance-portrait-of-a-tabby-cat-astr.png",
         "subfolder": "auraflow",
@@ -11144,6 +12271,13 @@
   {
     "prompt": "Atmospheric oil landscape of Death Valley's rugged badlands at sunset, with a abandoned rusted car. Loose painterly brushwork in earth hues similar to those of Colin Campbell Cooper.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/atmospheric-oil-landscape-of-death-valleys-rugged-.webp",
+        "original_path": "images/auraflow_llm/atmospheric-oil-landscape-of-death-valleys-rugged-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/atmospheric-oil-landscape-of-death-valleys-rugged-.webp",
         "original_path": "images/auraflow/atmospheric-oil-landscape-of-death-valleys-rugged-.png",
@@ -11276,6 +12410,13 @@
     "prompt": "Clean line drawing of a perky magical girl with pink flowing hair, wearing a sparkly blue and pink dress with wings on the back, floating while winking peace signs.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/clean-line-drawing-of-a-perky-magical-girl-with-pi.webp",
+        "original_path": "images/auraflow_llm/clean-line-drawing-of-a-perky-magical-girl-with-pi.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/clean-line-drawing-of-a-perky-magical-girl-with-pi.webp",
         "original_path": "images/auraflow/clean-line-drawing-of-a-perky-magical-girl-with-pi.png",
         "subfolder": "auraflow",
@@ -11344,6 +12485,13 @@
   {
     "prompt": "Expressive sketch of a gentle princess with long black hair in an elegant bun, wearing a flowing emerald ballgown, singing on a stone balcony underneath hanging ivy vines.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/expressive-sketch-of-a-gentle-princess-with-long-b.webp",
+        "original_path": "images/auraflow_llm/expressive-sketch-of-a-gentle-princess-with-long-b.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/expressive-sketch-of-a-gentle-princess-with-long-b.webp",
         "original_path": "images/auraflow/expressive-sketch-of-a-gentle-princess-with-long-b.png",
@@ -11414,6 +12562,13 @@
     "prompt": "The Undead Pirate King, a spectral figure with a ghostly glow, commands his ghost ship against a moody night sky. The scene is infused with intricate detailing and a blend of medieval and fantasy aesthetics.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/the-undead-pirate-king-a-spectral-figure-with-a-gh.webp",
+        "original_path": "images/auraflow_llm/the-undead-pirate-king-a-spectral-figure-with-a-gh.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/the-undead-pirate-king-a-spectral-figure-with-a-gh.webp",
         "original_path": "images/auraflow/the-undead-pirate-king-a-spectral-figure-with-a-gh.png",
         "subfolder": "auraflow",
@@ -11482,6 +12637,13 @@
   {
     "prompt": "A friendly ghost wearing a top hat and monocle, smiling while reading a book by candlelight in a cozy haunted library.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-friendly-ghost-wearing-a-top-hat-and-monocle-smi.webp",
+        "original_path": "images/auraflow_llm/a-friendly-ghost-wearing-a-top-hat-and-monocle-smi.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-friendly-ghost-wearing-a-top-hat-and-monocle-smi.webp",
         "original_path": "images/auraflow/a-friendly-ghost-wearing-a-top-hat-and-monocle-smi.png",
@@ -11552,6 +12714,13 @@
     "prompt": "Post-Apocalyptic Druid healing a barren land with green, glowing magic. The scene is filled with intricate details of recovering nature, contrasting the deep autumn colors of the destroyed cityscape with the vibrant spring colors of the healing lands.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/post-apocalyptic-druid-healing-a-barren-land-with-.webp",
+        "original_path": "images/auraflow_llm/post-apocalyptic-druid-healing-a-barren-land-with-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/post-apocalyptic-druid-healing-a-barren-land-with-.webp",
         "original_path": "images/auraflow/post-apocalyptic-druid-healing-a-barren-land-with-.png",
         "subfolder": "auraflow",
@@ -11620,6 +12789,13 @@
   {
     "prompt": "Splash art depicting a fierce paladin warrior maiden encased in shining holy armor engraved with wings, raising a glowing greatsword towards the heavens as radiant light shines down upon her with doves flying past. Painted in a bold dynamic fantasy art style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/splash-art-depicting-a-fierce-paladin-warrior-maid.webp",
+        "original_path": "images/auraflow_llm/splash-art-depicting-a-fierce-paladin-warrior-maid.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/splash-art-depicting-a-fierce-paladin-warrior-maid.webp",
         "original_path": "images/auraflow/splash-art-depicting-a-fierce-paladin-warrior-maid.png",
@@ -11690,6 +12866,13 @@
     "prompt": "Retro 80s movie poster for a cyborg detective film. Featuring the protagonist walking through rain under neon signs. Vibrant palette, optical glow effects, grid overlays in the style of Syd Mead.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/retro-80s-movie-poster-for-a-cyborg-detective-film.webp",
+        "original_path": "images/auraflow_llm/retro-80s-movie-poster-for-a-cyborg-detective-film.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/retro-80s-movie-poster-for-a-cyborg-detective-film.webp",
         "original_path": "images/auraflow/retro-80s-movie-poster-for-a-cyborg-detective-film.png",
         "subfolder": "auraflow",
@@ -11758,6 +12941,13 @@
   {
     "prompt": "A close-up portrait of a fairy with intricate butterfly wings, flower petal dress, and wild curly hair. Her eyes glow with magic. A soft natural lighting, detailed background of giant mushrooms and toadstools. In the style of Brian Froud.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-close-up-portrait-of-a-fairy-with-intricate-butt.webp",
+        "original_path": "images/auraflow_llm/a-close-up-portrait-of-a-fairy-with-intricate-butt.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-close-up-portrait-of-a-fairy-with-intricate-butt.webp",
         "original_path": "images/auraflow/a-close-up-portrait-of-a-fairy-with-intricate-butt.png",
@@ -11828,6 +13018,13 @@
     "prompt": "Stylized anime character design of a cheerful pink-haired maid robot wearing a frilly uniform. Minimalist gradient shading and outlined linework reminiscent of huke's creations.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/stylized-anime-character-design-of-a-cheerful-pink.webp",
+        "original_path": "images/auraflow_llm/stylized-anime-character-design-of-a-cheerful-pink.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/stylized-anime-character-design-of-a-cheerful-pink.webp",
         "original_path": "images/auraflow/stylized-anime-character-design-of-a-cheerful-pink.png",
         "subfolder": "auraflow",
@@ -11896,6 +13093,13 @@
   {
     "prompt": "A dark hooded executioner sharpening his huge ornate axe, lit dramatically from below, surrounded by gothic iron prison bars and torture devices. Sinister mood, inspired by Frazetta.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-dark-hooded-executioner-sharpening-his-huge-orna.webp",
+        "original_path": "images/auraflow_llm/a-dark-hooded-executioner-sharpening-his-huge-orna.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-dark-hooded-executioner-sharpening-his-huge-orna.webp",
         "original_path": "images/auraflow/a-dark-hooded-executioner-sharpening-his-huge-orna.png",
@@ -11966,6 +13170,13 @@
     "prompt": "Whimsical stained glass style illustration of a cheerful fairy dressed in petal gowns, fluttering on iridescent wings, spreading pixie dust sparkles everywhere. She has rosy cheeks, curly turquoise hair, antennae with beads. Soft lighting, bright shimmering colors resembling a storybook illustration.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/whimsical-stained-glass-style-illustration-of-a-ch.webp",
+        "original_path": "images/auraflow_llm/whimsical-stained-glass-style-illustration-of-a-ch.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/whimsical-stained-glass-style-illustration-of-a-ch.webp",
         "original_path": "images/auraflow/whimsical-stained-glass-style-illustration-of-a-ch.png",
         "subfolder": "auraflow",
@@ -12034,6 +13245,13 @@
   {
     "prompt": "Anime manga panel close-up of a girl's joyful expression gazing at fireworks exploding in a night sky. Detailed sparkle effects.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/anime-manga-panel-close-up-of-a-girls-joyful-expre.webp",
+        "original_path": "images/auraflow_llm/anime-manga-panel-close-up-of-a-girls-joyful-expre.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/anime-manga-panel-close-up-of-a-girls-joyful-expre.webp",
         "original_path": "images/auraflow/anime-manga-panel-close-up-of-a-girls-joyful-expre.png",
@@ -12104,6 +13322,13 @@
     "prompt": "Anime scene of a sweet maid with pink pigtails, wearing a frilly black and white dress, cheerfully watering flowers in the garden of a European castle.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/anime-scene-of-a-sweet-maid-with-pink-pigtails-wea.webp",
+        "original_path": "images/auraflow_llm/anime-scene-of-a-sweet-maid-with-pink-pigtails-wea.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/anime-scene-of-a-sweet-maid-with-pink-pigtails-wea.webp",
         "original_path": "images/auraflow/anime-scene-of-a-sweet-maid-with-pink-pigtails-wea.png",
         "subfolder": "auraflow",
@@ -12172,6 +13397,13 @@
   {
     "prompt": "Anime scene of a cheerful cafe waitress with short brown hair, wearing a frilly pink dress with a white apron, happily serving tea and cake to friends.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/anime-scene-of-a-cheerful-cafe-waitress-with-short.webp",
+        "original_path": "images/auraflow_llm/anime-scene-of-a-cheerful-cafe-waitress-with-short.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/anime-scene-of-a-cheerful-cafe-waitress-with-short.webp",
         "original_path": "images/auraflow/anime-scene-of-a-cheerful-cafe-waitress-with-short.png",
@@ -12242,6 +13474,13 @@
     "prompt": "Graphite pencil drawing portrait study of a bearded lumberjack character. Detailed texture on the flannel shirt, hat, and facial hair. Strong contrast shading in the realistic style of Artem Demura.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/graphite-pencil-drawing-portrait-study-of-a-bearde.webp",
+        "original_path": "images/auraflow_llm/graphite-pencil-drawing-portrait-study-of-a-bearde.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/graphite-pencil-drawing-portrait-study-of-a-bearde.webp",
         "original_path": "images/auraflow/graphite-pencil-drawing-portrait-study-of-a-bearde.png",
         "subfolder": "auraflow",
@@ -12310,6 +13549,13 @@
   {
     "prompt": "A robot chef cheerfully flipping burgers on a grill, realistic lighting and textures, commercial advertisement style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-robot-chef-cheerfully-flipping-burgers-on-a-gril.webp",
+        "original_path": "images/auraflow_llm/a-robot-chef-cheerfully-flipping-burgers-on-a-gril.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-robot-chef-cheerfully-flipping-burgers-on-a-gril.webp",
         "original_path": "images/auraflow/a-robot-chef-cheerfully-flipping-burgers-on-a-gril.png",
@@ -12380,6 +13626,13 @@
     "prompt": "Stylized character turnaround sheet depicting a cute astronaut girl with twintails. She wears a pastel pink and teal spacesuit decorated with stickers, and cheerfully carries star charts under her arm. Simple clean lines with bright colors and gradients.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/stylized-character-turnaround-sheet-depicting-a-cu.webp",
+        "original_path": "images/auraflow_llm/stylized-character-turnaround-sheet-depicting-a-cu.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/stylized-character-turnaround-sheet-depicting-a-cu.webp",
         "original_path": "images/auraflow/stylized-character-turnaround-sheet-depicting-a-cu.png",
         "subfolder": "auraflow",
@@ -12448,6 +13701,13 @@
   {
     "prompt": "A high-end professional DSLR camera on a tripod with softbox lighting setup, photographing a elegant glass perfume bottle with details visible through refractive glass. Shallow depth of field, product in focus.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-high-end-professional-dslr-camera-on-a-tripod-wi.webp",
+        "original_path": "images/auraflow_llm/a-high-end-professional-dslr-camera-on-a-tripod-wi.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-high-end-professional-dslr-camera-on-a-tripod-wi.webp",
         "original_path": "images/auraflow/a-high-end-professional-dslr-camera-on-a-tripod-wi.png",
@@ -12518,6 +13778,13 @@
     "prompt": "A group of happy colorful blob characters dancing together joyfully on a beach during a vibrant sunset.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/a-group-of-happy-colorful-blob-characters-dancing-.webp",
+        "original_path": "images/auraflow_llm/a-group-of-happy-colorful-blob-characters-dancing-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/a-group-of-happy-colorful-blob-characters-dancing-.webp",
         "original_path": "images/auraflow/a-group-of-happy-colorful-blob-characters-dancing-.png",
         "subfolder": "auraflow",
@@ -12586,6 +13853,13 @@
   {
     "prompt": "A gremlin tinkerer sits amid a chaotic mess of scrap metal, tools, and half-built gadgets, happily welding a smoking contraption together, sparks flying.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/a-gremlin-tinkerer-sits-amid-a-chaotic-mess-of-scr.webp",
+        "original_path": "images/auraflow_llm/a-gremlin-tinkerer-sits-amid-a-chaotic-mess-of-scr.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/a-gremlin-tinkerer-sits-amid-a-chaotic-mess-of-scr.webp",
         "original_path": "images/auraflow/a-gremlin-tinkerer-sits-amid-a-chaotic-mess-of-scr.png",
@@ -12656,6 +13930,13 @@
     "prompt": "close-up portrait, Group of young cyberpunk women, wearing high-fashion swimwear, on a busy street at night. The scene captures a blend of casual and high-end fashion in a film-like setting, with intricate details, jewelry, and low light, in the style of Renoir and Vogue Italia., FUJI style",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/close-up-portrait-group-of-young-cyberpunk-women-w.webp",
+        "original_path": "images/auraflow_llm/close-up-portrait-group-of-young-cyberpunk-women-w.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/close-up-portrait-group-of-young-cyberpunk-women-w.webp",
         "original_path": "images/auraflow/close-up-portrait-group-of-young-cyberpunk-women-w.png",
         "subfolder": "auraflow",
@@ -12710,6 +13991,13 @@
   {
     "prompt": "Stunning athletic model Winnie Harlow striking fierce poses in a sleek aqua bikini, dripping wet hair, on the white sand beach reminiscent of Bruce Weber's provocative style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/stunning-athletic-model-winnie-harlow-striking-fie.webp",
+        "original_path": "images/auraflow_llm/stunning-athletic-model-winnie-harlow-striking-fie.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/stunning-athletic-model-winnie-harlow-striking-fie.webp",
         "original_path": "images/auraflow/stunning-athletic-model-winnie-harlow-striking-fie.png",
@@ -12772,6 +14060,13 @@
   {
     "prompt": "Model Bella Hadid gazes intensely past the camera wearing a belted burnt orange monokini swimsuit, windswept hair blowing, posed dynamically like in Ellen von Unwerth's fashion images.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/model-bella-hadid-gazes-intensely-past-the-camera-.webp",
+        "original_path": "images/auraflow_llm/model-bella-hadid-gazes-intensely-past-the-camera-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/model-bella-hadid-gazes-intensely-past-the-camera-.webp",
         "original_path": "images/auraflow/model-bella-hadid-gazes-intensely-past-the-camera-.png",
@@ -12842,6 +14137,13 @@
     "prompt": "Captivating portrait of model Adut Akech in a flowing floral swimsuit coverup, eyes closed serenely, lit softly by the sunset over the water similar to Paola Kudacki's emotive style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/captivating-portrait-of-model-adut-akech-in-a-flow.webp",
+        "original_path": "images/auraflow_llm/captivating-portrait-of-model-adut-akech-in-a-flow.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/captivating-portrait-of-model-adut-akech-in-a-flow.webp",
         "original_path": "images/auraflow/captivating-portrait-of-model-adut-akech-in-a-flow.png",
         "subfolder": "auraflow",
@@ -12910,6 +14212,13 @@
   {
     "prompt": "Gigi Hadid splashes playfully in the surf, wearing a colorful striped bikini, sun-kissed wet skin, evoking a natural joyful energy reminiscent of Glen Luchford's photography.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/gigi-hadid-splashes-playfully-in-the-surf-wearing-.webp",
+        "original_path": "images/auraflow_llm/gigi-hadid-splashes-playfully-in-the-surf-wearing-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/gigi-hadid-splashes-playfully-in-the-surf-wearing-.webp",
         "original_path": "images/auraflow/gigi-hadid-splashes-playfully-in-the-surf-wearing-.png",
@@ -12980,6 +14289,13 @@
     "prompt": "Editorial fashion shots of model Liya Kebede posing atop a surfboard, wearing a sleek black cutout monokini swimsuit, ocean mist in the air, resembling Russell James' vision.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/editorial-fashion-shots-of-model-liya-kebede-posin.webp",
+        "original_path": "images/auraflow_llm/editorial-fashion-shots-of-model-liya-kebede-posin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/editorial-fashion-shots-of-model-liya-kebede-posin.webp",
         "original_path": "images/auraflow/editorial-fashion-shots-of-model-liya-kebede-posin.png",
         "subfolder": "auraflow",
@@ -13048,6 +14364,13 @@
   {
     "prompt": "Seductive beauty shots of model Jasmine Tookes wearing a glittering jewel encrusted purple bikini under the night sky, eyes closed, in the dramatic style of Jean-Baptiste Mondino.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/seductive-beauty-shots-of-model-jasmine-tookes-wea.webp",
+        "original_path": "images/auraflow_llm/seductive-beauty-shots-of-model-jasmine-tookes-wea.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/seductive-beauty-shots-of-model-jasmine-tookes-wea.webp",
         "original_path": "images/auraflow/seductive-beauty-shots-of-model-jasmine-tookes-wea.png",
@@ -13118,6 +14441,13 @@
     "prompt": "Fierce sandy beach photoshoot with Joan Smalls strutting confidently in a red hot retro bikini and sheer coverup, sunset glow reminiscent of Peter Lindbergh's signature lighting.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/fierce-sandy-beach-photoshoot-with-joan-smalls-str.webp",
+        "original_path": "images/auraflow_llm/fierce-sandy-beach-photoshoot-with-joan-smalls-str.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/fierce-sandy-beach-photoshoot-with-joan-smalls-str.webp",
         "original_path": "images/auraflow/fierce-sandy-beach-photoshoot-with-joan-smalls-str.png",
         "subfolder": "auraflow",
@@ -13187,6 +14517,13 @@
     "prompt": "Ethereal island lifestyle photoshoot of Sofia Vergara lounging casually in a printed bandeau bikini, basking in the soft dawn light similar to Arthur Elgort's romantic style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/ethereal-island-lifestyle-photoshoot-of-sofia-verg.webp",
+        "original_path": "images/auraflow_llm/ethereal-island-lifestyle-photoshoot-of-sofia-verg.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/ethereal-island-lifestyle-photoshoot-of-sofia-verg.webp",
         "original_path": "images/auraflow/ethereal-island-lifestyle-photoshoot-of-sofia-verg.png",
         "subfolder": "auraflow",
@@ -13249,6 +14586,13 @@
     "prompt": "Emily Ratajkowski emerges from the crystalline waters in a white ruffled strapless one piece swimsuit resembling Helmut Newton's provocative glamour photography.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/emily-ratajkowski-emerges-from-the-crystalline-wat.webp",
+        "original_path": "images/auraflow_llm/emily-ratajkowski-emerges-from-the-crystalline-wat.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/emily-ratajkowski-emerges-from-the-crystalline-wat.webp",
         "original_path": "images/auraflow/emily-ratajkowski-emerges-from-the-crystalline-wat.png",
         "subfolder": "auraflow",
@@ -13303,6 +14647,13 @@
   {
     "prompt": "1. Suki Waterhouse poses playfully in a frilly pink polka dot bikini, hair blowing in the breeze, reminiscent of Tim Walker's whimsical and romantic style.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.webp",
+        "original_path": "images/auraflow_llm/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.webp",
         "original_path": "images/auraflow/1-suki-waterhouse-poses-playfully-in-a-frilly-pink.png",
@@ -13373,6 +14724,13 @@
     "prompt": "2. Stunning portrait of Barbara Palvin rising elegantly from the ocean waters in a sleek black one-piece swimsuit, wet hair slicked back, lit dramaticially like one of Rankin's edgy images.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/2-stunning-portrait-of-barbara-palvin-rising-elega.webp",
+        "original_path": "images/auraflow_llm/2-stunning-portrait-of-barbara-palvin-rising-elega.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/2-stunning-portrait-of-barbara-palvin-rising-elega.webp",
         "original_path": "images/auraflow/2-stunning-portrait-of-barbara-palvin-rising-elega.png",
         "subfolder": "auraflow",
@@ -13441,6 +14799,13 @@
   {
     "prompt": "3. Fierce beauty Anna Ewers gazes intensely at the camera wearing a colorblock bandeau bikini, sun-kissed skin glowing, posed dynamically as seen in Marco Grob's work.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.webp",
+        "original_path": "images/auraflow_llm/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.webp",
         "original_path": "images/auraflow/3-fierce-beauty-anna-ewers-gazes-intensely-at-the-.png",
@@ -13511,6 +14876,13 @@
     "prompt": "4. Serene beauty shots of Taylor Hill wearing a flowing white crochet cover-up over a green bikini, tropical flowers in her windswept hair, photographed in Bruce Weber's natural style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.webp",
+        "original_path": "images/auraflow_llm/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.webp",
         "original_path": "images/auraflow/4-serene-beauty-shots-of-taylor-hill-wearing-a-flo.png",
         "subfolder": "auraflow",
@@ -13580,6 +14952,13 @@
     "prompt": "5. Athletic model Ashley Graham strikes a yoga pose on the beach in a sporty colorblock one-piece swimsuit, reminiscent of Russel James' uplifiting vision.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/5-athletic-model-ashley-graham-strikes-a-yoga-pose.webp",
+        "original_path": "images/auraflow_llm/5-athletic-model-ashley-graham-strikes-a-yoga-pose.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/5-athletic-model-ashley-graham-strikes-a-yoga-pose.webp",
         "original_path": "images/auraflow/5-athletic-model-ashley-graham-strikes-a-yoga-pose.png",
         "subfolder": "auraflow",
@@ -13641,6 +15020,13 @@
   {
     "prompt": "6. Glamorous editorial shoot of Rosie Huntington-Whiteley lounging on a yacht wearing a sparkling silver one-shoulder monokini resembling the lush images of Sante D'Orazio.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/6-glamorous-editorial-shoot-of-rosie-huntington-wh.webp",
+        "original_path": "images/auraflow_llm/6-glamorous-editorial-shoot-of-rosie-huntington-wh.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/6-glamorous-editorial-shoot-of-rosie-huntington-wh.webp",
         "original_path": "images/auraflow/6-glamorous-editorial-shoot-of-rosie-huntington-wh.png",
@@ -13711,6 +15097,13 @@
     "prompt": "7. Bella Hadid gazes longingly towards the ocean, wearing a pink ruffled one-piece swimsuit, windswept hair, reminiscent of Glen Luchford's romantic beach scenes.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/7-bella-hadid-gazes-longingly-towards-the-ocean-we.webp",
+        "original_path": "images/auraflow_llm/7-bella-hadid-gazes-longingly-towards-the-ocean-we.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/7-bella-hadid-gazes-longingly-towards-the-ocean-we.webp",
         "original_path": "images/auraflow/7-bella-hadid-gazes-longingly-towards-the-ocean-we.png",
         "subfolder": "auraflow",
@@ -13772,6 +15165,13 @@
   {
     "prompt": "8. Stunning close-ups of Lily Aldridge emergeing from the water in slow motion, wearing a simple white triangle bikini resembling the iconic shots of Herb Ritts.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.webp",
+        "original_path": "images/auraflow_llm/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.webp",
         "original_path": "images/auraflow/8-stunning-close-ups-of-lily-aldridge-emergeing-fr.png",
@@ -13835,6 +15235,13 @@
     "prompt": "9. Fierce black and white portraits of Karlie Kloss posing in a knit cutout monokini swimsuit on the beach dunes, wind in her hair, in Peter Lindbergh's timeless style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/9-fierce-black-and-white-portraits-of-karlie-kloss.webp",
+        "original_path": "images/auraflow_llm/9-fierce-black-and-white-portraits-of-karlie-kloss.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/9-fierce-black-and-white-portraits-of-karlie-kloss.webp",
         "original_path": "images/auraflow/9-fierce-black-and-white-portraits-of-karlie-kloss.png",
         "subfolder": "auraflow",
@@ -13896,6 +15303,13 @@
   {
     "prompt": "10. Bright sun-drenched photos of model Toni Garrn smiling vibrantly, splashing in the crystal blue waters wearing a colorful patterned bikini, reminiscent of Arthur Elgort's joyful vision.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/10-bright-sun-drenched-photos-of-model-toni-garrn-.webp",
+        "original_path": "images/auraflow_llm/10-bright-sun-drenched-photos-of-model-toni-garrn-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/10-bright-sun-drenched-photos-of-model-toni-garrn-.webp",
         "original_path": "images/auraflow/10-bright-sun-drenched-photos-of-model-toni-garrn-.png",
@@ -13966,6 +15380,13 @@
     "prompt": "11. Serene island shoot of Jourdan Dunn posing peacefully in a belted burnt orange swimsuit coverup, sunlight filtering through palm fronds above her, echoing the tranquil scenes of Norman Jean Roy.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/11-serene-island-shoot-of-jourdan-dunn-posing-peac.webp",
+        "original_path": "images/auraflow_llm/11-serene-island-shoot-of-jourdan-dunn-posing-peac.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/11-serene-island-shoot-of-jourdan-dunn-posing-peac.webp",
         "original_path": "images/auraflow/11-serene-island-shoot-of-jourdan-dunn-posing-peac.png",
         "subfolder": "auraflow",
@@ -14034,6 +15455,13 @@
   {
     "prompt": "12. Stunning underwater fine art shoot of Emily Ratajkowski suspended ethereally wearing a flowing glitter swimsuit, hair swirling gently, resembling the work of Matthias Vriens.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/12-stunning-underwater-fine-art-shoot-of-emily-rat.webp",
+        "original_path": "images/auraflow_llm/12-stunning-underwater-fine-art-shoot-of-emily-rat.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/12-stunning-underwater-fine-art-shoot-of-emily-rat.webp",
         "original_path": "images/auraflow/12-stunning-underwater-fine-art-shoot-of-emily-rat.png",
@@ -14104,6 +15532,13 @@
     "prompt": "13. Playful sun-filled beauty shots of Miranda Kerr building sandcastles on the beach wearing polka dot retro high-waisted bikini bottoms, reminiscent of Sebastian Faena's lightheartedness.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/13-playful-sun-filled-beauty-shots-of-miranda-kerr.webp",
+        "original_path": "images/auraflow_llm/13-playful-sun-filled-beauty-shots-of-miranda-kerr.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/13-playful-sun-filled-beauty-shots-of-miranda-kerr.webp",
         "original_path": "images/auraflow/13-playful-sun-filled-beauty-shots-of-miranda-kerr.png",
         "subfolder": "auraflow",
@@ -14172,6 +15607,13 @@
   {
     "prompt": "14. Travel editorial shoot with Nina Agdal lounging casually atop a surfboard in the tropical waters wearing a red strappy one piece swimsuit, bringing to mind the lifestyle images of Raphael Mazzucco.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/14-travel-editorial-shoot-with-nina-agdal-lounging.webp",
+        "original_path": "images/auraflow_llm/14-travel-editorial-shoot-with-nina-agdal-lounging.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/14-travel-editorial-shoot-with-nina-agdal-lounging.webp",
         "original_path": "images/auraflow/14-travel-editorial-shoot-with-nina-agdal-lounging.png",
@@ -14242,6 +15684,13 @@
     "prompt": "15. Gorgeous black and white portrait study of Adriana Lima's serene expression as she gazes towards the sunset, wearing an embroidered white crochet coverup over her swimsuit, softly lit like one of Giampaolo Sgura's artful images.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/15-gorgeous-black-and-white-portrait-study-of-adri.webp",
+        "original_path": "images/auraflow_llm/15-gorgeous-black-and-white-portrait-study-of-adri.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/15-gorgeous-black-and-white-portrait-study-of-adri.webp",
         "original_path": "images/auraflow/15-gorgeous-black-and-white-portrait-study-of-adri.png",
         "subfolder": "auraflow",
@@ -14311,6 +15760,13 @@
     "prompt": "16. Stunning backlit silhouette shots of Lais Ribeiro wearing an ombre pastel one-shoulder one piece swimsuit, walking through the surf from the oceanside cliffs, resembling the romantic scenes shot by Russell James.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/16-stunning-backlit-silhouette-shots-of-lais-ribei.webp",
+        "original_path": "images/auraflow_llm/16-stunning-backlit-silhouette-shots-of-lais-ribei.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/16-stunning-backlit-silhouette-shots-of-lais-ribei.webp",
         "original_path": "images/auraflow/16-stunning-backlit-silhouette-shots-of-lais-ribei.png",
         "subfolder": "auraflow",
@@ -14372,6 +15828,13 @@
   {
     "prompt": "17. Light airy photos of Liu Wen in a flowing floral swimsuit cover-up posing under swaying palm trees near the shoreline, warm sunlight on her skin, evocative of Carter Smith's tropical visions.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.webp",
+        "original_path": "images/auraflow_llm/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.webp",
         "original_path": "images/auraflow/17-light-airy-photos-of-liu-wen-in-a-flowing-flora.png",
@@ -14442,6 +15905,13 @@
     "prompt": "18. Golden hour isolated shots on the beach of Joan Smalls wearing a glittering deep red one piece swimsuit, eyes closed serenely, palm trees blurred in background, similar to Frederic Pinet's style.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/18-golden-hour-isolated-shots-on-the-beach-of-joan.webp",
+        "original_path": "images/auraflow_llm/18-golden-hour-isolated-shots-on-the-beach-of-joan.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/18-golden-hour-isolated-shots-on-the-beach-of-joan.webp",
         "original_path": "images/auraflow/18-golden-hour-isolated-shots-on-the-beach-of-joan.png",
         "subfolder": "auraflow",
@@ -14504,6 +15974,13 @@
     "prompt": "19. Sensual beauty shots of Isabeli Fontana rising from the waters dripping wet in a shimmery silver cutout monokini swimsuit, slick back hair, resembling the sultry visions of Terry Richardson.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/19-sensual-beauty-shots-of-isabeli-fontana-rising-.webp",
+        "original_path": "images/auraflow_llm/19-sensual-beauty-shots-of-isabeli-fontana-rising-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/19-sensual-beauty-shots-of-isabeli-fontana-rising-.webp",
         "original_path": "images/auraflow/19-sensual-beauty-shots-of-isabeli-fontana-rising-.png",
         "subfolder": "auraflow",
@@ -14558,6 +16035,13 @@
   {
     "prompt": "20. Stunning intimate portraiture of Sasha Luss posing confidently in a vibrant orange bandeau bikini top, sheer cover-up around her waist, gazing into camera up close, reminiscent of Solve Sundsbo's fearless subjects.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/20-stunning-intimate-portraiture-of-sasha-luss-pos.webp",
+        "original_path": "images/auraflow_llm/20-stunning-intimate-portraiture-of-sasha-luss-pos.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/20-stunning-intimate-portraiture-of-sasha-luss-pos.webp",
         "original_path": "images/auraflow/20-stunning-intimate-portraiture-of-sasha-luss-pos.png",
@@ -14621,6 +16105,13 @@
     "prompt": "21. High fashion angular shots of Edie Campbell striking commanding poses in a neon pink one shoulder maillot swimsuit, lit dramatically with a low horizon reminiscent of Nick Knight's groundbreaking photography.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/21-high-fashion-angular-shots-of-edie-campbell-str.webp",
+        "original_path": "images/auraflow_llm/21-high-fashion-angular-shots-of-edie-campbell-str.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/21-high-fashion-angular-shots-of-edie-campbell-str.webp",
         "original_path": "images/auraflow/21-high-fashion-angular-shots-of-edie-campbell-str.png",
         "subfolder": "auraflow",
@@ -14682,6 +16173,13 @@
   {
     "prompt": "22. Whimsical lifestyle shoot of Sigrid Agren playfully hanging out with friends on a yacht while wearing a retro red polka dot bikini with sweetheart neckline reminiscent of Sebastian Kim's cheerful scenes.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.webp",
+        "original_path": "images/auraflow_llm/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.webp",
         "original_path": "images/auraflow/22-whimsical-lifestyle-shoot-of-sigrid-agren-playf.png",
@@ -14752,6 +16250,13 @@
     "prompt": "23. Sensual shots of Irina Shayk emerging from the ocean waves in slow motion, water droplets trailing down her skin as she tilts her head back wearing a sleek white one piece resembling Peter Lindbergh's iconic 90's supermodel portraits.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/23-sensual-shots-of-irina-shayk-emerging-from-the-.webp",
+        "original_path": "images/auraflow_llm/23-sensual-shots-of-irina-shayk-emerging-from-the-.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/23-sensual-shots-of-irina-shayk-emerging-from-the-.webp",
         "original_path": "images/auraflow/23-sensual-shots-of-irina-shayk-emerging-from-the-.png",
         "subfolder": "auraflow",
@@ -14806,6 +16311,13 @@
   {
     "prompt": "24. Travel editorial shoot with Joan Smalls lounging relaxed at a tropical resort poolside in a colorful patterned tankini swimsuit soaking up the sun, reminiscent of Bryce Duffy's lifestyle aesthetic.",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/24-travel-editorial-shoot-with-joan-smalls-loungin.webp",
+        "original_path": "images/auraflow_llm/24-travel-editorial-shoot-with-joan-smalls-loungin.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/24-travel-editorial-shoot-with-joan-smalls-loungin.webp",
         "original_path": "images/auraflow/24-travel-editorial-shoot-with-joan-smalls-loungin.png",
@@ -14876,6 +16388,13 @@
     "prompt": "25. Timeless black and white beauty shots of Natalia Vodianova's graceful silhouette posing on the deserted beach in a flowing lace swimsuit coverup, windswept wavy hair, lit like one of Paolo Roversi's romantic visions.",
     "images": [
       {
+        "webp_path": "webp_images/auraflow_llm/25-timeless-black-and-white-beauty-shots-of-natali.webp",
+        "original_path": "images/auraflow_llm/25-timeless-black-and-white-beauty-shots-of-natali.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
+      {
         "webp_path": "webp_images/auraflow/25-timeless-black-and-white-beauty-shots-of-natali.webp",
         "original_path": "images/auraflow/25-timeless-black-and-white-beauty-shots-of-natali.png",
         "subfolder": "auraflow",
@@ -14944,6 +16463,13 @@
   {
     "prompt": "lily pichu, An anime Nendoroid of lily pichu, figurine, detailed product photo",
     "images": [
+      {
+        "webp_path": "webp_images/auraflow_llm/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.webp",
+        "original_path": "images/auraflow_llm/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.png",
+        "subfolder": "auraflow_llm",
+        "width": 1024,
+        "height": 1024
+      },
       {
         "webp_path": "webp_images/auraflow/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.webp",
         "original_path": "images/auraflow/lily-pichu-an-anime-nendoroid-of-lily-pichu-figuri.png",
