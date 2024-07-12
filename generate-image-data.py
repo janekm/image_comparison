@@ -90,7 +90,6 @@ class ImageProcessingApp(App):
         
         thumbnail.save(thumbnail_path, 'WEBP')
         prompt_entry["thumbnail"] = os.path.relpath(thumbnail_path, os.path.dirname(output_json))
-        prompt_entry["images"].sort(key=lambda x: (x["subfolder"], x["webp_path"]))
         
         self.call_from_thread(self.query_one(Log).write, f"Created thumbnail for prompt: {prompt_entry['prompt']}\n")
         return prompt_entry
@@ -165,6 +164,16 @@ class ImageProcessingApp(App):
                 })
 
         self.call_from_thread(self.query_one("#thumbnail_progress").update, total=len(data))
+
+        # Define the desired order of subfolders
+        subfolder_order = ["auraflow", "StableCascade", "kolors", "sd3_upsampled", "hghd_play_enh_hd", "hunyuandit", "ideogram", "dalle3", "midjourney"]
+
+        # Sort images within each prompt entry
+        for prompt_entry in data:
+            prompt_entry["images"].sort(key=lambda x: (
+                subfolder_order.index(x["subfolder"]) if x["subfolder"] in subfolder_order else len(subfolder_order),
+                x["webp_path"]
+            ))
 
         # Threaded thumbnail creation
         with ThreadPoolExecutor() as thumbnail_executor:

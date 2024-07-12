@@ -2,6 +2,7 @@ import os
 import re
 import shutil
 
+MAX_NUM = 220
 def read_prompts(file_path):
     prompts = {}
     with open(file_path, 'r') as f:
@@ -33,6 +34,11 @@ def extract_number(filename):
     match = re.match(r'^morbuto_(\d+)_-_', filename)
     if match:
         return match.group(1)
+    match = re.match(r'^(\d+) - ', filename)
+    if int(match.group(1)) > MAX_NUM:
+        return str(int(match.group(1)) - MAX_NUM  + 1)
+    if match:
+        return match.group(1)
     
     return None
 
@@ -47,6 +53,7 @@ def rename_and_copy_files(input_dir, output_dir, prompts_file):
     for filename in os.listdir(input_dir):
         if filename.lower().endswith(image_extensions):
             number = extract_number(filename)
+            print(f"number: {number}")
             if number and number in prompts:
                 prompt = prompts[number]
                 _, extension = os.path.splitext(filename)
@@ -57,10 +64,11 @@ def rename_and_copy_files(input_dir, output_dir, prompts_file):
                 print(f"Copied and renamed: {filename} -> {new_filename}")
             else:
                 print(f"No prompt found for file or invalid format: {filename}")
+    # print(prompts)
 
 # Usage
-input_dir = 'images_in/midjourney'
-output_dir = 'images/midjourney'
+input_dir = 'images_in/StableCascade'
+output_dir = 'images/StableCascade'
 prompts_file = 'numbered_prompts.txt'
 
 rename_and_copy_files(input_dir, output_dir, prompts_file)
