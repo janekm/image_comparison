@@ -394,7 +394,7 @@ def create_job(prompt):
             }
         ]
     }    
-    newdawnplus_data = {
+    helloworld_data = {
         "request_id": hashlib.md5((str(int(time.time()))+prompt).encode()).hexdigest(),
         "stages": [
             {
@@ -415,29 +415,12 @@ def create_job(prompt):
                         }
                     ],
                     "negativePrompts": [{ "text": "hands, deviantart" }],
-                    "sampler": "DPM++ 3M SDE Exponential",
+                    "sampler": "Euler a",
                     "sdVae": "None",
                     "steps": 40,
-                    "sd_model": "642019060365894429",
+                    "sd_model": "741232920867395378",
                     "clip_skip": 2,
-                    "cfg_scale": 7,
-                    "lora": {
-                    "items": [
-                        {
-                            "loraModel": "680564184234250697",
-                            "weight": 0.5,
-                            "loraAccessKey": "ad5688b9-2c47-9386-a620-c7b1ea3cfa37"
-                        },
-                        {
-                            "loraModel": "648321710124311246",
-                            "weight": 1.1
-                        },
-                        {
-                            "loraModel": "667484492694498117",
-                            "weight": 0.7
-                        }
-                    ]
-                }
+                    "cfg_scale": 7
                 }
             },
             {
@@ -451,7 +434,7 @@ def create_job(prompt):
             }
         ]
     }
-    data = sd3_data
+    data = helloworld_data
 
     log_info(f"request_id: {data['request_id']}")
     body = json.dumps(data)

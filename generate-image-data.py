@@ -166,7 +166,7 @@ class ImageProcessingApp(App):
         self.call_from_thread(self.query_one("#thumbnail_progress").update, total=len(data))
 
         # Define the desired order of subfolders
-        subfolder_order = ["auraflow_llm", "auraflow", "StableCascade", "kolors", "sd3_upsampled", "hghd_play_enh_hd", "hunyuandit", "ideogram", "dalle3", "midjourney"]
+        subfolder_order = ["auraflow", "helloworldxl_v7", "StableCascade", "kolors", "sd3_upsampled", "hghd_play_enh_hd", "hunyuandit", "ideogram", "dalle3", "midjourney"]
 
         # Sort images within each prompt entry
         for prompt_entry in data:
