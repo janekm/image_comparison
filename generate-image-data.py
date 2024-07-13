@@ -131,7 +131,7 @@ class ImageProcessingApp(App):
             futures = []
             for root, _, files in os.walk(self.image_root_dir):
                 for file in files:
-                    if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp')):
+                    if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp')):
                         file_prefix = file.split('.')[0].lower()
                         if file_prefix in prompt_prefixes:
                             image_path = os.path.join(root, file)
@@ -166,7 +166,7 @@ class ImageProcessingApp(App):
         self.call_from_thread(self.query_one("#thumbnail_progress").update, total=len(data))
 
         # Define the desired order of subfolders
-        subfolder_order = ["auraflow", "helloworldxl_v7", "StableCascade", "kolors", "sd3_upsampled", "hghd_play_enh_hd", "hunyuandit", "ideogram", "dalle3", "midjourney"]
+        subfolder_order = ["auraflow", "kolors", "SD3M", "SD3_Ultra", "extrarealisticxl_2s", "helloworldxl_v7", "StableCascade", "hghd_play_enh_hd", "hunyuandit", "ideogram", "dalle3", "midjourney"]
 
         # Sort images within each prompt entry
         for prompt_entry in data:

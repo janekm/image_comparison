@@ -415,10 +415,10 @@ def create_job(prompt):
                         }
                     ],
                     "negativePrompts": [{ "text": "hands, deviantart" }],
-                    "sampler": "Euler a",
+                    "sampler": "DPM++ 2S a Karras",
                     "sdVae": "None",
                     "steps": 40,
-                    "sd_model": "741232920867395378",
+                    "sd_model": "666150205269367046",
                     "clip_skip": 2,
                     "cfg_scale": 7
                 }

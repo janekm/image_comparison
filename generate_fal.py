@@ -48,7 +48,8 @@ class ImageGenerationApp(App):
     async def generate_image(self, prompt):
         try:
             handler = await fal_client.submit_async(
-                "fal-ai/aura-flow",
+                # "fal-ai/aura-flow",
+                "fal-ai/pixart-sigma",
                 arguments={"prompt": prompt},
             )
 
