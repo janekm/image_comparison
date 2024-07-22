@@ -42,6 +42,30 @@ class UIMessage:
         self.type = type
         self.data = kwargs
 
+
+import re
+import random
+
+def generate_prompt(template):
+    def process_section(match):
+        content = match.group(1)
+        
+        # Check if it's an optional section
+        optional_match = re.match(r'0-1\$\$(.*)', content)
+        if optional_match:
+            content = optional_match.group(1)
+            # 50% chance to include the optional section
+            if random.random() < 0.5:
+                return ''
+        
+        # Split options and remove any leading/trailing whitespace
+        options = [option.strip() for option in content.split('|')]
+        return random.choice(options)
+
+    # Use regex to find all sections enclosed in curly braces
+    pattern = r'\{([^{}]+)\}'
+    return re.sub(pattern, process_section, template)
+
 class PromptToolkitUI:
     def __init__(self, total_tasks):
         self.total_tasks = total_tasks
@@ -241,10 +265,10 @@ def generate_filename(prompt, output_dir):
     short_prompt = re.sub(r'[-\s]+', '-', short_prompt).strip('-')[:50]
     base_filename = f"{short_prompt}.jpg"
     filename = base_filename
-    counter = 1
-    while os.path.exists(os.path.join(output_dir, filename)):
-        filename = f"{short_prompt}_{counter}.jpg"
-        counter += 1
+    # counter = 1
+    # while os.path.exists(os.path.join(output_dir, filename)):
+    #     filename = f"{short_prompt}_{counter}.jpg"
+    #     counter += 1
     return filename
 
 def create_job(prompt):
@@ -394,7 +418,7 @@ def create_job(prompt):
             }
         ]
     }    
-    helloworld_data = {
+    newdawnplus_data = {
         "request_id": hashlib.md5((str(int(time.time()))+prompt).encode()).hexdigest(),
         "stages": [
             {
@@ -411,16 +435,33 @@ def create_job(prompt):
                     "height": 1024,
                     "prompts": [
                         {
-                            "text": prompt
+                            "text": "source_real, score_9, score_8_up, score_7_up, " + prompt + ""
                         }
                     ],
-                    "negativePrompts": [{ "text": "hands, deviantart" }],
-                    "sampler": "DPM++ 2S a Karras",
-                    "sdVae": "None",
+                    "negativePrompts": [{ "text": "score_6, score_5, score_4, score_3, score_1, source_furry, source_comic" }],
+                    "sampler": "DPM++ 3M SDE Exponential",
+                    "sdVae": "sdxl-vae-fp16-fix.safetensors",
                     "steps": 40,
-                    "sd_model": "666150205269367046",
+                    "sd_model": "748608865773394134", #"742615556739557045", #"727543343971611387", #"742615556739557045", # "742615556739557045",
                     "clip_skip": 2,
-                    "cfg_scale": 7
+                    "cfg_scale": 7,
+                    "lora": {
+                    "items": [
+                        {
+                            "loraModel": "680564184234250697",
+                            "weight": 0.5,
+                            "loraAccessKey": "ad5688b9-2c47-9386-a620-c7b1ea3cfa37"
+                        },
+                        {
+                            "loraModel": "648321710124311246",
+                            "weight": 1.1
+                        },
+                        {
+                            "loraModel": "667484492694498117",
+                            "weight": 0.7
+                        }
+                    ]
+                }
                 }
             },
             {
@@ -434,7 +475,7 @@ def create_job(prompt):
             }
         ]
     }
-    data = helloworld_data
+    data = newdawnplus_data
 
     log_info(f"request_id: {data['request_id']}")
     body = json.dumps(data)
@@ -613,23 +654,64 @@ def main_loop(_tasks, _max_parallel):
 
     return completed_tasks
 
+import re
+import random
+
+def generate_prompt(template):
+    def process_section(match):
+        content = match.group(1)
+        
+        # Check if it's a section with a specified range
+        range_match = re.match(r'(\d+)-(\d+)\$\$(.*?)(?:\$\$(.*))?$', content)
+        if range_match:
+            min_count, max_count = map(int, range_match.group(1, 2))
+            options_content = range_match.group(3)
+            separator = range_match.group(4) if range_match.group(4) else ', '
+            
+            options = [option.strip() for option in options_content.split('|')]
+            count = random.randint(min_count, max_count)
+            chosen = random.sample(options, min(count, len(options)))
+            return separator.join(chosen)
+        
+        # Regular section
+        options = [option.strip() for option in content.split('|')]
+        return random.choice(options)
+
+    # Use regex to find all sections enclosed in curly braces
+    pattern = r'\{([^{}]+)\}'
+    return re.sub(pattern, process_section, template)
+
+
+
 def main():
     parser = argparse.ArgumentParser(description="Generate images from prompts in a file")
     parser.add_argument("prompt_file", help="File containing prompts, one per line")
     parser.add_argument("output_dir", help="Directory to save generated images")
     parser.add_argument("--parallel", type=int, default=1, help="Number of parallel tasks to run")
+    parser.add_argument("--template-prompts", type=int, default=0, help="Use template for prompt generation")
     args = parser.parse_args()
 
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
 
+    template_prompts = []
     with open(args.prompt_file, 'r') as file:
         prompts = [line.strip() for line in file if line.strip()]
+    if args.template_prompts > 0:
+        for i in range(args.template_prompts):
+            for prompt in prompts:
+                template_prompts.append(generate_prompt(prompt))
+    if args.template_prompts > 0:
+        prompts = template_prompts
 
     tasks = []
     for prompt in prompts:
         filename = generate_filename(prompt, args.output_dir)
         output_path = os.path.join(args.output_dir, filename)
+        print(f"Processing prompt: {prompt}, output: {output_path}")
+        if os.path.exists(output_path):
+            print(f"Skipping prompt '{prompt}' as output file already exists.")
+            continue
         tasks.append({
             'prompt': prompt,
             'output_path': output_path
